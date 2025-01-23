@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Conrad Halling
 
-tagline: I write here about books, music, running, and bicycle touring.
+tagline: books, music, running, and bicycle touring
 
 description: >- # used by seo meta and the atom feed
   This is a blog about books, music, running, and bicycle touring.
@@ -101,7 +101,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/avatar/avatar-640x640.png
+avatar: /assets/img/avatar/avatar-320x320.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
