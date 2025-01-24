@@ -61,88 +61,59 @@
 /* For the original styles, comment out all code below this point. */
 
 
-// /* green light/dark skins */
-// @use 'skins/green_light';
-// @use 'skins/green_dark';
-
-// html {
-//   @media (prefers-color-scheme: light) {
-//     &:not([data-mode]),
-//     &[data-mode='light'] {
-//       @include green_light.styles;
-//     }
-
-//     &[data-mode='dark'] {
-//       @include green_dark.styles;
-//     }
-//   }
-
-//   @media (prefers-color-scheme: dark) {
-//     &:not([data-mode]),
-//     &[data-mode='dark'] {
-//       @include green_dark.styles;
-//     }
-
-//     &[data-mode='light'] {
-//       @include green_light.styles;
-//     }
-//   }
-// }
-
-
-// /* electric blue light/dark skins */
-// @use 'skins/electric_blue_light';
-// @use 'skins/electric_blue_dark';
-
-// html {
-//   @media (prefers-color-scheme: light) {
-//     &:not([data-mode]),
-//     &[data-mode='light'] {
-//       @include electric_blue_light.styles;
-//     }
-
-//     &[data-mode='dark'] {
-//       @include electric_blue_dark.styles;
-//     }
-//   }
-
-//   @media (prefers-color-scheme: dark) {
-//     &:not([data-mode]),
-//     &[data-mode='dark'] {
-//       @include electric_blue_dark.styles;
-//     }
-
-//     &[data-mode='light'] {
-//       @include electric_blue_light.styles;
-//     }
-//   }
-// }
-
-
-/* blue light/dark skins */
-@use 'skins/blue_light';
-@use 'skins/blue_dark';
+/* green light/dark skins */
+@use 'skins/green_light';
+@use 'skins/green_dark';
 
 html {
   @media (prefers-color-scheme: light) {
     &:not([data-mode]),
     &[data-mode='light'] {
-      @include blue_light.styles;
+      @include green_light.styles;
     }
 
     &[data-mode='dark'] {
-      @include blue_dark.styles;
+      @include green_dark.styles;
     }
   }
 
   @media (prefers-color-scheme: dark) {
     &:not([data-mode]),
     &[data-mode='dark'] {
-      @include blue_dark.styles;
+      @include green_dark.styles;
     }
 
     &[data-mode='light'] {
-      @include blue_light.styles;
+      @include green_light.styles;
     }
   }
 }
+
+
+// /* blue light/dark skins */
+// @use 'skins/blue_light';
+// @use 'skins/blue_dark';
+
+// html {
+//   @media (prefers-color-scheme: light) {
+//     &:not([data-mode]),
+//     &[data-mode='light'] {
+//       @include blue_light.styles;
+//     }
+
+//     &[data-mode='dark'] {
+//       @include blue_dark.styles;
+//     }
+//   }
+
+//   @media (prefers-color-scheme: dark) {
+//     &:not([data-mode]),
+//     &[data-mode='dark'] {
+//       @include blue_dark.styles;
+//     }
+
+//     &[data-mode='light'] {
+//       @include blue_light.styles;
+//     }
+//   }
+// }

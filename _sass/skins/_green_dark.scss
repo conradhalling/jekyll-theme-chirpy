@@ -15,6 +15,7 @@
   --bg-color-020: #293d3d; // not used
   --bg-color-025: #334d4d; // not used
   --bg-color-030: #3d5c5c;
+  --bg-color-050: #669999;
   
   /*
     Define the standard colors for text.
@@ -43,6 +44,7 @@
   --main-bg: var(--bg-color-005);
   --card-bg: var(--bg-color-010);
   --main-border-color: var(--bg-color-030);
+  --topbar-bg: var(--bg-color-005);
 
   /* Sidebar */
   --sidebar-bg: var(--bg-color-010);
@@ -69,15 +71,36 @@
   /* Post table of contents highlight and hover */
   --toc-highlight: var(--text-color-050);
 
-  /* :hover */
-  .content {
-	  a {
-	    &:not(.img-link) {
-	      &:hover {
-	        color: var(--text-color-050) !important;
-	        border-bottom: 1px solid var(--text-color-050) !important;
-	      }
-	    }
-	  }
-	}
+  /* hover over links in... */
+  /* post's content */
+  .content a:not(.img-link):hover,
+  /* post's "recently updated" list */
+  #access-lastmod a:hover,
+  /* post's breadcrumb */
+  #topbar #breadcrumb a:hover,
+  /* post's category */
+  .post-meta a:not([class]):hover,
+  /* post's tags */
+  .post-tags .post-tag:hover,
+  /* post's CC license */
+  .post-tail-wrapper .license-wrapper > a:hover,
+  /* post's author, Chirpy, and Jekyll */
+  footer a:hover,
+  #page-category a:hover
+  {
+    color: var(--text-color-050) !important;
+    border-bottom: 1px solid var(--text-color-050) !important;
+  }
+
+  /* hide the share icons at bottom of post */
+  div .share-wrapper {
+    display: none !important;
+  }
+
+  /* hover over buttons to adjacent posts */
+  /* the text always stays white */
+  .btn.btn-outline-primary:not(.disabled):hover {
+    background-color: var(--bg-color-050);
+    border-color: var(--bg-color-030) !important;
+  }
 }
