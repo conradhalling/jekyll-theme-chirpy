@@ -1,288 +1,115 @@
 ---
 ---
 
+/*
+  By default, Jekyll will look for Sass partials in the _sass directory relative
+  to your site’s source directory.
+*/
+
 {%- if jekyll.environment == 'production' -%}
 @use 'main.bundle';
 {%- else -%}
 @use 'main';
-{%- endif -%}
+{% endif %}
 
-// - These custom styles attempt to regularize and organize color
-//   specifications, to increase contrast between text and the background, and
-//   to add a hue to the colors.
-//
-// - There are four combinations to deal with:
-//     system: dark   page toggle: dark
-//     system: dark   page toggle: light
-//     system: light  page toggle light
-//     system: light  page toggle: dark
-// - These colors are based on #669999.
-// - Dark mode background color levels:
-//   - #0a0f0f ( 5%): home page body, post body
-//   - #141f1f (10%): sidebar, cards on Home
-//   - #1f2e2e (15%): active tab on sidebar, hover over inactive tab, hover over
-//     card on Home, sidebar-hover-bg, sidebar-btn-bg
-//   - #293d3d (20%):
-//   - #334d4d (25%): search widget activated border
-//   - #3d5c5c (30%): borders
-// - Dark mode foreground text color levels:
-//   - #ffffff site titled color, site subtitle color, sidebar active color
-//   - #aaaaaa unselected tab, button color
-// See https://github.com/cotes2020/jekyll-theme-chirpy/discussions/1838.
-// So much repetition is required here!
+/*
+  - These custom styles attempt to regularize and organize color specifications,
+    to increase contrast between text and the background, and to add a theme hue
+    to the page.
+  - For the structure of this file, see
+    https://github.com/cotes2020/jekyll-theme-chirpy/discussions/1838.
+  - These styles override styles from:
+      - _sass/base/_base.scss
+      - _sass/themes/_light.scss
+      - _sass/themes/_dark.scss
+  - data-mode is a global custom data attribute with values 'light' or 'dark'
+  - There are four combinations to deal with:
+    - system: dark   [data-mode]: dark
+    - system: dark   [data-mode]: light
+    - system: light  [data-mode]: light
+    - system: light  [data-mode]: dark
+
+  - dark mode
+    - background luminosity levels:
+      - --bg-color-005      5% luminosity:  body
+      - --bg-color-010     10% luminosity:  sidebar, cards on Home
+      - --bg-color-015     15% luminosity:  active tab on sidebar, hover over
+        inactive tab, hover over card on Home, sidebar-hover-bg, sidebar-btn-bg
+      - --bg-color-020     20% luminosity:  not used
+      - --bg-color-025     25% luminosity:  intended for search widget activated
+        border
+      - --bg-color-030     30% luminosity:  all borders
+    - text luminosity levels:
+      - --text-color-100  100% luminosity:  all text
+      - --text-color-075   75% luminosity:  unselected tab, unselected button
+
+  - light mode
+    - background luminosity levels:
+      - --bg-color-095     95% luminosity:  body
+      - --bg-color-090     90% luminosity:  sidebar, cards on Home
+      - --bg-color-085     85% luminosity:  active tab on sidebar, hover over
+        inactive tab, hover over card on Home, sidebar-hover-bg, sidebar-btn-bg
+      - --bg-color-080     80% luminosity:  not used
+      - --bg-color-075     75% luminosity:  intended for search widget activated
+        border
+      - --bg-color-070     70% luminosity:  all borders
+    - text luminosity levels:
+      - --text-color-000    0% luminosity:  all text
+      - --text-color-025   25% luminosity:  unselected tab, unselected button
+*/
+
+// /* green light/dark skins */
+// @use 'skins/green_light';
+// @use 'skins/green_dark';
+
+// html {
+//   @media (prefers-color-scheme: light) {
+//     &:not([data-mode]),
+//     &[data-mode='light'] {
+//       @include green_light.styles;
+//     }
+
+//     &[data-mode='dark'] {
+//       @include green_dark.styles;
+//     }
+//   }
+
+//   @media (prefers-color-scheme: dark) {
+//     &:not([data-mode]),
+//     &[data-mode='dark'] {
+//       @include green_dark.styles;
+//     }
+
+//     &[data-mode='light'] {
+//       @include green_light.styles;
+//     }
+//   }
+// }
+
+/* blue light/dark skins */
+@use 'skins/blue_light';
+@use 'skins/blue_dark';
 
 html {
-  @media (prefers-color-scheme: dark) {
-    &:not([data-mode]),
-    &[data-mode='dark'] {
-      /*
-        color-scheme is dark; [data-mode] is 'dark':
-        Define the standard colors for backgrounds.
-        Here, the numbers indicate percent darkness.
-      */
-      color-scheme: dark;
-
-      /*
-        Define the standard colors for backgrounds.
-        Here, the numbers indicate percent brightness.
-      */
-      --bg-color-005: #0a0f0f;
-      --bg-color-010: #141f1f;
-      --bg-color-015: #1f2e23;
-      --bg-color-020: #293d3d;
-      --bg-color-025: #334d4d;
-      --bg-color-030: #3d5c5c;
-      
-      /* Define the standard colors for text. */
-      --text-color-100: #ffffff;
-      --text-dolor-090: #e0ebeb;
-      --text-color-080: #c2d6d6; // not used (yet)
-      --text-color-075: #b3cccc;
-
-      /* All pages */
-      --heading-color: var(--text-color-100);
-      --text-color: var(--text-color-100);
-      --text-muted-color: var(--text-color-100);
-      --text-muted-highlight-color: var(--text-color-100);
-      --label-color: var(--text-color-100); // For the Recently Updated label
-      --blockquote-border-color: var(--bg-color-030);
-      --blockquote-text-color: var(--text-color-100);
-      --link-color: var(--text-color-075);
-      --link-underline-color: var(--text-color-075);
-      --button-bg: var(--bg-color-015); // back to top button
-      --btn-border-color: var(--bg-color-030); // back to top button; not used?
-
-      /* Home page */
-      --main-bg: var(--bg-color-005);
-      --card-bg: var(--bg-color-010);
-      --main-border-color: var(--bg-color-030);
-
-      /* Sidebar */
-      --sidebar-bg: var(--bg-color-010);
-      --sidebar-hover-bg: var(--bg-color-015);
-      --sidebar-border-color: var(--bg-color-030); // includes button borders
-
-      --site-title-color: var(--text-color-100);
-      --site-subtitle-color: var(--text-color-100);
-      --sidebar-active-color: var(--text-color-100); // text color for active tab
-      --sidebar-muted-color: var(--text-color-075);  // text color for inactive tab
-
-      --avatar-border-color: var(--bg-color-030);
-
-      --sidebar-btn-bg: var(--bg-color-015);
-      --sidebar-btn-color: var(--text-color-075);
-
-      /* Prompts */
-      --prompt-text-color: var(--text-color-100);
-      --prompt-tip-bg: var(--bg-color-010);
-      --prompt-info-bg: var(--bg-color-010);
-      --prompt-warning-bg: var(--bg-color-010);
-      --prompt-danger-bg: var(--bg-color-010);
-    }
-
-    &[data-mode='light'] {
-      /*
-        color-scheme is light; [data-mode] is 'dark':
-        Define the standard colors for backgrounds.
-        Here, the numbers indicate percent darkness.
-      */
-      --bg-color-005: #f0f5f5;
-      --bg-color-010: #e0ebeb;
-      --bg-color-015: #d1e0e0;
-      --bg-color-020: #c2d6d6;
-      --bg-color-025: #b3cccc;
-      --bg-color-030: #a3c2c2;
-      
-      /* Define the standard colors for text. */
-      --text-color-100: #000000;
-      --text-dolor-090: #141f1f;
-      --text-color-080: #293d3d; // not used (yet)
-      --text-color-075: #334d4d;
-
-      /* All pages */
-      --heading-color: var(--text-color-100);
-      --text-color: var(--text-color-100);
-      --text-muted-color: var(--text-color-100);
-      --text-muted-highlight-color: var(--text-color-100);
-      --label-color: var(--text-color-100); // For the Recently Updated label
-      --blockquote-border-color: var(--bg-color-030);
-      --blockquote-text-color: var(--text-color-100);
-      --link-color: var(--text-color-075);
-      --link-underline-color: var(--text-color-075);
-      --button-bg: var(--bg-color-015); // back to top button
-      --btn-border-color: var(--bg-color-030); // back to top button; not used?
-
-      /* Home page */
-      --main-bg: var(--bg-color-005);
-      --card-bg: var(--bg-color-010);
-      --main-border-color: var(--bg-color-030);
-
-      /* Sidebar */
-      --sidebar-bg: var(--bg-color-010);
-      --sidebar-hover-bg: var(--bg-color-015);
-      --sidebar-border-color: var(--bg-color-030); // includes button borders
-
-      --site-title-color: var(--text-color-100);
-      --site-subtitle-color: var(--text-color-100);
-      --sidebar-active-color: var(--text-color-100); // text color for active tab
-      --sidebar-muted-color: var(--text-color-075);  // text color for inactive tab
-
-      --avatar-border-color: var(--bg-color-030);
-
-      --sidebar-btn-bg: var(--bg-color-015);
-      --sidebar-btn-color: var(--text-color-075);
-
-      /* Prompts */
-      --prompt-text-color: var(--text-color-100);
-      --prompt-tip-bg: var(--bg-color-010);
-      --prompt-info-bg: var(--bg-color-010);
-      --prompt-warning-bg: var(--bg-color-010);
-      --prompt-danger-bg: var(--bg-color-010);
-    }
-  }
-
   @media (prefers-color-scheme: light) {
     &:not([data-mode]),
     &[data-mode='light'] {
-      /*
-        color-schem is 'light'; [data-mode] is 'light':
-        Define the standard colors for backgrounds.
-        Here, the numbers indicate percent darkness.
-      */
-      color-scheme: light;
-
-      --bg-color-005: #f0f5f5;
-      --bg-color-010: #e0ebeb;
-      --bg-color-015: #d1e0e0;
-      --bg-color-020: #c2d6d6;
-      --bg-color-025: #b3cccc;
-      --bg-color-030: #a3c2c2;
-      
-      /* Define the standard colors for text. */
-      --text-color-100: #000000;
-      --text-dolor-090: #141f1f;
-      --text-color-080: #293d3d; // not used (yet)
-      --text-color-075: #334d4d;
-
-      /* All pages */
-      --heading-color: var(--text-color-100);
-      --text-color: var(--text-color-100);
-      --text-muted-color: var(--text-color-100);
-      --text-muted-highlight-color: var(--text-color-100);
-      --label-color: var(--text-color-100); // For the Recently Updated label
-      --blockquote-border-color: var(--bg-color-030);
-      --blockquote-text-color: var(--text-color-100);
-      --link-color: var(--text-color-075);
-      --link-underline-color: var(--text-color-075);
-      --button-bg: var(--bg-color-015); // back to top button
-      --btn-border-color: var(--bg-color-030); // back to top button; not used?
-
-      /* Home page */
-      --main-bg: var(--bg-color-005);
-      --card-bg: var(--bg-color-010);
-      --main-border-color: var(--bg-color-030);
-
-      /* Sidebar */
-      --sidebar-bg: var(--bg-color-010);
-      --sidebar-hover-bg: var(--bg-color-015);
-      --sidebar-border-color: var(--bg-color-030); // includes button borders
-
-      --site-title-color: var(--text-color-100);
-      --site-subtitle-color: var(--text-color-100);
-      --sidebar-active-color: var(--text-color-100); // text color for active tab
-      --sidebar-muted-color: var(--text-color-075);  // text color for inactive tab
-
-      --avatar-border-color: var(--bg-color-030);
-
-      --sidebar-btn-bg: var(--bg-color-015);
-      --sidebar-btn-color: var(--text-color-075);
-
-      /* Prompts */
-      --prompt-text-color: var(--text-color-100);
-      --prompt-tip-bg: var(--bg-color-010);
-      --prompt-info-bg: var(--bg-color-010);
-      --prompt-warning-bg: var(--bg-color-010);
-      --prompt-danger-bg: var(--bg-color-010);
+      @include blue_light.styles;
     }
 
     &[data-mode='dark'] {
-      /*
-        color-scheme is 'light'; [data-mode] is 'dark':
-        Define the standard colors for backgrounds.
-        Here, the numbers indicate percent brightness.
-      */
-      --bg-color-005: #0a0f0f;
-      --bg-color-010: #141f1f;
-      --bg-color-015: #1f2e23;
-      --bg-color-020: #293d3d;
-      --bg-color-025: #334d4d;
-      --bg-color-030: #3d5c5c;
-      
-      /* Define the standard colors for text. */
-      --text-color-100: #ffffff;
-      --text-dolor-090: #e0ebeb;
-      --text-color-080: #c2d6d6; /* not used (yet) */
-      --text-color-075: #b3cccc;
+      @include blue_dark.styles;
+    }
+  }
 
-      /* All pages */
-      --heading-color: var(--text-color-100);
-      --text-color: var(--text-color-100);
-      --text-muted-color: var(--text-color-100);
-      --text-muted-highlight-color: var(--text-color-100);
-      --label-color: var(--text-color-100); // For the Recently Updated label
-      --blockquote-border-color: var(--bg-color-030);
-      --blockquote-text-color: var(--text-color-100);
-      --link-color: var(--text-color-075);
-      --link-underline-color: var(--text-color-075);
-      --button-bg: var(--bg-color-015); // back to top button
-      --btn-border-color: var(--bg-color-030); // back to top button; not used?
+  @media (prefers-color-scheme: dark) {
+    &:not([data-mode]),
+    &[data-mode='dark'] {
+      @include blue_dark.styles;
+    }
 
-      /* Home page */
-      --main-bg: var(--bg-color-005);
-      --card-bg: var(--bg-color-010);
-      --main-border-color: var(--bg-color-030);
-
-      /* Sidebar */
-      --sidebar-bg: var(--bg-color-010);
-      --sidebar-hover-bg: var(--bg-color-015);
-      --sidebar-border-color: var(--bg-color-030); // includes button borders
-
-      --site-title-color: var(--text-color-100);
-      --site-subtitle-color: var(--text-color-100);
-      --sidebar-active-color: var(--text-color-100); // text color for active tab
-      --sidebar-muted-color: var(--text-color-075);  // text color for inactive tab
-
-      --avatar-border-color: var(--bg-color-030);
-
-      --sidebar-btn-bg: var(--bg-color-015);
-      --sidebar-btn-color: var(--text-color-075);
-
-      /* Prompts */
-      --prompt-text-color: var(--text-color-100);
-      --prompt-tip-bg: var(--bg-color-010);
-      --prompt-info-bg: var(--bg-color-010);
-      --prompt-warning-bg: var(--bg-color-010);
-      --prompt-danger-bg: var(--bg-color-010);
+    &[data-mode='light'] {
+      @include blue_light.styles;
     }
   }
 }

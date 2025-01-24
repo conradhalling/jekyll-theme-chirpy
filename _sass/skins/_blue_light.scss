@@ -1,0 +1,67 @@
+@mixin styles {
+  /*
+    light mode blue hue based on #0000ff using the color picker
+    at https://www.w3schools.com/colors/colors_picker.asp
+  */
+  color-scheme: light;
+
+  /*
+    Define the standard colors for backgrounds.
+    The numbers indicate percent luminosity.
+  */
+  --bg-color-095: #e6e6ff;
+  --bg-color-090: #ccccff;
+  --bg-color-085: #b3b3ff;
+  --bg-color-080: #9999ff; // not used
+  --bg-color-075: #8080ff; // not used
+  --bg-color-070: #6666ff;
+
+  /*
+    Define the standard colors for text.
+    The numbers indicate percent luminosity.
+  */
+  --text-color-000: #000000;
+  --text-dolor-010: #000033; // not used
+  --text-color-020: #000066; // not used
+  --text-color-025: #000080;
+
+  /* All pages */
+  --heading-color: var(--text-color-000);
+  --text-color: var(--text-color-000);
+  --text-muted-color: var(--text-color-000);
+  --text-muted-highlight-color: var(--text-color-000);
+  --label-color: var(--text-color-000); // For the Recently Updated label
+  --blockquote-border-color: var(--bg-color-070);
+  --blockquote-text-color: var(--text-color-000);
+  --link-color: var(--text-color-025);
+  --link-underline-color: var(--text-color-025);
+  --button-bg: var(--bg-color-085); // back to top button
+  --btn-border-color: var(--bg-color-070); // back to top button; not used?
+
+  /* Home page */
+  --main-bg: var(--bg-color-095);
+  --card-bg: var(--bg-color-090);
+  --main-border-color: var(--bg-color-070);
+
+  /* Sidebar */
+  --sidebar-bg: var(--bg-color-090);
+  --sidebar-hover-bg: var(--bg-color-085);
+  --sidebar-border-color: var(--bg-color-070); // includes button borders
+
+  --site-title-color: var(--text-color-000);
+  --site-subtitle-color: var(--text-color-000);
+  --sidebar-active-color: var(--text-color-000); // text color for active tab
+  --sidebar-muted-color: var(--text-color-025);  // text color for inactive tab
+
+  --avatar-border-color: var(--bg-color-070);
+
+  --sidebar-btn-bg: var(--bg-color-085);
+  --sidebar-btn-color: var(--text-color-025);
+
+  /* Prompts */
+  --prompt-text-color: var(--text-color-000);
+  --prompt-tip-bg: var(--bg-color-090);
+  --prompt-info-bg: var(--bg-color-090);
+  --prompt-warning-bg: var(--bg-color-090);
+  --prompt-danger-bg: var(--bg-color-090);
+}
