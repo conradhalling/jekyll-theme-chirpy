@@ -1,6 +1,6 @@
 @mixin styles {
   /*
-    dark mode blue hue based on #336699 using the color picker
+    dark mode electric blue hue based on #0000ff using the color picker
     at https://www.w3schools.com/colors/colors_picker.asp
   */
   color-scheme: dark;
@@ -9,21 +9,21 @@
     Define the standard colors for backgrounds.
     The numbers indicate percent luminosity.
   */
-  --bg-color-005: #060d13;
-  --bg-color-010: #0d1a26;
-  --bg-color-015: #132639;
-  --bg-color-020: #19334d; // not used
-  --bg-color-025: #204060; // not used
-  --bg-color-030: #264d73;
+  --bg-color-005: #00001a;
+  --bg-color-010: #000033;
+  --bg-color-015: #00004d;
+  --bg-color-020: #000066; // not used
+  --bg-color-025: #000080; // not used
+  --bg-color-030: #000099;
   
   /*
     Define the standard colors for text.
     The numbers indicate percent luminosity.
   */
   --text-color-100: #ffffff;
-  --text-color-090: #d9e6f2; // not used
-  --text-color-080: #b3cce6; // not used
-  --text-color-075: #9fbfdf;
+  --text-color-090: #ccccff; // not used
+  --text-color-080: #9999ff; // not used
+  --text-color-075: #8080ff;
 
   /* All pages */
   --heading-color: var(--text-color-100);
