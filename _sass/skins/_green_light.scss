@@ -24,6 +24,7 @@
   --text-dolor-010: #141f1f; // not used
   --text-color-020: #293d3d; // not used
   --text-color-025: #334d4d;
+  --text-color-050: #669999; // text hover
 
   /* All pages */
   --heading-color: var(--text-color-000);
@@ -64,4 +65,19 @@
   --prompt-info-bg: var(--bg-color-090);
   --prompt-warning-bg: var(--bg-color-090);
   --prompt-danger-bg: var(--bg-color-090);
+
+  /* Post table of contents highlight and hover */
+  --toc-highlight: var(--text-color-050);
+
+  /* :hover */
+  .content {
+	  a {
+	    &:not(.img-link) {
+	      &:hover {
+	        color: var(--text-color-050) !important;
+	        border-bottom: 1px solid var(--text-color-050) !important;
+	      }
+	    }
+	  }
+	}
 }
