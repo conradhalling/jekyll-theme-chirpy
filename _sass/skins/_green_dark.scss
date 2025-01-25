@@ -11,7 +11,7 @@
   */
   --bg-color-005: #0a0f0f;
   --bg-color-010: #141f1f;
-  --bg-color-015: #1f2e23;
+  --bg-color-015: #1f2e2e;
   --bg-color-020: #293d3d; // not used
   --bg-color-025: #334d4d; // not used
   --bg-color-030: #3d5c5c;
@@ -102,5 +102,10 @@
   .btn.btn-outline-primary:not(.disabled):hover {
     background-color: var(--bg-color-050);
     border-color: var(--bg-color-030) !important;
+  }
+
+  /* hover over cards on home page */
+  .post-preview:hover {
+    background-color: var(--bg-color-005);
   }
 }

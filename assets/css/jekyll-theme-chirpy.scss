@@ -58,8 +58,12 @@
       - --text-color-025   25% luminosity:  unselected tab, unselected button
 */
 
-/* For the original styles, comment out all code below this point. */
-
+/*
+  - Uuncomment the pair of light and dark skins you want and comment out the
+    others.
+  - The green light/dark skins are active here.
+  - For the original Chirpy styles, comment out all code below this point.
+*/
 
 /* green light/dark skins */
 @use 'skins/green_light';
@@ -114,6 +118,35 @@ html {
 
 //     &[data-mode='light'] {
 //       @include blue_light.styles;
+//     }
+//   }
+// }
+
+
+// /* slategray light/dark skins */
+// @use 'skins/slategray_light';
+// @use 'skins/slategray_dark';
+
+// html {
+//   @media (prefers-color-scheme: light) {
+//     &:not([data-mode]),
+//     &[data-mode='light'] {
+//       @include slategray_light.styles;
+//     }
+
+//     &[data-mode='dark'] {
+//       @include slategray_dark.styles;
+//     }
+//   }
+
+//   @media (prefers-color-scheme: dark) {
+//     &:not([data-mode]),
+//     &[data-mode='dark'] {
+//       @include slategray_dark.styles;
+//     }
+
+//     &[data-mode='light'] {
+//       @include slategray_light.styles;
 //     }
 //   }
 // }

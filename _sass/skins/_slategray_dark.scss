@@ -1,6 +1,6 @@
 @mixin styles {
   /*
-    dark mode blue hue based on #336699 using the color picker
+    dark mode slategray hue based on #778899 using the color picker
     at https://www.w3schools.com/colors/colors_picker.asp
   */
   color-scheme: dark;
@@ -9,23 +9,23 @@
     Define the standard colors for backgrounds.
     The numbers indicate percent luminosity.
   */
-  --bg-color-005: #060d13;
-  --bg-color-010: #0d1a26;
-  --bg-color-015: #132639;
-  --bg-color-020: #19334d; // not used
-  --bg-color-025: #204060; // not used
-  --bg-color-030: #264d73;
-  --bg-color-050: #4080bf;
+  --bg-color-005: #0b0d0f;
+  --bg-color-010: #161a1d;
+  --bg-color-015: #21262c;
+  --bg-color-020: #2c333a; // not used
+  --bg-color-025: #374049; // not used
+  --bg-color-030: #424d57;
+  --bg-color-050: #6e8091;
   
   /*
     Define the standard colors for text.
     The numbers indicate percent luminosity.
   */
   --text-color-100: #ffffff;
-  --text-color-090: #d9e6f2; // not used
-  --text-color-080: #b3cce6; // not used
-  --text-color-075: #9fbfdf;
-  --text-color-050: #4080bf; // text hover
+  --text-color-090: #e2e6e9; // not used
+  --text-color-080: #c5ccd3; // not used
+  --text-color-075: #b6bfc8;
+  --text-color-050: #6e8091; // text hover
 
   /* All pages */
   --heading-color: var(--text-color-100);
@@ -68,7 +68,7 @@
   --prompt-warning-bg: var(--bg-color-010);
   --prompt-danger-bg: var(--bg-color-010);
 
-  /* Post table of contents hover */
+  /* Post table of contents highlight and hover */
   --toc-highlight: var(--text-color-050);
 
   /* hover over links in... */

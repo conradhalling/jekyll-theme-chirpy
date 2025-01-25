@@ -103,4 +103,9 @@
     background-color: var(--bg-color-050);
     border-color: var(--bg-color-070) !important;
   }
+
+  /* hover over cards on home page */
+  .post-preview:hover {
+    background-color: var(--bg-color-085);
+  }
 }
