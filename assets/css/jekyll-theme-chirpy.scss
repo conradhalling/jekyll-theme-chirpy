@@ -160,9 +160,18 @@ html {
     fonts, edit _sass/abstracts/_variables.scss.
 */
 
-/* Increase font size for content. */
+/*
+  Set the font size for the title in the sidebar to make my name fit on one
+  line.
+*/
+#sidebar .site-title {
+  letter-spacing: normal;
+  font-size: 1.5rem;
+}
+
+/* Increase font size for content and adjust line spacing. */
 .content {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   line-height: 2rem;
 }
 
@@ -184,17 +193,35 @@ div#page-category ul,
 div#page-tag ul,
 div#archives,
 {
-  font-family: Lato, sans-serif;
+  font-family: Verdana, sans-serif;
 }
 
+/* Override hard-coded Lato font. */
+#notification .toast-body,
+#post-list .pagination,
+kbd,
+{
+  font-family: Verdana, sans-serif;
+}
+
+#archives {
+  .date {
+    &.day {
+      font-family: Verdana, sans-serif;
+    }
+  }
+}
+
+/* Override serif font with sans-serif font and maintain font size. */
 #post-list .card .card-body .card-text.content,
 div.content div#tags,
 div#search-result-wrapper div.content,
 {
-  font-family: Lato, sans-serif;
+  font-family: Verdana, sans-serif;
   font-size: 1rem;
 }
 
+/* Increase the font size. */
 div#archives .year {
   font-size: 1.3rem;
 }
