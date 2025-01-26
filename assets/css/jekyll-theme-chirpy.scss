@@ -176,17 +176,19 @@ div.access > section,
 div#tail-wrapper,
 search#search,
 div.post-meta,
-.post-tail-wrapper .license-wrapper,
+div.post-tail-wrapper div.license-wrapper,
+div.post-tail-wrapper div.post-tags,
 section#toc-wrapper,
 article div div.categories.card,
 div#page-category ul,
 div#page-tag ul,
-div#archives
+div#archives,
 {
   font-family: Lato, sans-serif;
 }
 
-#post-list .card .card-body .card-text.content
+#post-list .card .card-body .card-text.content,
+div.content div#tags
 {
   font-family: Lato, sans-serif;
   font-size: 1rem;
@@ -194,4 +196,14 @@ div#archives
 
 div#archives .year {
   font-size: 1.3rem;
+}
+
+/* Suppress display of tags. */
+div.access section:not(#access-lastmod) {
+  display: none !important;
+}
+
+div.post-tail-wrapper div.post-tags {
+  background-color: red;
+  display: none;
 }

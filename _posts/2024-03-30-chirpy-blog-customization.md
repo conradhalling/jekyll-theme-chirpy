@@ -2,7 +2,7 @@
 title: "Chirpy Blog Customization"
 date: 2024-03-30
 last_modified_at: 2025-01-26 04:18:00 -0500
-categories: [Jekyll, Bicycling]
+categories: [Jekyll]
 tags: [HTML, CSS]
 math: true
 media_subpath: /assets/img/in-post/2024/2024-03-30/
