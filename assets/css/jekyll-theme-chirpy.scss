@@ -59,10 +59,12 @@
 */
 
 /*
+  - Three pairs of light and dark skins are provided below for green, blue, and
+    slategray colors.  
   - Uuncomment the pair of light and dark skins you want and comment out the
-    others.
-  - The green light/dark skins are active here.
-  - For the original Chirpy styles, comment out all code below this point.
+      others.
+    - In the original code, the green light/dark skins are active.
+  - To restore the original Chirpy styles, comment out all code below this point.
 */
 
 /* green light/dark skins */
@@ -150,3 +152,46 @@ html {
 //     }
 //   }
 // }
+
+
+/*
+  - Adjust typography after switching to a serif font for content.
+  - Unfortunately, the font couldn't be changed in this section. To change the
+    fonts, edit _sass/abstracts/_variables.scss.
+*/
+
+/* Increase font size for content. */
+.content {
+  font-size: 1.4rem;
+  line-height: 2rem;
+}
+
+/* Use a sans-serif font for titles and labels. */
+#sidebar .site-title,
+#sidebar .site-subtitle,
+#sidebar ul,
+#topbar #breadcrumb,
+#post-list .card .card-body .post-meta,
+div.access > section,
+div#tail-wrapper,
+search#search,
+div.post-meta,
+.post-tail-wrapper .license-wrapper,
+section#toc-wrapper,
+article div div.categories.card,
+div#page-category ul,
+div#page-tag ul,
+div#archives
+{
+  font-family: Lato, sans-serif;
+}
+
+#post-list .card .card-body .card-text.content
+{
+  font-family: Lato, sans-serif;
+  font-size: 1rem;
+}
+
+div#archives .year {
+  font-size: 1.3rem;
+}
