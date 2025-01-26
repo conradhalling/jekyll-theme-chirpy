@@ -1,6 +1,6 @@
 @mixin styles {
   /*
-    dark mode slategray hue based on #778899 using the color picker
+    dark mode green hue based on #669999 using the color picker
     at https://www.w3schools.com/colors/colors_picker.asp
   */
   color-scheme: dark;
@@ -9,23 +9,23 @@
     Define the standard colors for backgrounds.
     The numbers indicate percent luminosity.
   */
-  --bg-color-005: #0b0d0f;
-  --bg-color-010: #161a1d;
-  --bg-color-015: #21262c;
-  --bg-color-020: #2c333a; // not used
-  --bg-color-025: #374049; // not used
-  --bg-color-030: #424d57;
-  --bg-color-050: #6e8091;
+  --bg-color-005: #0a0f0f;
+  --bg-color-010: #141f1f;
+  --bg-color-015: #1f2e2e;
+  --bg-color-020: #293d3d; // not used
+  --bg-color-025: #334d4d; // not used
+  --bg-color-030: #3d5c5c;
+  --bg-color-050: #669999;
   
   /*
     Define the standard colors for text.
     The numbers indicate percent luminosity.
   */
   --text-color-100: #ffffff;
-  --text-color-090: #e2e6e9; // not used
-  --text-color-080: #c5ccd3; // not used
-  --text-color-075: #b6bfc8;
-  --text-color-050: #6e8091; // text hover
+  --text-color-090: #e0ebeb; // not used
+  --text-color-080: #c2d6d6; // not used
+  --text-color-075: #b3cccc;
+  --text-color-050: #669999; // text hover
 
   /* All pages */
   --heading-color: var(--text-color-100);
@@ -86,7 +86,8 @@
   .post-tail-wrapper .license-wrapper > a:hover,
   /* post's author, Chirpy, and Jekyll */
   footer a:hover,
-  #page-category a:hover
+  #page-category a:hover,
+  div#search-results > article > header > h2 > a:hover,
   {
     color: var(--text-color-050) !important;
     border-bottom: 1px solid var(--text-color-050) !important;

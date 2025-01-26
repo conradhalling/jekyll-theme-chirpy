@@ -13,12 +13,12 @@
 {% endif %}
 
 /*
-  - These custom styles attempt to regularize and organize color specifications,
-    to increase contrast between text and the background, and to add a theme hue
-    to the page.
+  - These theme variants use custom styles in an attempt to regularize and
+    organize color specifications, to increase contrast between text and the
+    background, and to add a theme hue to the page.
   - For the structure of this file, see
     https://github.com/cotes2020/jekyll-theme-chirpy/discussions/1838.
-  - These styles override styles from:
+  - The styles defined below override styles from:
       - _sass/base/_base.scss
       - _sass/themes/_light.scss
       - _sass/themes/_dark.scss
@@ -59,17 +59,17 @@
 */
 
 /*
-  - Three pairs of light and dark skins are provided below for green, blue, and
-    slategray colors.  
-  - Uuncomment the pair of light and dark skins you want and comment out the
-      others.
-    - In the original code, the green light/dark skins are active.
-  - To restore the original Chirpy styles, comment out all code below this point.
+  - The code below provides three theme variants with light and dark themes for
+    each of green, blue, and slategray colors.  
+  - Uncomment the code for the theme variant you want and comment out the others.
+    - Before this file is modified, the original code below uses the green theme variant.
+  - To restore the original Chirpy styles, comment out all code below this
+    point.
 */
 
-/* green light/dark skins */
-@use 'skins/green_light';
-@use 'skins/green_dark';
+/* Use the green theme variant. */
+@use 'theme_variants/green_light';
+@use 'theme_variants/green_dark';
 
 html {
   @media (prefers-color-scheme: light) {
@@ -96,9 +96,9 @@ html {
 }
 
 
-// /* blue light/dark skins */
-// @use 'skins/blue_light';
-// @use 'skins/blue_dark';
+// /* Use the blue theme variant. */
+// @use 'theme_variants/blue_light';
+// @use 'theme_variants/blue_dark';
 
 // html {
 //   @media (prefers-color-scheme: light) {
@@ -125,9 +125,9 @@ html {
 // }
 
 
-// /* slategray light/dark skins */
-// @use 'skins/slategray_light';
-// @use 'skins/slategray_dark';
+// /* Use the slategray theme variant. */
+// @use 'theme_variants/slategray_light';
+// @use 'theme_variants/slategray_dark';
 
 // html {
 //   @media (prefers-color-scheme: light) {
@@ -156,7 +156,7 @@ html {
 
 /*
   - Adjust typography after switching to a serif font for content.
-  - Unfortunately, the font couldn't be changed in this section. To change the
+  - Unfortunately, the font can't be changed in this section. To change the
     fonts, edit _sass/abstracts/_variables.scss.
 */
 
@@ -188,7 +188,8 @@ div#archives,
 }
 
 #post-list .card .card-body .card-text.content,
-div.content div#tags
+div.content div#tags,
+div#search-result-wrapper div.content,
 {
   font-family: Lato, sans-serif;
   font-size: 1rem;
@@ -198,12 +199,19 @@ div#archives .year {
   font-size: 1.3rem;
 }
 
-/* Suppress display of tags. */
+/*
+  - Suppress display of tags.
+  - Comment out this code if you use tags.
+  - (The file _tabs/tags.md was also deleted.)
+*/
 div.access section:not(#access-lastmod) {
-  display: none !important;
+  display: none;
 }
 
 div.post-tail-wrapper div.post-tags {
-  background-color: red;
+  display: none;
+}
+
+div.post-meta div:nth-child(2) {
   display: none;
 }

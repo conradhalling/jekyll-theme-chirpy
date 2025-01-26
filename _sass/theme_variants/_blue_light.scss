@@ -1,6 +1,6 @@
 @mixin styles {
   /*
-    light mode green hue based on #669999 using the color picker
+    light mode blue hue based on #336699 using the color picker
     at https://www.w3schools.com/colors/colors_picker.asp
   */
   color-scheme: light;
@@ -9,23 +9,23 @@
     Define the standard colors for backgrounds.
     The numbers indicate percent luminosity.
   */
-  --bg-color-095: #f0f5f5;
-  --bg-color-090: #e0ebeb;
-  --bg-color-085: #d1e0e0;
-  --bg-color-080: #c2d6d6; // not used
-  --bg-color-075: #b3cccc; // not used
-  --bg-color-070: #a3c2c2;
-  --bg-color-050: #669999;
+  --bg-color-095: #ecf2f9;
+  --bg-color-090: #d9e6f2;
+  --bg-color-085: #c6d9ec;
+  --bg-color-080: #b3cce6; // not used
+  --bg-color-075: #9fbfdf; // not used
+  --bg-color-070: #8cb3d9;
+  --bg-color-050: #4080bf;
 
   /*
     Define the standard colors for text.
     The numbers indicate percent luminosity.
   */
   --text-color-000: #000000;
-  --text-dolor-010: #141f1f; // not used
-  --text-color-020: #293d3d; // not used
-  --text-color-025: #334d4d;
-  --text-color-050: #669999; // text hover
+  --text-dolor-010: #0d1a26; // not used
+  --text-color-020: #19334d; // not used
+  --text-color-025: #204060;
+  --text-color-050: #4080bf; // text hover
 
   /* All pages */
   --heading-color: var(--text-color-000);
@@ -86,7 +86,8 @@
   .post-tail-wrapper .license-wrapper > a:hover,
   /* post's author, Chirpy, and Jekyll */
   footer a:hover,
-  #page-category a:hover
+  #page-category a:hover,
+  div#search-results > article > header > h2 > a:hover,
   {
     color: var(--text-color-050) !important;
     border-bottom: 1px solid var(--text-color-050) !important;
@@ -104,12 +105,8 @@
     border-color: var(--bg-color-070) !important;
   }
 
-  .post-preview {
-    background-color: red;
-  }
-
   /* hover over cards on home page */
   .post-preview:hover {
-    background-color: green;
+    background-color: var(--bg-color-085);
   }
 }
