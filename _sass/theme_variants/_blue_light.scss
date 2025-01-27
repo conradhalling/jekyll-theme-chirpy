@@ -22,7 +22,7 @@
     The numbers indicate percent luminosity.
   */
   --text-color-000: #000000;
-  --text-dolor-010: #0d1a26; // not used
+  --text-color-010: #0d1a26; // not used
   --text-color-020: #19334d; // not used
   --text-color-025: #204060;
   --text-color-050: #4080bf; // text hover
@@ -70,6 +70,19 @@
 
   /* Post table of contents highlight and hover */
   --toc-highlight: var(--text-color-050);
+
+  /* Code highlight colors */
+  --language-border-color: var(--bg-color-070);     // standard border
+  --highlight-bg-color: var(--bg-color-090);        // code block header background
+  .highlight {                                      // code block background
+    background-color: var(--bg-color-095);
+  }
+  --code-header-text-color: var(--text-color-050);  // code block header text
+  --code-header-muted-color: var(--bg-color-070);   // inactive window resize buttons
+  --code-header-icon-color: var(--text-color-050);  // match text
+  --clipboard-checked-color: var(--text-color-050); // match icon
+  --highlight-lineno-color: var(--text-color-050);  // code line number
+  --code-color: var(--text-color-000);              // plain code
 
   /* hover over links in... */
   /* post's content */

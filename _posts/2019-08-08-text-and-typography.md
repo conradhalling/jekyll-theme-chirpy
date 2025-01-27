@@ -113,7 +113,7 @@ Here is the `/path/to/the/file.extend`{: .filepath}.
 ### Common
 
 ```text
-This is a common code snippet, without syntax highlight and line number.
+This is a common code snippet, without syntax highlight.
 ```
 
 ### Specific Language

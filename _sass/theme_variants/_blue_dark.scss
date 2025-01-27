@@ -71,6 +71,19 @@
   /* Post table of contents hover */
   --toc-highlight: var(--text-color-050);
 
+  /* Code highlight colors */
+  --language-border-color: var(--bg-color-030);     // standard border
+  --highlight-bg-color: var(--bg-color-010);        // code block header background
+  .highlight {                                      // code block background
+    background-color: var(--bg-color-005);
+  }
+  --code-header-text-color: var(--text-color-050);  // code block header text
+  --code-header-muted-color: var(--bg-color-030);   // inactive window resize buttons
+  --code-header-icon-color: var(--text-color-050);  // match text
+  --clipboard-checked-color: var(--text-color-050); // match icon
+  --highlight-lineno-color: var(--text-color-050);  // code line number
+  --code-color: var(--text-color-100);              // plain code
+
   /* hover over links in... */
   /* post's content */
   .content a:not(.img-link):hover,
