@@ -84,6 +84,31 @@
   --highlight-lineno-color: var(--text-color-050);  // code line number
   --code-color: var(--text-color-000);              // plain code
 
+  /* Table styles */
+  --tb-odd-bg: var(--bg-color-080);                 // odd table rows
+  --tb-even-bg: var(--bg-color-085);                // even table rows
+  --tb-border-color: var(--bg-color-070);           // standard border color
+
+  .table-wrapper > table {
+    font-family: Verdana, sans-serif;
+    border: solid 2px var(--tb-border-color);
+  }
+
+  .table-wrapper > table thead {
+    background-color: var(--bg-color-090);
+    border-bottom: solid 2px var(--tb-border-color);
+  }
+
+  .table-wrapper > table tr th,
+  .table-wrapper > table tr td,
+  {
+    border: solid 1px var(--tb-border-color);
+    padding: 0.4rem;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    vertical-align: top;
+  }
+
   /* hover over links in... */
   /* post's content */
   .content a:not(.img-link):hover,
@@ -118,12 +143,8 @@
     border-color: var(--bg-color-070) !important;
   }
 
-  .post-preview {
-    background-color: red;
-  }
-
   /* hover over cards on home page */
   .post-preview:hover {
-    background-color: green;
+    background-color: var(--bg-color-085);
   }
 }
