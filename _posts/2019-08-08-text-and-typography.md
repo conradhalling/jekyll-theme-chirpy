@@ -1,10 +1,10 @@
 ---
 title: Text and Typography
-description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
+description: (This post was copied here and revised for testing. -- Conrad Halling) Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
 author: cotes
 date: 2019-08-08 11:33:00 -0500
-last_modified_at: 2025-01-21 12:05:00 -0500
-categories: [Jekyll]
+last_modified_at: 2025-01-27 10:00:00 -0500
+categories: [Testing]
 pin: false
 math: true
 mermaid: true
@@ -87,10 +87,10 @@ Moon
 ## Tables
 
 | Company                      | Contact          | Country |
-| :--------------------------- | :--------------- | ------: |
+| :--------------------------- | :---------------: | ------: |
 | Alfreds Futterkiste          | Maria Anders     | Germany |
 | Island Trading               | Helen Bennett    |      UK |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli |   Italy |
+| Magazzini Alimentari <br> Riuniti | Giovanni Rovelli |   Italy |
 
 ## Links
 
@@ -100,7 +100,7 @@ Moon
 
 Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
 
-## Inline code
+## Inline Code
 
 This is an example of `Inline Code`.
 
@@ -108,7 +108,7 @@ This is an example of `Inline Code`.
 
 Here is the `/path/to/the/file.extend`{: .filepath}.
 
-## Code blocks
+## Code Blocks
 
 ### Common
 
@@ -116,7 +116,7 @@ Here is the `/path/to/the/file.extend`{: .filepath}.
 This is a common code snippet, without syntax highlight.
 ```
 
-### Specific Languages
+### Specific Coding Languages
 
 ```bash
 if [ $? -ne 0 ]; then
@@ -263,21 +263,21 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 ## Images
 
-### Default (with caption)
+### Default with Caption
 
 ![Desktop View](/assets/img/2019-08-08/mockup.png){: width="972" height="589" }
 _Full screen width and center alignment_
 
-### Left aligned
+### Left Aligned
 
 ![Desktop View](/assets/img/2019-08-08/mockup.png){: width="972" height="589" .w-75 .normal}
 
-### Float to left
+### Float to Left
 
 ![Desktop View](/assets/img/2019-08-08/mockup.png){: width="972" height="589" .w-50 .left}
 Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum.
 
-### Float to right
+### Float to Right
 
 ![Desktop View](/assets/img/2019-08-08/mockup.png){: width="972" height="589" .w-50 .right}
 Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum.
