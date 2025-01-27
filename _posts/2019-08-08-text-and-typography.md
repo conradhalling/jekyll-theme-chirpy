@@ -116,7 +116,7 @@ Here is the `/path/to/the/file.extend`{: .filepath}.
 This is a common code snippet, without syntax highlight.
 ```
 
-### Specific Language
+### Specific Languages
 
 ```bash
 if [ $? -ne 0 ]; then
@@ -125,7 +125,107 @@ if [ $? -ne 0 ]; then
 fi;
 ```
 
-### Specific filename
+```python
+import numpy as np
+import pandas as pd
+import sklearn.datasets
+
+# Load Iris Data from scikit-learn into a pandas DataFrame.
+# This requires some customization.
+bunch = sklearn.datasets.load_iris(as_frame=True)
+iris = bunch["frame"] # this is the DataFrame
+species_names = bunch["target_names"] # names of targets
+# Add a species column and drop the target column.
+iris["species"] = [species_names[x] for x in iris["target"]]
+iris = iris.drop(columns=["target"])
+print(iris.info())
+print()
+print(iris.head())
+print()
+
+# Extract the data for Iris versicolor as a NumPy array.
+# This is not needed, since plt.hist() accepts a pandas Series.
+versicolor_petal_length = iris[iris["species"] == "versicolor"]["petal length (cm)"].to_numpy()
+print(versicolor_petal_length)
+```
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Dave Gray">
+    <meta name="description" content="HTML tutorial, Chapter 9 Forms &amp; Inputs">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Web Page</title>
+    <link rel="stylesheet" href="../css/main.css">
+    <link rel="shortcut icon" href="../img/sphaerula.png" type="image/x-icon">
+  </head>
+
+  <body>
+    <header>
+      <h1>My Goals for the Year</h1>
+      <nav aria-label="primary navigation">
+        <!-- <h2>Primary Navigation</h2> -->
+        <ul>
+          <li>
+            <a href="#html">Learning HTML</a>
+          </li>
+```
+
+```css
+html {
+    font-size: 22px;
+}
+
+body {
+    background-color: #333;
+    color: whitesmoke;
+}
+
+a {
+    color:  aliceblue;
+}
+
+a:visited {
+    color:  lightgray;
+}
+
+a:hover, a:active {
+    color:  #eee;
+}
+```
+
+```php
+class AccountNumber
+{
+    public int $accountNumber;
+    public int $routingNumber;
+
+    public function __construct(int $accountNumber, int $routingNumber)
+    {
+        $this->accountNumber = $accountNumber;
+        $this->routingNumber = $routingNumber;
+    }
+}
+```
+
+```javascript
+// Throw a custom error.
+const makeError3 = () => {
+    try {
+        throw new CustomError3("This is a custom error!");
+    } catch (err) {
+        console.error(err.name);                // CustomError3
+        console.error(err.message);
+        console.error(err.stack);
+        console.log(err.constructor.name);      // CustomError3
+    }
+};
+```
+
+### Specific Filename
 
 ```sass
 @import
