@@ -5,8 +5,6 @@ source "https://rubygems.org"
 gemspec
 
 gem 'logger', '~> 1.6', '>= 1.6.5'
-gem 'csv', '~> 3.3', '>= 3.3.2'
-gem 'base64', '~> 0.2.0'
 
 gem "html-proofer", "~> 5.0", group: :test
 
