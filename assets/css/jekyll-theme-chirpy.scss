@@ -256,9 +256,9 @@ div#archives .year {
 .table-wrapper > table tr td,
 {
   font-family: v.$font-family-heading;
-  padding: 0.4rem;
-  font-size: 0.75rem;
-  line-height: 1rem;
+  font-size: 0.8rem !important;
+  padding: 0.5rem !important;
+  line-height: 1.2rem;
   vertical-align: top;
 }
 
