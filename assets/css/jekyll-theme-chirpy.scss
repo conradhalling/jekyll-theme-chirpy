@@ -178,13 +178,17 @@ html {
       - _sass/base/_typography.scss
 */
 
-/* Increase font size for content and adjust line spacing for readability. */
+/*
+  Increase font size for content and adjust line spacing for readability.
+*/
 .content {
   font-size: 1.2rem;
   line-height: 2rem;
 }
 
-/* Override default styles to use a sans-serif font for titles and labels. */
+/*
+  Override default styles to use a sans-serif font for titles and labels.
+*/
 #sidebar .site-title,
 #sidebar .site-subtitle,
 #sidebar ul,
@@ -210,12 +214,29 @@ div#search-result-wrapper div.content,
   font-family: v.$font-family-heading;
 }
 
-/* Override default styles to maintain font size. */
+/*
+  Override default styles to maintain font size.
+*/
 #post-list .card .card-body .card-text.content,
 div.content div#tags,
 div#search-result-wrapper div.content,
 {
   font-size: 1rem;
+}
+
+/*
+  Place the avatar in a rectangle instead of a circle.
+*/
+#sidebar #avatar {
+  width: 11rem; /* 176 px */
+  height: 7rem; /* 112 px */
+  box-shadow: none;
+  border-radius: 0 !important;
+}
+
+#sidebar #avatar img {
+  width: 11rem;
+  height: 7rem;
 }
 
 /*
@@ -225,7 +246,7 @@ div#search-result-wrapper div.content,
 */
 #sidebar .site-title {
   letter-spacing: normal;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 #sidebar .site-subtitle {
@@ -262,7 +283,9 @@ div#archives .year {
   vertical-align: top;
 }
 
-/* Hide the share icons at bottom of posts. */
+/*
+  Hide the share icons at bottom of posts.
+*/
 div .share-wrapper {
   display: none !important;
 }
