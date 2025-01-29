@@ -13,10 +13,19 @@
 {% endif %}
 
 /*
-  - These theme variants use custom styles in an attempt to regularize and
-    organize color specifications, to increase contrast between text and the
-    background, and to add a theme hue to the page.
-  - For the structure of this file, see
+  Variables defined in 'abstracts/variables':
+    v.$font-family-heading  Verdana, sans-serif
+    v.$font-family-base     Georgia, serif
+*/
+
+@use 'abstracts/variables' as v;
+
+/*
+  - The theme variants stored in _sass/theme_variants use custom styles in an
+    attempt to regularize and organize color specifications, to increase
+    contrast between text and the background, and to add a theme hue to the
+    page.
+  - For more information about the structure of this file, see
     https://github.com/cotes2020/jekyll-theme-chirpy/discussions/1838.
   - The styles defined below override styles from:
       - _sass/base/_base.scss
@@ -59,11 +68,12 @@
 */
 
 /*
-  - The code below provides three theme variants with light and dark themes for
-    each of green, blue, and slategray colors.  
-  - Uncomment the code for the theme variant you want and comment out the others.
-    - Before this file is modified, the original code below uses the green theme variant.
-  - To restore the original Chirpy styles, comment out all code below this
+  - These style sheets provide three theme variants with light and dark themes
+    for each of green, blue, and slategray colors.  
+  - Uncomment the code for the theme variant you want and comment out the
+    others.
+  - The original copy of this file uses the green theme variant.
+  - To revert to the original Chirpy styles, comment out all code below this
     point.
 */
 
@@ -155,27 +165,26 @@ html {
 
 
 /*
-  - Adjust typography after switching to a serif font for content.
-  - Unfortunately, the font can't be changed in this section. To change the
+  - Many adjustments were required after changing from a sans-serif font family
+    to a serif font family for content, the serif font being the default font
+    family for the body element.
+  - Unfortunately, the font couldn't be changed in this section. To change the
     fonts, edit _sass/abstracts/_variables.scss.
+  - The following files in _sass had to be edited to substitute the sans-serif
+    font family for the Lato font family:
+      - _sass/components/_popups.scss
+      - _sass/pages/_archives.scss
+      - _sass/pages/_home.scss
+      - _sass/base/_typography.scss
 */
 
-/*
-  Set the font size for the title in the sidebar to make my name fit on one
-  line.
-*/
-#sidebar .site-title {
-  letter-spacing: normal;
-  font-size: 1.5rem;
-}
-
-/* Increase font size for content and adjust line spacing. */
+/* Increase font size for content and adjust line spacing for readability. */
 .content {
   font-size: 1.2rem;
   line-height: 2rem;
 }
 
-/* Use a sans-serif font for titles and labels. */
+/* Override default styles to use a sans-serif font for titles and labels. */
 #sidebar .site-title,
 #sidebar .site-subtitle,
 #sidebar ul,
@@ -193,38 +202,69 @@ div#page-category ul,
 div#page-tag ul,
 div#archives,
 div[class^="language-"] .code-header,
-{
-  font-family: Verdana, sans-serif;
-}
-
-/* Override hard-coded Lato font. */
-#notification .toast-body,
-#post-list .pagination,
-kbd,
-{
-  font-family: Verdana, sans-serif;
-}
-
-#archives {
-  .date {
-    &.day {
-      font-family: Verdana, sans-serif;
-    }
-  }
-}
-
-/* Override serif font with sans-serif font and maintain font size. */
+#archives .date.day,
 #post-list .card .card-body .card-text.content,
 div.content div#tags,
 div#search-result-wrapper div.content,
 {
-  font-family: Verdana, sans-serif;
+  font-family: v.$font-family-heading;
+}
+
+/* Override default styles to maintain font size. */
+#post-list .card .card-body .card-text.content,
+div.content div#tags,
+div#search-result-wrapper div.content,
+{
   font-size: 1rem;
 }
 
-/* Increase the font size. */
+/*
+  - In the sidebar, adjust font size of the site's title to make my name fit.
+  - Increase the font size of the site's subtitle to make it a little easier to
+    read. Unfortunately, you have to zoom in to see the emoji.
+*/
+#sidebar .site-title {
+  letter-spacing: normal;
+  font-size: 1.5rem;
+}
+
+#sidebar .site-subtitle {
+  font-size: 1rem;
+}
+
+/*
+  In the Archives page, adjust the font size for the year to make make the
+  timeline indicators align correctly.
+*/
 div#archives .year {
-  font-size: 1.3rem;
+  font-size: 1.17rem;
+}
+
+/*
+  Style search results as cards.
+*/
+#search-results > article {
+  margin-bottom: 3rem !important;
+  padding: 2rem !important;
+  border-radius: 10px;
+}
+
+/*
+  In tables, use a small sans-serif font.
+*/
+.table-wrapper > table tr th,
+.table-wrapper > table tr td,
+{
+  font-family: v.$font-family-heading;
+  padding: 0.4rem;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  vertical-align: top;
+}
+
+/* Hide the share icons at bottom of posts. */
+div .share-wrapper {
+  display: none !important;
 }
 
 /*
@@ -232,6 +272,7 @@ div#archives .year {
   - Comment out this code if you use tags.
   - (The file _tabs/tags.md was also deleted.)
 */
+
 div.access section:not(#access-lastmod) {
   display: none;
 }
