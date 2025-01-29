@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Conrad Halling
 
-tagline: books <br> music <br> running <br> bicycle touring
+tagline: 📚 books <br> 🎶 music <br> 🏃 running <br> 🚴 bicycle touring
 
 description: >- # used by seo meta and the atom feed
   This is a blog about books, music, running, and bicycle touring.
@@ -29,7 +29,7 @@ url: "https://conradhalling.com"
 # baseurl: "/~halto/blog"
 baseurl: "/blog"
 
-paginate: 4
+paginate: 3
 
 github:
   username: conradhalling # change to your GitHub username
