@@ -29,7 +29,7 @@ url: "https://conradhalling.com"
 # baseurl: "/~halto/blog"
 baseurl: "/blog"
 
-paginate: 3
+paginate: 5
 
 github:
   username: conradhalling # change to your GitHub username
@@ -143,12 +143,15 @@ assets:
 pwa:
   enabled: false # The option for PWA feature (installable)
   cache:
-    enabled: true # The option for PWA offline cache
+    enabled: false # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
     # Usually its value is the `baseurl` of another website that
     # shares the same domain name as the current website.
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
+
+plugins:
+  - jekyll-target-blank
 
 # ------------ The following options are not recommended to be modified ------------------
 
