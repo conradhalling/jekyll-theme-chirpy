@@ -1,17 +1,22 @@
 ---
 title: Text and Typography
-description: (This post was copied here and revised for testing. -- Conrad Halling) Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
-author: cotes
-date: 2019-08-08 11:33:00 -0500
-last_modified_at: 2025-01-27 10:00:00 -0500
-categories: [Testing]
-pin: false
+description: This page demonstrates examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
+author: [cotes, conrad]
+date: 2024-07-01 18:00:00 -0500
+last_modified_at: 2025-01-30 17:42:00 -0500
+categories: [Jekyll]
 math: true
 mermaid: true
 image:
-  path: /assets/img/2019-08-08/devices-mockup.png
+  path: /assets/img/2024-07-01/devices-mockup.png
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
+
+**Note**: I copied this post from the [source
+code](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-text-and-typography.md)
+for Cotes Chung's [demonstration
+website](https://chirpy.cotes.page/posts/text-and-typography/) for the Chirpy
+theme and modified it for testing this website. —Conrad Halling
 
 ## Headings
 
@@ -265,29 +270,29 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 ### Default with Caption
 
-![Desktop View](/assets/img/2019-08-08/mockup.png){: width="972" height="589" }
+![Desktop View](/assets/img/2024-07-01/mockup.png){: width="972" height="589" }
 _Full screen width and center alignment_
 
 ### Left Aligned
 
-![Desktop View](/assets/img/2019-08-08/mockup.png){: width="972" height="589" .w-75 .normal}
+![Desktop View](/assets/img/2024-07-01/mockup.png){: width="972" height="589" .w-75 .normal}
 
 ### Float to Left
 
-![Desktop View](/assets/img/2019-08-08/mockup.png){: width="972" height="589" .w-50 .left}
+![Desktop View](/assets/img/2024-07-01/mockup.png){: width="972" height="589" .w-50 .left}
 Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum.
 
 ### Float to Right
 
-![Desktop View](/assets/img/2019-08-08/mockup.png){: width="972" height="589" .w-50 .right}
+![Desktop View](/assets/img/2024-07-01/mockup.png){: width="972" height="589" .w-50 .right}
 Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum.
 
 ### Dark/Light Mode &amp; Shadow
 
 The image below will toggle dark/light mode based on theme preference, notice it has shadows.
 
-![light mode only](/assets/img/2019-08-08/devtools-light.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668' }
-![dark mode only](/assets/img/2019-08-08/devtools-dark.png){: .dark .w-75 .shadow .rounded-10 w='1212' h='668' }
+![light mode only](/assets/img/2024-07-01/devtools-light.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668' }
+![dark mode only](/assets/img/2024-07-01/devtools-dark.png){: .dark .w-75 .shadow .rounded-10 w='1212' h='668' }
 
 ## Video
 
