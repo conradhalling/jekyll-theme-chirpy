@@ -3,6 +3,7 @@ title: Experimenting with Fonts
 author: conrad
 description: If a website requests a generic font, what font does your computer supply?
 date: 2025-01-30 12:46:00 -0500
+last_modified_at: 2025-02-01 17:46:00 -0500
 categories: [Jekyll]
 ---
 
@@ -10,6 +11,18 @@ The generic font families specified by CSS styles include monospace, serif,
 sans-serif, fantasy, and cursive. When a CSS style requests one of these generic
 font families, what actual font is used on your computer? This page provides
 an experiment in seeing what fonts are used.
+
+These were the fonts that were used on my different devices:
+
+| Font Family | macOS 15.3     | iOS/iPadOS 18.3 | Windows 11 24H2 |
+|:------------|:---------------|:----------------|:----------------|
+| monospace   | Menlo          | Menlo           | Consolas        |
+| serif       | Times Roman    | Times New Roman | Times Hew Roman |
+| sans-serif  | Helvetica      | Helvetica       | Arial           |
+| fantasy     | Papyrus        | Zapfino         | Arial           |
+| cursive     | Apple Chancery | Snell Roundhand | Comic Sans MS   |
+| Verdana     | Verdana        | Verdana         | Verdana         |
+| Georgia     | Georgia        | Georgia         | Georgia         |
 
 ## Generic Fonts
 
@@ -65,10 +78,13 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque modi quisquam
 ratione commodi! Debitis, quis ducimus! Sunt repellat ea aspernatur illum
 temporibus numquam omnis quod quia, nemo eos. Cum, quia?
 
-## Notes
+## An Aside
 
-As part of the experiment, this Markdown source for this post contains HTML
-code. The table of contents on the right side of the page is generated from the
-Markdown heads and from the HTML headings. But the links in the table of
-contents for the HTML headings don't work. If I used Markdown headings, the
-links would work, but I can't set the font family using Markdown headings.
+<aside>
+As part of the experiment, the Markdown source for this post contains HTML code.
+The table of contents on the right side of the page is generated from both the
+Markdown and HTML headings. But the links in the table of contents don't work
+correctly for the HTML headings; they take the viewer to the top of the page. If
+I could use Markdown headings, the links would work, but I can't set the font
+family using Markdown headings.
+</aside>

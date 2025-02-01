@@ -1,6 +1,6 @@
 ---
 title: Playing with AI
-description: I have been experimenting with ChatGPT by asking specific and speculative questions
+description: I have been experimenting with ChatGPT by asking specific and speculative questions.
 author: conrad
 date: 2024-05-22 14:47:00 -0500
 last_modified_at: 2024-05-24 14:58:00 -0500
