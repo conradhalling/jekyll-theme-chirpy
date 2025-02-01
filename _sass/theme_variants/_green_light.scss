@@ -210,4 +210,11 @@
         var(--bg-color-090), 
         var(--bg-color-095));
   }
+
+  /*
+	  Image caption.
+	*/
+	.content a.popup + em, {
+	  color: var(--text-muted-color) !important;
+	}
 }
