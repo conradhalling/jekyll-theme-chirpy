@@ -1,5 +1,6 @@
 ---
 title: January 19 Update
+author: conrad
 categories: [Personal]
 description: I have been busy in December 2024 and January 2025.
 ---

@@ -1,5 +1,6 @@
 ---
 title: Martin Luther King Jr. Day
+author: conrad
 categories: [Society]
 description: Be kind to your neighbors.
 ---
