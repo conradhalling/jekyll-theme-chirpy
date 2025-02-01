@@ -210,6 +210,7 @@ div[class^="language-"] .code-header,
 #post-list .card .card-body .card-text.content,
 div.content div#tags,
 div#search-result-wrapper div.content,
+.content a.popup + em,
 {
   font-family: v.$font-family-heading;
 }
