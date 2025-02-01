@@ -14,22 +14,22 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Conrad Halling
+title: Sphaerula
 
-tagline: 📚 books <br> 🎶 music <br> 🏃 running <br> 🚴 bicycle touring
+tagline: 🔭 science <br> 📱 technology <br> 🧑‍💻 computing
 
 description: >- # used by seo meta and the atom feed
-  This is a blog about books, music, running, and bicycle touring.
+  This is a blog about science, technology, and computing.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://conradhalling.com"
+url: "https://sphaerula.com"
 
 # The base URL of your site
 # baseurl: "/~halto/blog"
 baseurl: "/blog"
 
-paginate: 3
+paginate: 5
 
 github:
   username: conradhalling # change to your GitHub username
@@ -101,7 +101,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/avatar/avatar.jpg
+avatar: /assets/img/avatar/sphaerula.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -143,12 +143,15 @@ assets:
 pwa:
   enabled: false # The option for PWA feature (installable)
   cache:
-    enabled: true # The option for PWA offline cache
+    enabled: false # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
     # Usually its value is the `baseurl` of another website that
     # shares the same domain name as the current website.
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
+
+plugins:
+  - jekyll-target-blank
 
 # ------------ The following options are not recommended to be modified ------------------
 

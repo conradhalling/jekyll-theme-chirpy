@@ -77,62 +77,62 @@
     point.
 */
 
-/* Use the green theme variant. */
-@use 'theme_variants/green_light';
-@use 'theme_variants/green_dark';
-
-html {
-  @media (prefers-color-scheme: light) {
-    &:not([data-mode]),
-    &[data-mode='light'] {
-      @include green_light.styles;
-    }
-
-    &[data-mode='dark'] {
-      @include green_dark.styles;
-    }
-  }
-
-  @media (prefers-color-scheme: dark) {
-    &:not([data-mode]),
-    &[data-mode='dark'] {
-      @include green_dark.styles;
-    }
-
-    &[data-mode='light'] {
-      @include green_light.styles;
-    }
-  }
-}
-
-
-// /* Use the blue theme variant. */
-// @use 'theme_variants/blue_light';
-// @use 'theme_variants/blue_dark';
+// /* Use the green theme variant. */
+// @use 'theme_variants/green_light';
+// @use 'theme_variants/green_dark';
 
 // html {
 //   @media (prefers-color-scheme: light) {
 //     &:not([data-mode]),
 //     &[data-mode='light'] {
-//       @include blue_light.styles;
+//       @include green_light.styles;
 //     }
 
 //     &[data-mode='dark'] {
-//       @include blue_dark.styles;
+//       @include green_dark.styles;
 //     }
 //   }
 
 //   @media (prefers-color-scheme: dark) {
 //     &:not([data-mode]),
 //     &[data-mode='dark'] {
-//       @include blue_dark.styles;
+//       @include green_dark.styles;
 //     }
 
 //     &[data-mode='light'] {
-//       @include blue_light.styles;
+//       @include green_light.styles;
 //     }
 //   }
 // }
+
+
+/* Use the blue theme variant. */
+@use 'theme_variants/blue_light';
+@use 'theme_variants/blue_dark';
+
+html {
+  @media (prefers-color-scheme: light) {
+    &:not([data-mode]),
+    &[data-mode='light'] {
+      @include blue_light.styles;
+    }
+
+    &[data-mode='dark'] {
+      @include blue_dark.styles;
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    &:not([data-mode]),
+    &[data-mode='dark'] {
+      @include blue_dark.styles;
+    }
+
+    &[data-mode='light'] {
+      @include blue_light.styles;
+    }
+  }
+}
 
 
 // /* Use the slategray theme variant. */
@@ -224,19 +224,15 @@ div#search-result-wrapper div.content,
   font-size: 1rem;
 }
 
-/*
-  Place the avatar in a rectangle instead of a circle.
-*/
+// /*
+//   Enlarge the image by 1.1 to make it fill the circle.
+// */
 #sidebar #avatar {
-  width: 11rem; /* 176 px */
-  height: 7rem; /* 112 px */
   box-shadow: none;
-  border-radius: 0 !important;
 }
 
 #sidebar #avatar img {
-  width: 11rem;
-  height: 7rem;
+  transform: scale(1.1);
 }
 
 /*
@@ -246,11 +242,12 @@ div#search-result-wrapper div.content,
 */
 #sidebar .site-title {
   letter-spacing: normal;
-  font-size: 1.3rem;
+  font-size: 2rem;
 }
 
 #sidebar .site-subtitle {
-  font-size: 1rem;
+  font-size: 1.2rem;
+  font-style: normal !important;
 }
 
 /*

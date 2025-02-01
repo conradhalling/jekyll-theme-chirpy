@@ -4,6 +4,7 @@ source "https://rubygems.org"
 
 gemspec
 
+gem 'jekyll-target-blank', '~> 2.0', '>= 2.0.2'
 gem 'logger', '~> 1.6', '>= 1.6.5'
 
 gem "html-proofer", "~> 5.0", group: :test
