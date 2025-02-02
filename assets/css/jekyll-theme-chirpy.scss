@@ -1,4 +1,5 @@
 ---
+# Preprocessed by Liquid.
 ---
 
 /*
@@ -13,18 +14,21 @@
 {% endif %}
 
 /*
-  Variables defined in 'abstracts/variables':
-    v.$font-family-heading  Verdana, sans-serif
-    v.$font-family-base     Georgia, serif
+  To revert to the original Chirpy styles other than font-family, comment out
+  all code below this point.
 */
 
+/*
+  These variables defined in '_sass/abstracts/_variables.scss' are needed below:
+    v.$font-family-heading  (Verdana, sans-serif)
+    v.$font-family-base     (Georgia, serif)
+*/
 @use 'abstracts/variables' as v;
 
 /*
-  - The theme variants stored in _sass/theme_variants use custom styles in an
-    attempt to regularize and organize color specifications, to increase
-    contrast between text and the background, and to add a theme hue to the
-    page.
+  - The theme variants stored in _sass/theme_variants use custom styles to
+    regularize and organize color specifications, to increase contrast between
+    text and the background, and to add a theme hue to the page.
   - For more information about the structure of this file, see
     https://github.com/cotes2020/jekyll-theme-chirpy/discussions/1838.
   - The styles defined below override styles from:
@@ -38,144 +42,92 @@
     - system: light  [data-mode]: light
     - system: light  [data-mode]: dark
 
+  - A color family is defined for each color theme using the same hue and
+    changing the luminosity level.
   - dark mode
     - background luminosity levels:
       - --bg-color-005      5% luminosity:  body
       - --bg-color-010     10% luminosity:  sidebar, cards on Home
       - --bg-color-015     15% luminosity:  active tab on sidebar, hover over
-        inactive tab, hover over card on Home, sidebar-hover-bg, sidebar-btn-bg
-      - --bg-color-020     20% luminosity:  not used
-      - --bg-color-025     25% luminosity:  intended for search widget activated
-        border
+        inactive tab, hover over card on Home, sidebar-hover-bg, sidebar-btn-bg,
+        even table rows
+      - --bg-color-020     20% luminosity:  odd table rows
       - --bg-color-030     30% luminosity:  all borders
     - text luminosity levels:
-      - --text-color-100  100% luminosity:  all text
-      - --text-color-075   75% luminosity:  unselected tab, unselected button
+      - --text-color-100  100% luminosity:  important text
+      - --text-color-080   80% luminosity:  muted text
+      - --text-color-075   75% luminosity:  unselected tab, unselected button,
+        subtitle color
+      - --text-color-050   50% luminosity:  links, code block elements
 
   - light mode
     - background luminosity levels:
       - --bg-color-095     95% luminosity:  body
       - --bg-color-090     90% luminosity:  sidebar, cards on Home
       - --bg-color-085     85% luminosity:  active tab on sidebar, hover over
-        inactive tab, hover over card on Home, sidebar-hover-bg, sidebar-btn-bg
-      - --bg-color-080     80% luminosity:  not used
-      - --bg-color-075     75% luminosity:  intended for search widget activated
-        border
+        inactive tab, hover over card on Home, sidebar-hover-bg, sidebar-btn-bg,
+        even table rows
+      - --bg-color-080     80% luminosity:  odd table rows
       - --bg-color-070     70% luminosity:  all borders
     - text luminosity levels:
-      - --text-color-000    0% luminosity:  all text
-      - --text-color-025   25% luminosity:  unselected tab, unselected button
+      - --text-color-000    0% luminosity:  important text
+      - --text-color-020   20% luminosity:  muted text
+      - --text-color-025   25% luminosity:  unselected tab, unselected button,
+        subtitle color
+      - --text-color-050   50% luminosity:  links, code block elements
 */
 
 /*
   - These style sheets provide three theme variants with light and dark themes
-    for each of green, blue, and slategray colors.  
-  - Uncomment the code for the theme variant you want and comment out the
-    others.
-  - The original copy of this file uses the green theme variant.
-  - To revert to the original Chirpy styles, comment out all code below this
-    point.
+    for each of crimson, green, blue, purple, olive, and slategray colors.
 */
 
-// /* Use the green theme variant. */
-// @use 'theme_variants/green_light';
-// @use 'theme_variants/green_dark';
+{% comment %}
+  Assign 'crimson', 'green', 'blue', 'purple', 'olive', or 'slategray' to 
+  choose the theme you want.
+{% endcomment %}
+{% assign color = 'blue' %}
 
-// html {
-//   @media (prefers-color-scheme: light) {
-//     &:not([data-mode]),
-//     &[data-mode='light'] {
-//       @include green_light.styles;
-//     }
-
-//     &[data-mode='dark'] {
-//       @include green_dark.styles;
-//     }
-//   }
-
-//   @media (prefers-color-scheme: dark) {
-//     &:not([data-mode]),
-//     &[data-mode='dark'] {
-//       @include green_dark.styles;
-//     }
-
-//     &[data-mode='light'] {
-//       @include green_light.styles;
-//     }
-//   }
-// }
-
-
-/* Use the blue theme variant. */
-@use 'theme_variants/blue_light';
-@use 'theme_variants/blue_dark';
+@use 'theme_variants/{{ color }}_light';
+@use 'theme_variants/{{ color }}_dark';
 
 html {
   @media (prefers-color-scheme: light) {
     &:not([data-mode]),
     &[data-mode='light'] {
-      @include blue_light.styles;
+      @include {{ color }}_light.styles;
     }
 
     &[data-mode='dark'] {
-      @include blue_dark.styles;
+      @include {{ color }}_dark.styles;
     }
   }
 
   @media (prefers-color-scheme: dark) {
     &:not([data-mode]),
     &[data-mode='dark'] {
-      @include blue_dark.styles;
+      @include {{ color }}_dark.styles;
     }
 
     &[data-mode='light'] {
-      @include blue_light.styles;
+      @include {{ color }}_light.styles;
     }
   }
 }
 
-
-// /* Use the slategray theme variant. */
-// @use 'theme_variants/slategray_light';
-// @use 'theme_variants/slategray_dark';
-
-// html {
-//   @media (prefers-color-scheme: light) {
-//     &:not([data-mode]),
-//     &[data-mode='light'] {
-//       @include slategray_light.styles;
-//     }
-
-//     &[data-mode='dark'] {
-//       @include slategray_dark.styles;
-//     }
-//   }
-
-//   @media (prefers-color-scheme: dark) {
-//     &:not([data-mode]),
-//     &[data-mode='dark'] {
-//       @include slategray_dark.styles;
-//     }
-
-//     &[data-mode='light'] {
-//       @include slategray_light.styles;
-//     }
-//   }
-// }
-
-
 /*
-  - Many adjustments were required after changing from a sans-serif font family
-    to a serif font family for content, the serif font being the default font
-    family for the body element.
-  - Unfortunately, the font couldn't be changed in this section. To change the
-    fonts, edit _sass/abstracts/_variables.scss.
-  - The following files in _sass had to be edited to substitute the sans-serif
+  - Because the default font families couldn't be changed in this file, it was
+    necessary to edit _sass/abstracts/_variables.scss to specify a serif font
+    family as the default body font family.
+  - The following files had to be edited to substitute the default sans-serif
     font family for the Lato font family:
       - _sass/components/_popups.scss
       - _sass/pages/_archives.scss
       - _sass/pages/_home.scss
       - _sass/base/_typography.scss
+  - The following file had to be edited to remove the Oswald font family:
+      - _sass/pages/_tags.scss
+  - Many style changes were required after changing the default font family.
 */
 
 /*
@@ -225,9 +177,10 @@ div#search-result-wrapper div.content,
   font-size: 1rem;
 }
 
-// /*
-//   Enlarge the image by 1.1 to make it fill the circle.
-// */
+/*
+  - Remove the box shadow around the avatar image.
+  - Enlarge the avatar image by 1.1 to make it fill the circle.
+*/
 #sidebar #avatar {
   box-shadow: none;
 }
@@ -237,7 +190,8 @@ div#search-result-wrapper div.content,
 }
 
 /*
-  - In the sidebar, adjust font size of the site's title to make my name fit.
+  - In the sidebar, adjust font size of the site's title to make the title fint
+    on one line.
   - Increase the font size of the site's subtitle to make it a little easier to
     read. Unfortunately, you have to zoom in to see the emoji.
 */
@@ -289,7 +243,7 @@ div .share-wrapper {
 }
 
 /*
-  - Suppress display of tags in posts and other pages.
+  - Hide tags in posts and other pages.
   - Comment out this code if you use tags.
   - (The file _tabs/tags.md was also deleted.)
 */
