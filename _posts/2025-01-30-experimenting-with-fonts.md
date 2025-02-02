@@ -14,15 +14,15 @@ an experiment in seeing what fonts are used.
 
 These were the fonts that were used on my different devices:
 
-| Font Family | macOS 15.3     | iOS/iPadOS 18.3 | Windows 11 24H2 |
-|:------------|:---------------|:----------------|:----------------|
-| monospace   | Menlo          | Menlo           | Consolas        |
-| serif       | Times Roman    | Times New Roman | Times Hew Roman |
-| sans-serif  | Helvetica      | Helvetica       | Arial           |
-| fantasy     | Papyrus        | Zapfino         | Arial           |
-| cursive     | Apple Chancery | Snell Roundhand | Comic Sans MS   |
-| Verdana     | Verdana        | Verdana         | Verdana         |
-| Georgia     | Georgia        | Georgia         | Georgia         |
+| Font Family | macOS 15.3      | iOS/iPadOS 18.3 | Windows 11 24H2 |
+|:------------|:----------------|:----------------|:----------------|
+| monospace   | Menlo           | Menlo           | Consolas        |
+| serif       | Times New Roman | Times New Roman | Times Hew Roman |
+| sans-serif  | Helvetica       | Helvetica       | Arial           |
+| fantasy     | Papyrus         | Zapfino         | Arial           |
+| cursive     | Apple Chancery  | Snell Roundhand | Comic Sans MS   |
+| Verdana     | Verdana         | Verdana         | Verdana         |
+| Georgia     | Georgia         | Georgia         | Georgia         |
 
 ## Generic Fonts
 
