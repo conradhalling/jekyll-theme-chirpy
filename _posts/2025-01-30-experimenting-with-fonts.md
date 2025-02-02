@@ -3,7 +3,7 @@ title: Experimenting with Fonts
 author: conrad
 description: If a website requests a generic font, what font does your computer supply?
 date: 2025-01-30 12:46:00 -0500
-last_modified_at: 2025-02-01 17:46:00 -0500
+last_modified_at: 2025-02-02 10:42:00 -0500
 categories: [Jekyll]
 ---
 
@@ -26,7 +26,7 @@ These were the fonts that were used on my different devices:
 
 ## Generic Fonts
 
-<h3 style="font-family: monospace">Monospace</h3>
+<h3 id="monospace" style="font-family: monospace">Monospace</h3>
 <p style="font-family: monospace">
     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque modi
     quisquam ratione commodi! Debitis, quis ducimus! Sunt repellat ea
@@ -34,7 +34,7 @@ These were the fonts that were used on my different devices:
     quia?
 </p>
 
-<h3 style="font-family: serif">Serif</h3>
+<h3 id="serif" style="font-family: serif">Serif</h3>
 <p style="font-family: serif">
     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque modi
     quisquam ratione commodi! Debitis, quis ducimus! Sunt repellat ea
@@ -42,7 +42,7 @@ These were the fonts that were used on my different devices:
     quia?
 </p>
 
-<h3 style="font-family: sans-serif">Sans-serif</h3>
+<h3 id="sans-serif" style="font-family: sans-serif">Sans-serif</h3>
 <p style="font-family: sans-serif">
     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque modi
     quisquam ratione commodi! Debitis, quis ducimus! Sunt repellat ea
@@ -50,7 +50,7 @@ These were the fonts that were used on my different devices:
     quia?
 </p>
 
-<h3 style="font-family: fantasy">Fantasy</h3>
+<h3 id="fantasy" style="font-family: fantasy">Fantasy</h3>
 <p style="font-family: fantasy">
     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque modi
     quisquam ratione commodi! Debitis, quis ducimus! Sunt repellat ea
@@ -58,7 +58,7 @@ These were the fonts that were used on my different devices:
     quia?
 </p>
 
-<h3 style="font-family: cursive">Cursive</h3>
+<h3 id="cursive" style="font-family: cursive">Cursive</h3>
 <p style="font-family: cursive">
     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque modi
     quisquam ratione commodi! Debitis, quis ducimus! Sunt repellat ea
@@ -77,14 +77,3 @@ safe font family) for content text when converting Markdown to HTML.
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque modi quisquam
 ratione commodi! Debitis, quis ducimus! Sunt repellat ea aspernatur illum
 temporibus numquam omnis quod quia, nemo eos. Cum, quia?
-
-## An Aside
-
-<aside>
-As part of the experiment, the Markdown source for this post contains HTML code.
-The table of contents on the right side of the page is generated from both the
-Markdown and HTML headings. But the links in the table of contents don't work
-correctly for the HTML headings; they take the viewer to the top of the page. If
-I could use Markdown headings, the links would work, but I can't set the font
-family using Markdown headings.
-</aside>
