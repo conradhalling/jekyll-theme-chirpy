@@ -86,7 +86,7 @@
   Assign 'crimson', 'green', 'blue', 'purple', 'olive', or 'slategray' to 
   choose the theme you want.
 {% endcomment %}
-{% assign color = 'blue' %}
+{% assign color = 'green' %}
 
 @use 'theme_variants/{{ color }}_light';
 @use 'theme_variants/{{ color }}_dark';
@@ -114,6 +114,40 @@ html {
     }
   }
 }
+
+/*
+  - These changes are for conradhalling.com.
+  - Place the avatar in a rectangle instead of a circle.
+  - In the sidebar, adjust font size of the site's title to make the title fint
+    on one line.
+  - Increase the font size of the site's subtitle to make it a little easier to
+    read. Unfortunately, you have to zoom in to see the emoji.
+*/
+#sidebar #avatar {
+  width: 11rem; /* 176 px */
+  height: 7rem; /* 112 px */
+  box-shadow: none;
+  border-radius: 0 !important;
+}
+
+#sidebar #avatar img {
+  width: 11rem;
+  height: 7rem;
+}
+
+#sidebar .site-title {
+  letter-spacing: normal;
+  font-size: 1.4rem;
+}
+
+#sidebar .site-subtitle {
+  font-size: 1.2rem;
+  font-style: normal !important;
+}
+
+/*
+  The following changes are shared.
+*/
 
 /*
   - Because the default font families couldn't be changed in this file, it was
@@ -177,33 +211,6 @@ div#search-result-wrapper div.content,
   font-size: 1rem;
 }
 
-/*
-  - Remove the box shadow around the avatar image.
-  - Enlarge the avatar image by 1.1 to make it fill the circle.
-*/
-#sidebar #avatar {
-  box-shadow: none;
-}
-
-#sidebar #avatar img {
-  transform: scale(1.1);
-}
-
-/*
-  - In the sidebar, adjust font size of the site's title to make the title fint
-    on one line.
-  - Increase the font size of the site's subtitle to make it a little easier to
-    read. Unfortunately, you have to zoom in to see the emoji.
-*/
-#sidebar .site-title {
-  letter-spacing: normal;
-  font-size: 2rem;
-}
-
-#sidebar .site-subtitle {
-  font-size: 1.2rem;
-  font-style: normal !important;
-}
 
 /*
   In the Archives page, adjust the font size for the year to make make the
