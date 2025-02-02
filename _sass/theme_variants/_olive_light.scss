@@ -1,0 +1,36 @@
+@use 'light_common';
+
+@mixin styles {
+  /*
+    light mode olive hue based on #556b2f using the color picker
+    at https://www.w3schools.com/colors/colors_picker.asp
+  */
+  color-scheme: light;
+
+  /*
+    Define the standard colors for backgrounds.
+    The numbers indicate percent luminosity.
+  */
+  --bg-color-095: #f4f7ed;
+  --bg-color-090: #e8efdc;
+  --bg-color-085: #dde8ca;
+  --bg-color-080: #d1e0b8;
+  --bg-color-075: #c6d8a6; // not used
+  --bg-color-070: #bad095;
+  --bg-color-050: #8db14e;
+
+  /*
+    Define the standard colors for text.
+    The numbers indicate percent luminosity.
+  */
+  --text-color-000: #000000;
+  --text-color-010: #1c2310; // not used
+  --text-color-020: #38471f;
+  --text-color-025: #465927;
+  --text-color-050: #8db14e;
+
+  /*
+    Include all variables and styles common to light mode.
+  */
+  @include light_common.styles;
+}

@@ -1,0 +1,36 @@
+@use 'dark_common';
+
+@mixin styles {
+  /*
+    dark mode purple hue based on #666699 using the color picker
+    at https://www.w3schools.com/colors/colors_picker.asp
+  */
+  color-scheme: dark;
+
+  /*
+    Define the standard colors for backgrounds.
+    The numbers indicate percent luminosity.
+  */
+  --bg-color-005: #0a0a0f;
+  --bg-color-010: #14141f;
+  --bg-color-015: #1f1f2e;
+  --bg-color-020: #29293d;
+  --bg-color-025: #33334d; // not used
+  --bg-color-030: #3d3d5c;
+  --bg-color-050: #666699;
+  
+  /*
+    Define the standard colors for text.
+    The numbers indicate percent luminosity.
+  */
+  --text-color-100: #ffffff;
+  --text-color-090: #e0e0eb; // not used
+  --text-color-080: #c2c2d6;
+  --text-color-075: #b3b3cc;
+  --text-color-050: #666699;
+
+  /*
+    Include all variables and styles common to dark mode.
+  */
+  @include dark_common.styles;
+}

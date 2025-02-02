@@ -1,0 +1,36 @@
+@use 'dark_common';
+
+@mixin styles {
+  /*
+    dark mode crimson hue based on #dc143c using the color picker
+    at https://www.w3schools.com/colors/colors_picker.asp
+  */
+  color-scheme: dark;
+
+  /*
+    Define the standard colors for backgrounds.
+    The numbers indicate percent luminosity.
+  */
+  --bg-color-005: #170206;
+  --bg-color-010: #2f040d;
+  --bg-color-015: #460713;
+  --bg-color-020: #5d091a;
+  --bg-color-025: #750b20; // not used
+  --bg-color-030: #8c0d26;
+  --bg-color-050: #e91640;
+  
+  /*
+    Define the standard colors for text.
+    The numbers indicate percent luminosity.
+  */
+  --text-color-100: #ffffff;
+  --text-color-090: #fbd0d9; // not used
+  --text-color-080: #f6a2b3;
+  --text-color-075: #f48aa0;
+  --text-color-050: #e91640;
+
+  /*
+    Include all variables and styles common to dark mode.
+  */
+  @include dark_common.styles;
+}
