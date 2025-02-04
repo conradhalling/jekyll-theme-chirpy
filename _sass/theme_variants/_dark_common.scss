@@ -166,7 +166,7 @@
   /*
     Style search results with a distinct background and border.
   */
-  #search-results > article {
+  #search-results > article > a > section {
     background-color: var(--bg-color-010);
     border: 1px solid var(--bg-color-030);
     &:hover {

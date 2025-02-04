@@ -116,6 +116,37 @@ html {
 }
 
 /*
+  - These changes are for sphaerula.com.
+  - Remove the box shadow around the avatar image.
+  - Enlarge the avatar image by 1.1 to make it fill the circle.
+  - In the sidebar, adjust font size of the site's title to make the title fint
+    on one line.
+  - Increase the font size of the site's subtitle to make it a little easier to
+    read. Unfortunately, you have to zoom in to see the emoji.
+*/
+#sidebar #avatar {
+  box-shadow: none;
+}
+
+#sidebar #avatar img {
+  transform: scale(1.1);
+}
+
+#sidebar .site-title {
+  letter-spacing: normal;
+  font-size: 2rem;
+}
+
+#sidebar .site-subtitle {
+  font-size: 1.2rem;
+  font-style: normal !important;
+}
+
+/*
+  The following changes are shared.
+*/
+
+/*
   - Because the default font families couldn't be changed in this file, it was
     necessary to edit _sass/abstracts/_variables.scss to specify a serif font
     family as the default body font family.
@@ -178,34 +209,6 @@ div#search-result-wrapper div.content,
 }
 
 /*
-  - Remove the box shadow around the avatar image.
-  - Enlarge the avatar image by 1.1 to make it fill the circle.
-*/
-#sidebar #avatar {
-  box-shadow: none;
-}
-
-#sidebar #avatar img {
-  transform: scale(1.1);
-}
-
-/*
-  - In the sidebar, adjust font size of the site's title to make the title fint
-    on one line.
-  - Increase the font size of the site's subtitle to make it a little easier to
-    read. Unfortunately, you have to zoom in to see the emoji.
-*/
-#sidebar .site-title {
-  letter-spacing: normal;
-  font-size: 2rem;
-}
-
-#sidebar .site-subtitle {
-  font-size: 1.2rem;
-  font-style: normal !important;
-}
-
-/*
   In the Archives page, adjust the font size for the year to make make the
   timeline indicators align correctly.
 */
@@ -216,10 +219,8 @@ div#archives .year {
 /*
   Style search results as cards.
 */
-#search-results > article {
-  margin-bottom: 3rem !important;
-  padding: 2rem !important;
-  border-radius: 10px;
+#search-results > article > a > section {
+  box-shadow: none;
 }
 
 /*
