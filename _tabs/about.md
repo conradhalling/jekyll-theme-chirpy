@@ -13,16 +13,17 @@ University and a Ph.D. in molecular biology (1989) at the University of
 California, Berkeley. I was an American Cancer Society post-doctoral fellow at
 the University of Chicago (May 1989 - August 1993).
 
-### Employment
+### Employment History
 
 I worked in the biotechnology industry for 28+ years (November 1993 through
 February 2022). I filled various roles, including bioinformatics scientist,
 project manager, data manager, data analyst, web developer, database
-administrator, Linux administrator, grant writer, consultant, and team lead.
-During my career, I worked primarily as a member of teams that wrote tools for
-designing DNA constructs and for managing laboratory data. We supported
-laboratory scientists in designing cloning experiments; managing DNA and protein
-samples; and collecting, presenting, and interpreting protein assay data.
+administrator, Linux administrator, grant writer, hiring manager, consultant,
+and team lead. During my career, I worked primarily as a member of teams that
+wrote tools for designing DNA constructs and for managing laboratory data. We
+supported laboratory scientists in designing cloning experiments; managing DNA
+and protein samples; and collecting, presenting, and interpreting protein assay
+data.
 
 My career was challenging and rewarding, and I miss working collaboratively to
 solve hard research problems.
@@ -34,9 +35,9 @@ bench for ten years during my graduate school and post-doctoral research—I cou
 apply my experience and knowledge towards writing computerized tools for
 molecular biologists. I used many programming languages over the years,
 including (in approximate chronological order) C, Fortran, Oracle SQL, Perl,
-HTML, CSS, R, C++, PHP, bash, MySQL SQL, C#, Java, JavaScript, and Python. I
+HTML, CSS, R, C++, PHP, bash, MySQL, C#, Java, JavaScript, and Python. I
 also used tools such as SVN, Git, JIRA, and Slack. I was still writing code
-using Python, JavaScript, and SQL until I retired at age 67 years 6 months at
+using Python, JavaScript, and SQL when I retired at age 67 years 6 months at
 the end of February 2022.
 
 ### Current Activities
