@@ -1,7 +1,24 @@
 @mixin styles {
+  color-scheme: dark;
+
   /*
-    These variables and styles are common to _blue_dark.scss, _green_dark.scss,
-    and _slategray_dark.scss.
+    - Set the base hue and saturation levels.
+    - Define the colors used to style page elements.
+  */
+  --bg-color-005: hsl(var(--base-hue) var(--base-saturation) 5);
+  --bg-color-010: hsl(var(--base-hue) var(--base-saturation) 10);
+  --bg-color-015: hsl(var(--base-hue) var(--base-saturation) 15);
+  --bg-color-020: hsl(var(--base-hue) var(--base-saturation) 20);
+  --bg-color-030: hsl(var(--base-hue) var(--base-saturation) 30);
+  --bg-color-050: hsl(var(--base-hue) var(--base-saturation) 50);
+
+  --text-color-100: hsl(var(--base-hue) var(--base-saturation) 100);
+  --text-color-080: hsl(var(--base-hue) var(--base-saturation) 80);
+  --text-color-075: hsl(var(--base-hue) var(--base-saturation) 75);
+  --text-color-050: hsl(var(--base-hue) var(--base-saturation) 50);
+
+  /*
+    Override Chirpy's default style colors.
   */
 
   /*

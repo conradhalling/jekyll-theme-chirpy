@@ -43,75 +43,75 @@
     - system: light  [data-mode]: dark
 
   - A color family is defined for each color theme using the same hue and
-    changing the luminosity level.
+    changing the lightness level.
   - dark mode
-    - background luminosity levels:
-      - --bg-color-005      5% luminosity:  body
-      - --bg-color-010     10% luminosity:  sidebar, cards on Home
-      - --bg-color-015     15% luminosity:  active tab on sidebar, hover over
+    - background lightness levels:
+      - --bg-color-005      5% lightness:  body
+      - --bg-color-010     10% lightness:  sidebar, cards on Home
+      - --bg-color-015     15% lightness:  active tab on sidebar, hover over
         inactive tab, hover over card on Home, sidebar-hover-bg, sidebar-btn-bg,
         even table rows
-      - --bg-color-020     20% luminosity:  odd table rows
-      - --bg-color-030     30% luminosity:  all borders
-    - text luminosity levels:
-      - --text-color-100  100% luminosity:  important text
-      - --text-color-080   80% luminosity:  muted text
-      - --text-color-075   75% luminosity:  unselected tab, unselected button,
+      - --bg-color-020     20% lightness:  odd table rows
+      - --bg-color-030     30% lightness:  all borders
+    - text lightness levels:
+      - --text-color-100  100% lightness:  important text
+      - --text-color-080   80% lightness:  muted text
+      - --text-color-075   75% lightness:  unselected tab, unselected button,
         subtitle color
-      - --text-color-050   50% luminosity:  links, code block elements
+      - --text-color-050   50% lightness:  links, code block elements
 
   - light mode
-    - background luminosity levels:
-      - --bg-color-095     95% luminosity:  body
-      - --bg-color-090     90% luminosity:  sidebar, cards on Home
-      - --bg-color-085     85% luminosity:  active tab on sidebar, hover over
+    - background lightness levels:
+      - --bg-color-095     95% lightness:  body
+      - --bg-color-090     90% lightness:  sidebar, cards on Home
+      - --bg-color-085     85% lightness:  active tab on sidebar, hover over
         inactive tab, hover over card on Home, sidebar-hover-bg, sidebar-btn-bg,
         even table rows
-      - --bg-color-080     80% luminosity:  odd table rows
-      - --bg-color-070     70% luminosity:  all borders
-    - text luminosity levels:
-      - --text-color-000    0% luminosity:  important text
-      - --text-color-020   20% luminosity:  muted text
-      - --text-color-025   25% luminosity:  unselected tab, unselected button,
+      - --bg-color-080     80% lightness:  odd table rows
+      - --bg-color-070     70% lightness:  all borders
+    - text lightness levels:
+      - --text-color-000    0% lightness:  important text
+      - --text-color-020   20% lightness:  muted text
+      - --text-color-025   25% lightness:  unselected tab, unselected button,
         subtitle color
-      - --text-color-050   50% luminosity:  links, code block elements
+      - --text-color-050   50% lightness:  links, code block elements
 */
+
+@use 'theme_variants/light_variant';
+@use 'theme_variants/dark_variant';
 
 /*
-  - These style sheets provide theme variants with light and dark themes for
-    each of copper rose, olive, cadet blue, slate gray, blue gray, taverny
-    blue, or saturated blue colors.
+  Set the base hue and saturation for creating style colors.
+  sphaerula.com:
+    hue: 150
+    saturation: 20
+  conradhalling.com:
+    hue: 210
+    saturation: 40
 */
+:root {
+  --base-hue: 150; // 0 to 360
+  --base-saturation: 20; // 0 to 100
 
-{% comment %}
-  Assign 'copperrose', 'olive', 'cadetblue', 'slategray', 'bluegray',
-  'tavernyblue', or 'saturatedblue' as a color theme.
-{% endcomment %}
-{% assign color = 'cadetblue' %}
-
-@use 'theme_variants/{{ color }}_light';
-@use 'theme_variants/{{ color }}_dark';
-
-html {
   @media (prefers-color-scheme: light) {
     &:not([data-mode]),
     &[data-mode='light'] {
-      @include {{ color }}_light.styles;
+      @include light_variant.styles;
     }
 
     &[data-mode='dark'] {
-      @include {{ color }}_dark.styles;
+      @include dark_variant.styles;
     }
   }
 
   @media (prefers-color-scheme: dark) {
     &:not([data-mode]),
     &[data-mode='dark'] {
-      @include {{ color }}_dark.styles;
+      @include dark_variant.styles;
     }
 
     &[data-mode='light'] {
-      @include {{ color }}_light.styles;
+      @include light_variant.styles;
     }
   }
 }
@@ -120,8 +120,8 @@ html {
   - These changes are for sphaerula.com.
   - Remove the box shadow around the avatar image.
   - Enlarge the avatar image by 1.1 to make it fill the circle.
-  - In the sidebar, adjust font size of the site's title to make the title fint
-    on one line.
+  - In the sidebar, adjust the font size of the site's title to make the title
+    fit on one line.
   - Increase the font size of the site's subtitle to make it a little easier to
     read. Unfortunately, you have to zoom in to see the emoji.
 */
@@ -144,7 +144,7 @@ html {
 }
 
 /*
-  The following changes are shared.
+  The following changes are shared between sphaerula.com and conradhalling.com.
 */
 
 /*
@@ -159,7 +159,8 @@ html {
       - _sass/base/_typography.scss
   - The following file had to be edited to remove the Oswald font family:
       - _sass/pages/_tags.scss
-  - Many style changes were required after changing the default font family.
+  - Many style changes were required after changing the default font family
+    and these are made below.
 */
 
 /*
