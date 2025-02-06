@@ -1,0 +1,34 @@
+@use 'dark_common';
+
+@mixin styles {
+  /*
+    dark mode taverny blue hue based on hsl(210, 50%, 40%) using the color
+    picker at https://www.w3schools.com/colors/colors_picker.asp
+  */
+  color-scheme: dark;
+
+  /*
+    Define the standard colors for backgrounds.
+    The numbers indicate percent lightness.
+  */
+  --bg-color-005: hsl(210, 50%, 5%);
+  --bg-color-010: hsl(210, 50%, 10%);
+  --bg-color-015: hsl(210, 50%, 15%);
+  --bg-color-020: hsl(210, 50%, 20%);
+  --bg-color-030: hsl(210, 50%, 30%);
+  --bg-color-050: hsl(210, 50%, 50%);
+  
+  /*
+    Define the standard colors for text.
+    The numbers indicate percent lightness.
+  */
+  --text-color-100: hsl(210, 50%, 100%);
+  --text-color-080: hsl(210, 50%, 80%);
+  --text-color-075: hsl(210, 50%, 75%);
+  --text-color-050: hsl(210, 50%, 50%);
+
+  /*
+    Include all variables and styles common to dark mode.
+  */
+  @include dark_common.styles;
+}

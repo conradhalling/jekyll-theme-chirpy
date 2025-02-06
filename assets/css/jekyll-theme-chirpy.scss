@@ -78,15 +78,16 @@
 */
 
 /*
-  - These style sheets provide three theme variants with light and dark themes
-    for each of crimson, green, blue, purple, olive, and slategray colors.
+  - These style sheets provide theme variants with light and dark themes for
+    each of copper rose, olive, cadet blue, slate gray, blue gray, or taverny
+    blue colors.
 */
 
 {% comment %}
-  Assign 'crimson', 'green', 'blue', 'purple', 'olive', or 'slategray' to 
-  choose the theme you want.
+  Assign 'copperrose', 'olive', 'cadetblue', 'slategray', 'bluegray', or 
+  'tavernyblue' as a color theme.
 {% endcomment %}
-{% assign color = 'blue' %}
+{% assign color = 'cadetblue' %}
 
 @use 'theme_variants/{{ color }}_light';
 @use 'theme_variants/{{ color }}_dark';
