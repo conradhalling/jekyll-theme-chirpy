@@ -77,41 +77,41 @@
       - --text-color-050   50% lightness:  links, code block elements
 */
 
+@use 'theme_variants/light_variant';
+@use 'theme_variants/dark_variant';
+
 /*
-  - These style sheets provide theme variants with light and dark themes for
-    each of copper rose, olive, cadet blue, slate gray, blue gray, taverny
-    blue, or saturated blue colors.
+  Set the base hue and saturation for creating style colors.
+  sphaerula.com:
+    hue: 150
+    saturation: 20
+  conradhalling.com:
+    hue: 210
+    saturation: 40
 */
+:root {
+  --base-hue: 210; // 0 to 360
+  --base-saturation: 40; // 0 to 100
 
-{% comment %}
-  Assign 'copperrose', 'olive', 'cadetblue', 'slategray', 'bluegray',
-  'tavernyblue', or 'saturatedblue' as a color theme.
-{% endcomment %}
-{% assign color = 'tavernyblue' %}
-
-@use 'theme_variants/{{ color }}_light';
-@use 'theme_variants/{{ color }}_dark';
-
-html {
   @media (prefers-color-scheme: light) {
     &:not([data-mode]),
     &[data-mode='light'] {
-      @include {{ color }}_light.styles;
+      @include light_variant.styles;
     }
 
     &[data-mode='dark'] {
-      @include {{ color }}_dark.styles;
+      @include dark_variant.styles;
     }
   }
 
   @media (prefers-color-scheme: dark) {
     &:not([data-mode]),
     &[data-mode='dark'] {
-      @include {{ color }}_dark.styles;
+      @include dark_variant.styles;
     }
 
     &[data-mode='light'] {
-      @include {{ color }}_light.styles;
+      @include light_variant.styles;
     }
   }
 }
