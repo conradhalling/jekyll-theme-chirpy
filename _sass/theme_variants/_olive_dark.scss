@@ -2,7 +2,7 @@
 
 @mixin styles {
   /*
-    dark mode purple hue based on #556b2f using the color picker
+    dark mode olive hue based on hsl(90, 20%, 50%) using the color picker
     at https://www.w3schools.com/colors/colors_picker.asp
   */
   color-scheme: dark;
@@ -11,21 +11,21 @@
     Define the standard colors for backgrounds.
     The numbers indicate percent lightness.
   */
-  --bg-color-005: #0e1208;
-  --bg-color-010: #1c2310;
-  --bg-color-015: #2a3517;
-  --bg-color-020: #38471f;
-  --bg-color-030: #556b2f;
-  --bg-color-050: #8db14e;
+  --bg-color-005: hsl(90, 20%, 5%);
+  --bg-color-010: hsl(90, 20%, 10%);
+  --bg-color-015: hsl(90, 20%, 15%);
+  --bg-color-020: hsl(90, 20%, 20%);
+  --bg-color-030: hsl(90, 20%, 30%);
+  --bg-color-050: hsl(90, 20%, 50%);
   
   /*
     Define the standard colors for text.
     The numbers indicate percent lightness.
   */
-  --text-color-100: #ffffff;
-  --text-color-080: #d1e0b8;
-  --text-color-075: #c6d8a6;
-  --text-color-050: #8db14e;
+  --text-color-100: hsl(90, 20%, 100%);
+  --text-color-080: hsl(90, 20%, 80%);
+  --text-color-075: hsl(90, 20%, 75%);
+  --text-color-050: hsl(90, 20%, 50%);
 
   /*
     Include all variables and styles common to dark mode.

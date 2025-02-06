@@ -1,0 +1,34 @@
+@use 'light_common';
+
+@mixin styles {
+  /*
+    light mode saturated blue hue based on hsl(240, 100%, 50%) using the color picker
+    at https://www.w3schools.com/colors/colors_picker.asp
+  */
+  color-scheme: light;
+
+  /*
+    Define the standard colors for backgrounds.
+    The numbers indicate percent lightness.
+  */
+  --bg-color-095: hsl(240, 100%, 95%);
+  --bg-color-090: hsl(240, 100%, 90%);
+  --bg-color-085: hsl(240, 100%, 85%);
+  --bg-color-080: hsl(240, 100%, 80%);
+  --bg-color-070: hsl(240, 100%, 70%);
+  --bg-color-050: hsl(240, 100%, 50%);
+
+  /*
+    Define the standard colors for text.
+    The numbers indicate percent lightness.
+  */
+  --text-color-000: hsl(240, 100%, 0%);
+  --text-color-020: hsl(240, 100%, 20%);
+  --text-color-025: hsl(240, 100%, 25%);
+  --text-color-050: hsl(240, 100%, 50%);
+
+  /*
+    Include all variables and styles common to light mode.
+  */
+  @include light_common.styles;
+}
