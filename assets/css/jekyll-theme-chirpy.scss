@@ -78,14 +78,14 @@
 */
 
 /*
-  - These style sheets provide theme variants with light and dark themes
-    for each of copper rose, cadet blue, slate gray, blue gray, or olive
-    colors.
+  - These style sheets provide theme variants with light and dark themes for
+    each of copper rose, olive, cadet blue, slate gray, blue gray, or taverny
+    blue colors.
 */
 
 {% comment %}
-  Assign 'copperrose', 'cadetblue', 'slategray', 'tavernyblue', 'bluegray', or
-  'olive' to choose the theme you want.
+  Assign 'copperrose', 'olive', 'cadetblue', 'slategray', 'bluegray', or 
+  'tavernyblue' as a color theme.
 {% endcomment %}
 {% assign color = 'tavernyblue' %}
 
