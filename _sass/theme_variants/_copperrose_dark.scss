@@ -1,0 +1,34 @@
+@use 'dark_common';
+
+@mixin styles {
+  /*
+    dark mode copper rose hue based on hsl(348, 50%, 50%) using the color picker
+    at https://www.w3schools.com/colors/colors_picker.asp
+  */
+  color-scheme: dark;
+
+  /*
+    Define the standard colors for backgrounds.
+    The numbers indicate percent lightness.
+  */
+  --bg-color-005: hsl(0, 20%, 5%);
+  --bg-color-010: hsl(0, 20%, 10%);
+  --bg-color-015: hsl(0, 20%, 15%);
+  --bg-color-020: hsl(0, 20%, 20%);
+  --bg-color-030: hsl(0, 20%, 30%);
+  --bg-color-050: hsl(0, 20%, 50%);
+  
+  /*
+    Define the standard colors for text.
+    The numbers indicate percent lightness.
+  */
+  --text-color-100: hsl(0, 20%, 100%);
+  --text-color-080: hsl(0, 20%, 80%);
+  --text-color-075: hsl(0, 20%, 75%);
+  --text-color-050: hsl(0, 20%, 50%);
+
+  /*
+    Include all variables and styles common to dark mode.
+  */
+  @include dark_common.styles;
+}

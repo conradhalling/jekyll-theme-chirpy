@@ -43,50 +43,51 @@
     - system: light  [data-mode]: dark
 
   - A color family is defined for each color theme using the same hue and
-    changing the luminosity level.
+    changing the lightness level.
   - dark mode
-    - background luminosity levels:
-      - --bg-color-005      5% luminosity:  body
-      - --bg-color-010     10% luminosity:  sidebar, cards on Home
-      - --bg-color-015     15% luminosity:  active tab on sidebar, hover over
+    - background lightness levels:
+      - --bg-color-005      5% lightness:  body
+      - --bg-color-010     10% lightness:  sidebar, cards on Home
+      - --bg-color-015     15% lightness:  active tab on sidebar, hover over
         inactive tab, hover over card on Home, sidebar-hover-bg, sidebar-btn-bg,
         even table rows
-      - --bg-color-020     20% luminosity:  odd table rows
-      - --bg-color-030     30% luminosity:  all borders
-    - text luminosity levels:
-      - --text-color-100  100% luminosity:  important text
-      - --text-color-080   80% luminosity:  muted text
-      - --text-color-075   75% luminosity:  unselected tab, unselected button,
+      - --bg-color-020     20% lightness:  odd table rows
+      - --bg-color-030     30% lightness:  all borders
+    - text lightness levels:
+      - --text-color-100  100% lightness:  important text
+      - --text-color-080   80% lightness:  muted text
+      - --text-color-075   75% lightness:  unselected tab, unselected button,
         subtitle color
-      - --text-color-050   50% luminosity:  links, code block elements
+      - --text-color-050   50% lightness:  links, code block elements
 
   - light mode
-    - background luminosity levels:
-      - --bg-color-095     95% luminosity:  body
-      - --bg-color-090     90% luminosity:  sidebar, cards on Home
-      - --bg-color-085     85% luminosity:  active tab on sidebar, hover over
+    - background lightness levels:
+      - --bg-color-095     95% lightness:  body
+      - --bg-color-090     90% lightness:  sidebar, cards on Home
+      - --bg-color-085     85% lightness:  active tab on sidebar, hover over
         inactive tab, hover over card on Home, sidebar-hover-bg, sidebar-btn-bg,
         even table rows
-      - --bg-color-080     80% luminosity:  odd table rows
-      - --bg-color-070     70% luminosity:  all borders
-    - text luminosity levels:
-      - --text-color-000    0% luminosity:  important text
-      - --text-color-020   20% luminosity:  muted text
-      - --text-color-025   25% luminosity:  unselected tab, unselected button,
+      - --bg-color-080     80% lightness:  odd table rows
+      - --bg-color-070     70% lightness:  all borders
+    - text lightness levels:
+      - --text-color-000    0% lightness:  important text
+      - --text-color-020   20% lightness:  muted text
+      - --text-color-025   25% lightness:  unselected tab, unselected button,
         subtitle color
-      - --text-color-050   50% luminosity:  links, code block elements
+      - --text-color-050   50% lightness:  links, code block elements
 */
 
 /*
-  - These style sheets provide three theme variants with light and dark themes
-    for each of crimson, green, blue, purple, olive, and slategray colors.
+  - These style sheets provide theme variants with light and dark themes
+    for each of copper rose, cadet blue, slate gray, blue gray, or olive
+    colors.
 */
 
 {% comment %}
-  Assign 'crimson', 'green', 'blue', 'purple', 'olive', or 'slategray' to 
-  choose the theme you want.
+  Assign 'copperrose', 'cadetblue', 'slategray', 'tavernyblue', 'bluegray', or
+  'olive' to choose the theme you want.
 {% endcomment %}
-{% assign color = 'green' %}
+{% assign color = 'tavernyblue' %}
 
 @use 'theme_variants/{{ color }}_light';
 @use 'theme_variants/{{ color }}_dark';
