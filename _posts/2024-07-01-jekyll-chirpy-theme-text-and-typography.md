@@ -1,10 +1,10 @@
 ---
-title: Text and Typography
+title: Jekyll Chirpy Theme Text and Typography
 description: This page demonstrates examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
 author: [cotes, conrad]
 date: 2024-07-01 18:00:00 -0500
-last_modified_at: 2025-01-30 17:42:00 -0500
-categories: [Jekyll]
+last_modified_at: 2025-02-06 21:44:00 -0500
+categories: [Computing]
 math: true
 mermaid: true
 image:
@@ -12,11 +12,17 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-**Note**: I copied this post from the [source
+## Introduction
+
+[Jekyll](https://jekyllrb.com) is a tool for building static websites. This
+website is built using the [Jekyll Chirpy
+theme](https://github.com/cotes2020/jekyll-theme-chirpy) with my own style
+changes. I copied this post from the [source
 code](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-text-and-typography.md)
 for Cotes Chung's [demonstration
-website](https://chirpy.cotes.page/posts/text-and-typography/) for the Chirpy
-theme and modified it for testing this website. —Conrad Halling
+website](https://chirpy.cotes.page/posts/text-and-typography/) for the Jekyll
+Chirpy theme and modified it for testing this website. This post demonstrates the text
+and typography styles of this Jekyll theme. — Conrad Halling
 
 ## Headings
 

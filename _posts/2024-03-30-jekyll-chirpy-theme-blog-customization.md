@@ -1,19 +1,24 @@
 ---
-title: Chirpy Blog Customization
+title: Jekyll Chirpy Theme Blog Customization
 description: 基于 Jekyll-Theme-Chirpy v7.0.0 的个性化方案介绍：MathJax 配置、侧边栏样式、页脚站点统计、背景动画、自定义新的 prompt 和 details 元素样式、LQIP 和反色图片的 Python 实现等内容。
 author: [huanyu_shi, conrad]
 date: 2024-03-30
-last_modified_at: 2025-01-30 17:44:00 -0500
-categories: [Jekyll]
+last_modified_at: 2025-02-06 21:50:00 -0500
+categories: [Computing]
 math: true
 media_subpath: /assets/img/in-post/2024/2024-03-30/
 ---
 
-**Note**: I copied this post from the [source
+## Introduction
+
+[Jekyll](https://jekyllrb.com) is a tool for building static websites. This
+website is built using the [Jekyll Chirpy
+theme](https://github.com/cotes2020/jekyll-theme-chirpy) with my own style
+changes. I copied this post from the [source
 code](https://github.com/huanyushi/huanyushi.github.io/blob/main/_posts/2024/2024-03-30-chirpy-blog-customization.md)
 for Huanyu Shi's
 [website](https://huanyushi.github.io/posts/chirpy-blog-customization/) and
-modified it for testing this website. —Conrad Halling
+modified it for testing this website. — Conrad Halling
 
 ## 1. 简介
 去年我通过 jekyll 在 github 部署了静态博客网站，效果甚合我意。

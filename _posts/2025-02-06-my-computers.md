@@ -1,10 +1,12 @@
 ---
 title: My Computers
 author: conrad
-description: Looking back, I see I have been programming computers for 54 years. I have owned many different computer models, and I describe them here in eye-glazing detail.
 date: 2025-02-06 12:13:00 -0500
-categories: [Computing]
+categories: [Technology]
 ---
+
+Looking back, I see I have been programming computers for 54 years. I have owned
+many different computer models, and I describe them here in eye-glazing detail.
 
 I began programming computers in high school summer classes where we learned
 Fortran. We used an [acoustic
@@ -12,7 +14,7 @@ coupler](https://en.wikipedia.org/wiki/Acoustic_coupler) to connect to a
 time-share computer at Oregon State University.
 
 In college, I purchased a magnetic card-programmable [HP-67
-calculator](https://www.hpmuseum.org/hp6797.htm) calculator for $495 and used it
+calculator](https://www.hpmuseum.org/hp6797.htm) for $495 and used it
 in my physics, chemistry, and statistics courses, writing and saving small
 programs on the magnetic cards.
 

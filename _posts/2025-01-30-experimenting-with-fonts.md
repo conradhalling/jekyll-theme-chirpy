@@ -4,7 +4,7 @@ author: conrad
 description: If a website requests a generic font, what font does your computer supply?
 date: 2025-01-30 12:46:00 -0500
 last_modified_at: 2025-02-02 10:42:00 -0500
-categories: [Jekyll]
+categories: [Computing]
 ---
 
 The generic font families specified by CSS styles include monospace, serif,
