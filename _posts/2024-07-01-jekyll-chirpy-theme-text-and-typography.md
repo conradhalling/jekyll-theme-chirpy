@@ -3,7 +3,7 @@ title: Jekyll Chirpy Theme Text and Typography
 description: This page demonstrates examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
 author: [cotes, conrad]
 date: 2024-07-01 18:00:00 -0500
-last_modified_at: 2025-02-06 21:44:00 -0500
+last_modified_at: 2025-02-09 18:06:00 -0500
 categories: [Computing]
 math: true
 mermaid: true
@@ -78,6 +78,8 @@ Moon
 
 > This line shows the _block quote_.
 
+>> This is a double _block quote_.
+
 ## Prompts
 
 <!-- markdownlint-capture -->
@@ -107,6 +109,8 @@ Moon
 
 <http://127.0.0.1:4000>
 
+[Jekyll Theme Chirpy source code](https://github.com/cotes2020/jekyll-theme-chirpy)
+
 ## Footnote
 
 Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
@@ -114,6 +118,43 @@ Click the hook will locate the footnote[^footnote], and here is another footnote
 ## Inline Code
 
 This is an example of `Inline Code`.
+
+## Keyboard Input
+
+<p>This is an example of <kbd>keyboard entry text</kbd>.</p>
+
+<p>
+  You can also create a new document by pressing the
+  <kbd><kbd>Ctrl</kbd>+<kbd>N</kbd></kbd> shortcut.
+</p>
+
+## Computer Output
+
+<p>I was trying to boot my computer, but I got this hilarious message:</p>
+
+<p>
+  <samp>Keyboard not found <br>Press F1 to continue</samp>
+</p>
+
+## Highlighted Text
+
+I need to highlight these <mark>very important words</mark>.
+
+## Subscripts
+
+The chemical formula for water is H<sub>2</sub>O.
+
+## Superscripts
+
+There are 10<sup>3</sup> milliliters in a liter.
+
+## Horizontal Rule
+
+This text is separated by a horizontal rule...
+
+---
+
+...from this text.
 
 ## Filepath
 

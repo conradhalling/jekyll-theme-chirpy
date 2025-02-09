@@ -3,14 +3,14 @@ title: Experimenting with Fonts
 author: conrad
 description: If a website requests a generic font, what font does your computer supply?
 date: 2025-01-30 12:46:00 -0500
-last_modified_at: 2025-02-02 10:42:00 -0500
+last_modified_at: 2025-02-09 18:06:00 -0500
 categories: [Computing]
 ---
 
-The generic font families specified by CSS styles include monospace, serif,
-sans-serif, fantasy, and cursive. When a CSS style requests one of these generic
-font families, what actual font is used on your computer? This page provides
-an experiment in seeing what fonts are used.
+The generic font families specified by CSS styles include `monospace`, `serif`,
+`sans-serif`, `fantasy`, and `cursive`. When a CSS style requests one of these
+generic font families, what actual font is used on your computer? This page
+provides an experiment in seeing what fonts are used.
 
 These were the fonts that were used on my different devices:
 
