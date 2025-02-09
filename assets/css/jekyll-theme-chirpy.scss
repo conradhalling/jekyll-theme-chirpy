@@ -1,5 +1,5 @@
 ---
-# Preprocessed by Liquid.
+# This file is processed by Liquid before it is processed by SCSS.
 ---
 
 /*
@@ -19,99 +19,51 @@
 */
 
 /*
-  These variables defined in '_sass/abstracts/_variables.scss' are needed below:
-    v.$font-family-heading  (Verdana, sans-serif)
-    v.$font-family-base     (Georgia, serif)
-*/
-@use 'abstracts/variables' as v;
-
-/*
-  - The theme variants stored in _sass/theme_variants use custom styles to
-    regularize and organize color specifications, to increase contrast between
-    text and the background, and to add a theme hue to the page.
-  - For more information about the structure of this file, see
-    https://github.com/cotes2020/jekyll-theme-chirpy/discussions/1838.
-  - The styles defined below override styles from:
-      - _sass/base/_base.scss
-      - _sass/themes/_light.scss
-      - _sass/themes/_dark.scss
-  - data-mode is a global custom data attribute with values 'light' or 'dark'
-  - There are four combinations to deal with:
-    - system: dark   [data-mode]: dark
-    - system: dark   [data-mode]: light
-    - system: light  [data-mode]: light
-    - system: light  [data-mode]: dark
-
-  - A color family is defined for each color theme using the same hue and
-    changing the lightness level.
-  - dark mode
-    - background lightness levels:
-      - --bg-color-005      5% lightness:  body
-      - --bg-color-010     10% lightness:  sidebar, cards on Home
-      - --bg-color-015     15% lightness:  active tab on sidebar, hover over
-        inactive tab, hover over card on Home, sidebar-hover-bg, sidebar-btn-bg,
-        even table rows
-      - --bg-color-020     20% lightness:  odd table rows
-      - --bg-color-030     30% lightness:  all borders
-    - text lightness levels:
-      - --text-color-100  100% lightness:  important text
-      - --text-color-080   80% lightness:  muted text
-      - --text-color-075   75% lightness:  unselected tab, unselected button,
-        subtitle color
-      - --text-color-050   50% lightness:  links, code block elements
-
-  - light mode
-    - background lightness levels:
-      - --bg-color-095     95% lightness:  body
-      - --bg-color-090     90% lightness:  sidebar, cards on Home
-      - --bg-color-085     85% lightness:  active tab on sidebar, hover over
-        inactive tab, hover over card on Home, sidebar-hover-bg, sidebar-btn-bg,
-        even table rows
-      - --bg-color-080     80% lightness:  odd table rows
-      - --bg-color-070     70% lightness:  all borders
-    - text lightness levels:
-      - --text-color-000    0% lightness:  important text
-      - --text-color-020   20% lightness:  muted text
-      - --text-color-025   25% lightness:  unselected tab, unselected button,
-        subtitle color
-      - --text-color-050   50% lightness:  links, code block elements
+  Set the colors for theme elements using a specific hue and saturation while
+  varying the lightness, effectively using shades of the same color. Lightness
+  varies from 100% (white) through 50% (showing color) to 0% (black).
 */
 
-@use 'theme_variants/light_variant';
-@use 'theme_variants/dark_variant';
+@use 'light_colors';
+@use 'dark_colors';
 
-/*
-  Set the base hue and saturation for creating style colors.
-  sphaerula.com:
-    hue: 150
-    saturation: 20
-  conradhalling.com:
-    hue: 210
-    saturation: 40
-*/
 :root {
+  /*
+    Set the base hue and saturation for creating style colors. The variables
+    are used in assets/css/light_colors.scss and assets/css/dark_colors.scss.
+  */
   --base-hue: 150; // 0 to 360
   --base-saturation: 20; // 0 to 100
 
+  /*
+    Set the font families.
+  */
+  --content-font-family: Georgia, serif;
+  --heading-font-family: Verdana, sans-serif;
+  --table-font-family: Verdana, sans-serif;
+
+  /*
+    Set up support for light mode and dark mode.
+  */
   @media (prefers-color-scheme: light) {
     &:not([data-mode]),
     &[data-mode='light'] {
-      @include light_variant.styles;
+      @include light_colors.styles;
     }
 
     &[data-mode='dark'] {
-      @include dark_variant.styles;
+      @include dark_colors.styles;
     }
   }
 
   @media (prefers-color-scheme: dark) {
     &:not([data-mode]),
     &[data-mode='dark'] {
-      @include dark_variant.styles;
+      @include dark_colors.styles;
     }
 
     &[data-mode='light'] {
-      @include light_variant.styles;
+      @include light_colors.styles;
     }
   }
 }
@@ -148,20 +100,11 @@
 */
 
 /*
-  - Because the default font families couldn't be changed in this file, it was
-    necessary to edit _sass/abstracts/_variables.scss to specify a serif font
-    family as the default body font family.
-  - The following files had to be edited to substitute the default sans-serif
-    font family for the Lato font family:
-      - _sass/components/_popups.scss
-      - _sass/pages/_archives.scss
-      - _sass/pages/_home.scss
-      - _sass/base/_typography.scss
-  - The following file had to be edited to remove the Oswald font family:
-      - _sass/pages/_tags.scss
-  - Many style changes were required after changing the default font family
-    and these are made below.
+  Set the content font family.
 */
+body {
+  font-family: var(--content-font-family);
+}
 
 /*
   Increase font size for content and adjust line spacing for readability.
@@ -172,66 +115,103 @@
 }
 
 /*
-  Override default styles to use a sans-serif font for titles and labels.
+  Style titles, headings, and labels using the same font family.
 */
+/* _includes/topbar.html */
+search#search,
+#topbar-title,
+/* _sass/base/_base.scss */
+.content a.popup + em,
+div#tail-wrapper,
+/* _sass/base/_syntax.scss */
+div[class^="language-"] .code-header,
+/* _sass/base/_typography.scss */
+h1,
+h2,
+h3,
+h4,
+h5,
+div.content div#tags,
+/* _sass/components/_popups.scss */
+#notification > .toast-body,
+#toc-popup .header .label,
+#toc-popup #toc-popup-content,
+/* _sass/layout/_panel.scss */
+div.access > section,
+#panel-wrapper .panel-heading,
+/* _sass/layout/_sidebar.scss */
 #sidebar .site-title,
 #sidebar .site-subtitle,
 #sidebar ul,
+/* _sass/layout/_topbar.scss */
 #topbar #breadcrumb,
+/* _sass/pages/_archives.scss */
+div#archives,
+#archives .date.day,
+/* _sass/pages/_categories.scss */
+article div div.categories.card,
+/* _sass/pages/_category-tag.scss */
+div#page-category ul,
+div#page-tag ul,
+/* _sass/pages/_home.scss */
 #post-list .card .card-body .post-meta,
-div.access > section,
-div#tail-wrapper,
-search#search,
-div.post-meta,
+#post-list .card .card-body .card-text.content,
+ul .pagination,
+/* _sass/pages/_post.scss */
+.share-mastodon,
+#toc-solo-trigger .label,
+header > div.post-meta,
 div.post-tail-wrapper div.license-wrapper,
 div.post-tail-wrapper div.post-tags,
 section#toc-wrapper,
-article div div.categories.card,
-div#page-category ul,
-div#page-tag ul,
-div#archives,
-div[class^="language-"] .code-header,
-#archives .date.day,
-#post-list .card .card-body .card-text.content,
-div.content div#tags,
+header .post-desc,
+/* _sass/pages/_search.scss */
 div#search-result-wrapper div.content,
-.content a.popup + em,
+/* _sass/pages/_tags.scss */
+.tag span,
 {
-  font-family: v.$font-family-heading;
+  font-family: var(--heading-font-family);
+}
+
+/*
+  - Override Lato font for the kbd element.
+  - _sass/base/_typography.scss
+*/
+kbd {
+  font-family: monospace;
 }
 
 /*
   Override default styles to maintain font size.
 */
+/* _sass/pages/_home.scss */
 #post-list .card .card-body .card-text.content,
+/* _sass/base/_typography.scss */
 div.content div#tags,
+/* _sass/pages/_search.scss */
 div#search-result-wrapper div.content,
 {
   font-size: 1rem;
 }
 
 /*
-  In the Archives page, adjust the font size for the year to make make the
-  timeline indicators align correctly.
+  - In the Archives page, adjust the font size for the year to make make the
+    timeline indicators align correctly.
+  - _sass/pages/_archives.scss
 */
+
 div#archives .year {
   font-size: 1.17rem;
 }
 
 /*
-  Style search results as cards.
-*/
-#search-results > article > a > section {
-  box-shadow: none;
-}
-
-/*
-  In tables, use a small sans-serif font.
+  - In tables, use a small sans-serif font.
+  - _sass/base/_base.scss
 */
 .table-wrapper > table tr th,
 .table-wrapper > table tr td,
 {
-  font-family: v.$font-family-heading;
+  font-family: var(--table-font-family);
   font-size: 0.8rem !important;
   padding: 0.5rem !important;
   line-height: 1.2rem;
@@ -239,7 +219,24 @@ div#archives .year {
 }
 
 /*
-  Hide the share icons at bottom of posts.
+  - Eliminate the box shadow for search results.
+  - _sass/pages/_search.scss
+*/
+#search-results > article > a > section {
+  box-shadow: none;
+}
+
+/*
+  - Prevent collapsing the table of contents.
+  - ./assets/lib/tocbot/tocbot.min.css
+*/
+.is-collapsed {
+  max-height: none !important;
+}
+
+/*
+  - Hide the share icons at bottom of posts.
+  - _sass/pages/_post.scss
 */
 div .share-wrapper {
   display: none !important;

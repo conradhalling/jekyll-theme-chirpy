@@ -2,8 +2,9 @@
   color-scheme: dark;
 
   /*
-    - Set the base hue and saturation levels.
-    - Define the colors used to style page elements.
+    Use the base hue and saturation values to define the colors used to style
+    page elements, where the final colors have the same hue and saturation
+    and differ only in their lightness values.
   */
   --bg-color-005: hsl(var(--base-hue) var(--base-saturation) 5);
   --bg-color-010: hsl(var(--base-hue) var(--base-saturation) 10);
@@ -41,7 +42,7 @@
   */
   --main-bg: var(--bg-color-005);
   --card-bg: var(--bg-color-010);
-  --main-border-color: var(--bg-color-030);
+  --main-border-color: var(--bg-color-030); // includes hr element
   --topbar-bg: var(--bg-color-005);
 
   /*
