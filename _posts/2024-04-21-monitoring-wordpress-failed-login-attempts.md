@@ -4,6 +4,7 @@ author: conrad
 date: 2024-04-21 22:19:00 -0500
 description: Bad actors on the internet attempt to log in to WordPress sites. I use a plugin to slow them down.
 categories: [Blogging]
+media_subpath: /assets/img/2024-04-21/
 ---
 
 For simplicity and convenience, I use [WordPress](https://wordpress.org/) as the
@@ -28,13 +29,13 @@ curious enough right now to find out these are implemented.
 
 At conradhalling.com, the number of failed attempts is still increasing daily:
 ![A chart of failed WordPress login attempts at
-conradhalling.com](/assets/img/2024-04-21/failed-login-attempts-conradhalling.png){:
+conradhalling.com](failed-login-attempts-conradhalling.png){:
 width="1402" height="652" .w-100 .normal}_Failed login attempts at conradhalling.com._
 
 On this site, sphaerula.com, the number of failed login attempts peaked a few
 days ago at more than ninety, and the number has diminished since then: ![A
 chart of failed WordPress login attempts at
-sphaerula.com.](/assets/img/2024-04-21/failed-login-attempts-sphaerula.png){:
+sphaerula.com.](failed-login-attempts-sphaerula.png){:
 width="1380" height="652" .w-100 .normal}_Failed login attempts at
 sphaerula.com._
 
