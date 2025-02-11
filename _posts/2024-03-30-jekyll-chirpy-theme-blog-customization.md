@@ -4,7 +4,7 @@ description: 基于 Jekyll-Theme-Chirpy v7.0.0 的个性化方案介绍：MathJa
 author: [huanyu_shi, conrad]
 date: 2024-03-30
 last_modified_at: 2025-02-06 21:50:00 -0500
-categories: [Computing]
+categories: [Blogging]
 math: true
 media_subpath: /assets/img/in-post/2024/2024-03-30/
 ---

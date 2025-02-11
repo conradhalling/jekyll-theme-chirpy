@@ -3,7 +3,7 @@ title: Modifying the Jekyll Chirpy Theme
 author: conrad
 description: I modified the Jekyll Chirpy theme to use different font families and to add color and contrast.
 date: 2025-02-09 18:06:00 -0500
-categories: [Computing]
+categories: [Blogging]
 ---
 
 ## Introduction

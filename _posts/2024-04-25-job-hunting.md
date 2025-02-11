@@ -2,7 +2,7 @@
 title: Job Hunting
 description: The fraught process of job hunting is no fun for the job candidate.
 author: conrad
-date: 2024-04-05 18:04:00 -0500
+date: 2024-04-25 18:04:00 -0500
 categories: [Technology]
 ---
 

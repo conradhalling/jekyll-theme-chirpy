@@ -4,7 +4,7 @@ description: This page demonstrates examples of text, typography, math equations
 author: [cotes, conrad]
 date: 2024-07-01 18:00:00 -0500
 last_modified_at: 2025-02-09 18:06:00 -0500
-categories: [Computing]
+categories: [Blogging]
 math: true
 mermaid: true
 image:
