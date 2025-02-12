@@ -1,6 +1,7 @@
 ---
 title: Fine Writing by Tolkien
 description: Tolkien wrote many beautiful and moving descriptions of landscapes in The Lord of the Rings.
+date: 2024-04-04 21:47:00 -0500
 author: conrad
 categories: [Books]
 ---

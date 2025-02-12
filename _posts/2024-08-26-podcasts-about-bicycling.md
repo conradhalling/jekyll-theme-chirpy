@@ -1,6 +1,8 @@
 ---
 title: Podcasts About Bicycling
 description: A list of bicycling podcasts.
+date: 2024-08-26 12:23:00 -0500
+author: conrad
 categories: [Bicycling]
 ---
 

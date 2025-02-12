@@ -1,7 +1,9 @@
 ---
 title: Return to Forever / Rick Wakeman
-categories: [Music]
 description: I listened to Romantic Warrior by Return to Forever and The Myths and Legends of King Arthur and the Knights of the Round Table by Rick Wakeman.
+date: 2025-01-18 12:24:00 -0500
+author: conrad
+categories: [Music]
 ---
 
 This afternoon I listened to [*Romantic

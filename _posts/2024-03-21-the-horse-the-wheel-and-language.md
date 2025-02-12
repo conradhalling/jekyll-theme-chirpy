@@ -1,8 +1,8 @@
 ---
 title: The Horse, the Wheel, and Language
 description: What other books like "The Horse, the Wheel, and Language" are available?
-author: conrad
 date: 2024-03-21 18:13:00 -0500
+author: conrad
 categories: [Language]
 ---
 

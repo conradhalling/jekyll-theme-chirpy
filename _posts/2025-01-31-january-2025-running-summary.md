@@ -1,8 +1,9 @@
 ---
 title: Running Summary January 2025
+description: I have run steadily for 13 weeks without injury and have increased my long run to 10 miles.
+date: 2025-01-31 11:23:00 -0500
 author: conrad
 categories: [Running]
-description: I have run steadily for 13 weeks without injury and have increased my long run to 10 miles.
 ---
 
 These are the miles I've logged since I started running again on November 2, 2024.

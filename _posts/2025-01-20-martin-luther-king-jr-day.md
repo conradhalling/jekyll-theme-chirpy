@@ -1,8 +1,9 @@
 ---
 title: Martin Luther King Jr. Day
+description: Be kind to your neighbors.
+date: 2025-01-20 09:04:00 -0500
 author: conrad
 categories: [Society]
-description: Be kind to your neighbors.
 ---
 
 After we had snow a couple of weeks ago, some of our neighbors never cleaned

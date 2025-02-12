@@ -1,12 +1,16 @@
 ---
 title: Modern Technology in Middle-earth
 description: This is a story idea. In Middle-earth, humans would eventually develop modern technologies through an industrial revolution. The result would be Middle-earth with modern amenities.
-author: conrad
 date: 2024-05-03 09:22:00 -0500
+author: conrad
 categories: [Writing]
+media_subpath: /assets/img/2024-05-03/
 ---
 
-![A high-speed train in Middle-earth](/assets/img/2024-05-03/DALL·E-A-modern-high-speed-railroad-set-in-the-fantastical-landscape-of-Middle-earth.jpg){: width="672" height="384" }_A DALL-E generated image of a high-speed train passing through a valley in Middle-earth_
+![A DALL-E generated image of a high-speed train passing through a valley in
+Middle-earth](DALL·E-A-modern-high-speed-railroad-set-in-the-fantastical-landscape-of-Middle-earth.jpg){:
+width="672" height="384" }_A DALL-E generated image of a high-speed train
+passing through a valley in Middle-earth_
 
 A tourist in modern Middle-earth could take a walking tour of Hobbiton led by
 guides dressed as hobbits, featuring a historically authentic recreation

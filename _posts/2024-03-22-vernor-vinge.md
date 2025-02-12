@@ -1,8 +1,8 @@
 ---
 title: Vernor Vinge
 description: Vernor Vinge, professor and science fiction author, has died.
-author: conrad
 date: 2024-03-22 09:36:00 -0500
+author: conrad
 categories: [Books]
 ---
 
