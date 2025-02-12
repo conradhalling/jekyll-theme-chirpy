@@ -1,5 +1,5 @@
 ---
-title: Henrietta Leavitt—“Overlooked No More”
+title: "Henrietta Leavitt: “Overlooked No More”"
 author: conrad
 date: 2024-03-30 13:15:00 -0500
 description: The New York Times has published an obituary for Henrietta Leavitt.

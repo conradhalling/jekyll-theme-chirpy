@@ -3,10 +3,10 @@ title: Jekyll Chirpy Theme Blog Customization
 description: 基于 Jekyll-Theme-Chirpy v7.0.0 的个性化方案介绍：MathJax 配置、侧边栏样式、页脚站点统计、背景动画、自定义新的 prompt 和 details 元素样式、LQIP 和反色图片的 Python 实现等内容。
 author: [huanyu_shi, conrad]
 date: 2024-03-30
-last_modified_at: 2025-02-06 21:50:00 -0500
 categories: [Blogging]
 math: true
-media_subpath: /assets/img/in-post/2024/2024-03-30/
+media_subpath: /assets/img/2024-03-30/
+last_modified_at: 2025-02-06 21:50:00 -0500
 ---
 
 ## Introduction
