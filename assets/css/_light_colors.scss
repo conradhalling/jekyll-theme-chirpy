@@ -2,8 +2,9 @@
   color-scheme: light;
 
   /*
-    - Set the base hue and saturation levels.
-    - Define the colors used to style page elements.
+    Use the base hue and saturation values to define the colors used to style
+    page elements, where the final colors have the same hue and saturation
+    and differ only in their lightness values.
   */
   --bg-color-095: hsl(var(--base-hue) var(--base-saturation) 95);
   --bg-color-090: hsl(var(--base-hue) var(--base-saturation) 90);
