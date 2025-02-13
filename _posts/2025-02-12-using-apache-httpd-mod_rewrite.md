@@ -3,7 +3,7 @@ title: Using Apache httpd 2.4 mod_rewrite
 description: Here's an Apache httpd 2.4 mod_rewrite formula for my blogs.
 author: conrad
 date: 2025-02-12 19:03:00 -0500
-categories: [Jekyll]
+categories: [Blogging]
 ---
 
 I recorded this here because I couldn't find a good recommendation for a rewrite
