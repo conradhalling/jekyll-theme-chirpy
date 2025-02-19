@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-![Conrad Halling](/assets/img/2025-02-14/Conrad_Halling_2025-02-14.png){: width="200" .right}
+![Conrad Halling](/assets/img/2025-02-14/Conrad_Halling_2025-02-14.png){: width="150" .right}
 
 
 ## About Conrad Halling
