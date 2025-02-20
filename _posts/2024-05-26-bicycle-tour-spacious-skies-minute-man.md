@@ -1,5 +1,5 @@
 ---
-title: "Bike Tour: Spacious Skies Minute Man"
+title: "Bicycle Tour: Spacious Skies Minute Man"
 description: On my first bicycle tour of 2024, I did a short over-nighter to Spacious Skies Minuteman Campground near Littleton, Massachusetts.
 date: 2024-05-26 12:14:00 -0500
 author: conrad
