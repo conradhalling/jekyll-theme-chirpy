@@ -3,7 +3,7 @@ title: Jekyll Chirpy Theme Text and Typography
 description: This page demonstrates examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
 author: [cotes, conrad]
 date: 2024-07-01 18:00:00 -0500
-last_modified_at: 2025-02-09 18:06:00 -0500
+last_modified_at: 2025-02-20 13:38:00 -0500
 categories: [Blogging]
 math: true
 mermaid: true
@@ -159,6 +159,36 @@ This text is separated by a horizontal rule...
 ## Filepath
 
 Here is the `/path/to/the/file.extend`{: .filepath}.
+
+## Console I/O
+
+See the [Rouge
+Documentation](https://rouge-ruby.github.io/docs/Rouge/Lexers/ConsoleLexer.html)
+for more information.
+
+```console
+$ ssh-keygen
+Generating public/private ed25519 key pair.
+Enter file in which to save the key (/Users/halto/.ssh/id_ed25519):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /Users/halto/.ssh/id_ed25519
+Your public key has been saved in /Users/halto/.ssh/id_ed25519.pub
+The key fingerprint is:
+SHA256:VuHuWL14ynXlWDgHrgM1BOV8hy5/nR+KX1n0s2+r5to halto@arcturus
+The key's randomart image is:
++--[ED25519 256]--+
+|          ooo    |
+|         . =   . |
+|          o = + o|
+|         o o = =.|
+|        S + o =.*|
+|       . + o = BB|
+|        . o * +*+|
+|         . +o+o.=|
+|          oo=E.o+|
++----[SHA256]-----+
+```
 
 ## Code Blocks
 
