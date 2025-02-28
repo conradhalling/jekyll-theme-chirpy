@@ -21,18 +21,27 @@ on the clipboard icon at the top right of the code block window below.
 """
 INTRODUCTION
 
-This is an example of using creating a SQLite database. This script manages
-database transactions and enforces foreign key constraints.
+This is an example of using Python to create a SQLite database. The script
+creates a sqlite3 database in the file db.sqlite3.
 
-This script issues "BEGIN TRANSACTION" and "COMMIT" or "ROLLBACK" commands
-rather than using conn->commit() or conn->rollback(), which do nothing when
-conn.autocommit is True.
+This script meets the following requirements:
+    -   it manages database transactions, allowing a complete rollback when
+        requested
+    -   it enforces foreign key constraints
 
-EXAMPLE
+This script manages database transactions by issuing explicit "BEGIN
+TRANSACTION" and "COMMIT" or "ROLLBACK" commands.
 
-No data is saved in the database when commit_flag = False in function main.
+This script enforces foreign key constraints by issuing a
+"PRAGMA foreign_keys = ON" command.
 
-    $ python3 create_db.py
+EXAMPLES
+
+In these examples, foreign key constraints are enforced.
+
+With the rollback argument, no data is saved in the database:
+
+    $ python3 create_db.py rollback
     Creating tables and inserting data...
       Done.
     Attempting to violate foreign key constraint...
@@ -42,29 +51,31 @@ No data is saved in the database when commit_flag = False in function main.
       The file db.sqlite3 should be empty.
 
     $ ls -l db.sqlite3
-    -rw-r--r--@ 1 halto  staff  0 Feb 27 18:18 db.sqlite3
+    -rw-r--r--@ 1 halto  staff  0 Feb 28 07:45 db.sqlite3
 
-CHECK DATABASE
+With the commit argument, data is saved in the database:
 
-Change commit_flag to True in function main to save the data in the database,
-then check the database with the following commands.
-
-    $ python3 create_db.py
+    $ python3 create_db.py commit
     Creating tables and inserting data...
       Done.
     Attempting to violate foreign key constraint...
       IntegrityError: FOREIGN KEY constraint failed
     Committing changes...
       Done.
-      The file db.sqlite3 should contain the data.
+    The file db.sqlite3 should contain the data.
 
     $ ls -l db.sqlite3
-    -rw-r--r--@ 1 halto  staff  12288 Feb 27 18:21 db.sqlite3
+    -rw-r--r--@ 1 halto  staff  12288 Feb 28 07:46 db.sqlite3
 
-    $ sqlite3 db.sqlite3
-    SQLite version 3.43.2 2023-10-10 13:08:14
+CHECK DATABASE
+
+Here's how to use the sqlite3 command line interface to view what is in the
+database.
+
+    $ /opt/homebrew/opt/sqlite3/bin/sqlite3 db.sqlite3
+    SQLite version 3.49.1 2025-02-18 13:38:58
     Enter ".help" for usage hints.
-    
+
     sqlite> .schema
     CREATE TABLE authors
             (
@@ -79,22 +90,34 @@ then check the database with the following commands.
                 author_id INTEGER,
                 FOREIGN KEY(author_id) REFERENCES authors(id)
             );
-    
+    sqlite> .mode column
+
     sqlite> select * from authors;
-    1|Isaac|Asimov
-    2|Anne|Leckie
-    3|Octavia|Butler
-    
+    id  first_name  last_name
+    --  ----------  ---------
+    1   Isaac       Asimov
+    2   Anne        Leckie
+    3   Octavia     Butler
+
     sqlite> select * from books;
-    1|Foundation|1
-    2|Ancillary Justice|2
-    3|Dawn|3
-    
+    id  title              author_id
+    --  -----------------  ---------
+    1   Dawn               3
+    2   Foundation         1
+    3   Ancillary Justice  2
+
     sqlite> .quit
+
+VERSIONS
+
+Python 3.13.2
+sqlite3 3.49.1
+macOS 15.3.1
 """
 
 
 import sqlite3
+import sys
 
 
 def save_data(db, commit_flag):
@@ -139,7 +162,7 @@ def save_data(db, commit_flag):
     authors_list = [
         ("Isaac", "Asimov"),
         ("Anne", "Leckie"),
-        ("Octavia", "Butler")
+        ("Octavia", "Butler"),
     ]
     sql05 = """
         INSERT INTO authors
@@ -151,9 +174,9 @@ def save_data(db, commit_flag):
     cur.executemany(sql05, authors_list)
 
     books_list = [
+        ("Dawn", "Octavia", "Butler"),
         ("Foundation", "Isaac", "Asimov"),
         ("Ancillary Justice", "Anne", "Leckie"),
-        ("Dawn", "Octavia", "Butler")
     ]
     sql06 = """
         SELECT
@@ -209,11 +232,22 @@ def save_data(db, commit_flag):
     conn.close()
 
 
+def get_commit_flag():
+    help_str = "The first script argument must be 'commit' or 'rollback'."
+    if len(sys.argv) == 1:
+        raise ValueError(help_str)
+    elif sys.argv[1] == "commit":
+        commit_flag = True
+    elif sys.argv[1] == "rollback":
+        commit_flag = False
+    else:
+        raise ValueError(help_str)
+    return commit_flag
+
+
 def main():
-    # Change commit_flag to True to demonstrate committing the database changes.
     db = "db.sqlite3"
-    commit_flag = False
-    # commit_flag = True
+    commit_flag = get_commit_flag()
     save_data(db=db, commit_flag=commit_flag)
 
 
