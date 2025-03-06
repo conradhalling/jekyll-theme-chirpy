@@ -1,6 +1,6 @@
 ---
 title: Python Virtual Environments in a DreamHost Shared Hosting Account
-description: I experimented with Python virtual environments in my dreamhost.com shared hosting account.
+description: I experimented with Python virtual environments in my DreamHost shared hosting account.
 author: conrad
 date: 2025-03-02 12:25:00 -0500
 categories: [Computing]
@@ -141,9 +141,9 @@ the shell printed `(venv)` above the prompt.
 
 ```console
 $ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-    % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                    Dload  Upload   Total   Spent    Left  Speed
-100 2246k  100 2246k    0     0  7565k      0 --:--:-- --:--:-- --:--:-- 7563k
+  % Total    % Received % Xferd  Average Speed    Time    Time     Time  Current
+                                 Dload  Upload    Total   Spent    Left  Speed
+100 2246k  100 2246k    0     0  7565k       0 --:--:-- --:--:-- --:--:-- 7563k
 
 $ python3 -m venv --without-pip venv
 
