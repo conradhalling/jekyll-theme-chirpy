@@ -1,15 +1,13 @@
 ---
-title: Running Summary January 2025
-description: I have run steadily for 13 weeks without injury and have increased my long run to 10 miles.
-date: 2025-01-31 11:23:00 -0500
+title: Running Summary February 2025
+description: I have run steadily for 17 weeks without injury and have increased my long run to 11 miles.
+date: 2025-02-28 21:14:00 -0500
 author: conrad
 categories: [Running]
 ---
 
-These are the miles I've logged since I started running again on November 2, 2024.
-I am trying to not train too hard and to increase my miles slowly but
-steadily. I have succeeded in running 39 times in the past 13 weeks without
-injury.
+These are the miles I've logged from November 2, 2024, through February 28, 2025.
+I am trying to increase my miles slowly but steadily without injuring myself.
 
 | Week | Date  | Mon  | Tue  | Wed  | Thu  | Fri   | Sat   | Sun  | Wk Total | Period Total |
 |-----:|-------|-----:|-----:|-----:|-----:|------:|------:|-----:|---------:|-------------:|
@@ -27,15 +25,19 @@ injury.
 |   11 | 1/13  |      |      |      |      |       |       | 4.11 |     4.11 |       138.88 |
 |   12 | 1/20  |      |      |      |      |  4.10 |       |      |     4.10 |       142.98 |
 |   13 | 1/27  | 5.12 | 4.13 | 4.45 |      |       |       |      |    13.70 |       156.68 |
+|   14 | 2/3   | 5.05 |      | 5.08 |      |  4.13 | 11.19 |      |    25.46 |       182.14 |
+|   15 | 2/10  |      | 5.08 |      | 5.14 |       |  6.26 |      |    16.48 |       198.62 |
+|   16 | 2/17  |      |      |      |      |       |       |      |     0.00 |       198.62 |
+|   17 | 2/24  |      | 2.05 | 3.03 |      |       |     — |    — |     5.08 |       203.70 |
 
-I ran the 4-mile Gobble, Gobble, Gobble race on Thursday, November 28
-(Thanksgiving Day), at a sub-10:00 pace. My training runs are usually at a 10:35
-or slower mile pace. 
+My last race was the 4-mile Gobble, Gobble, Gobble race on Thursday, November 28
+(Thanksgiving Day), which I completed at a sub-10:00 pace. My training runs are
+usually at a 10:35 or slower mile pace. 
 
-I deliberately ran very little the week of January 13 since I needed a rest
-week. Unfortunately, I ran very little following week of January 20 because of
-snow, ice, and cold weather. I am back on track this week.
-
-I have steadily increased my long run each week to 10 miles. I plan to continue
-increasing my long run one mile each week in February to 14 miles on the last
-weekend of the month.
+We experienced a typical New England winter in January and February, causing me
+to miss many days of running because of cold air and accumulated snow and ice on
+roads and sidewalks. I increased my long run to eleven miles, but I finished
+only three long runs since the beginning of 2025. My daily run reached five
+miles before I missed nine days in a row because of winter. As I write this at
+the end of February, I reduced my daily mileage and will increase it again
+slowly in March.
