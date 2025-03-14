@@ -22,5 +22,6 @@ package-lock.json
 !.vscode/extensions.json
 !.vscode/tasks.json
 
-# Misc
+# Project-specific
 .DS_store
+_drafts/
