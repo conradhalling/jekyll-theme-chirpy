@@ -4,17 +4,27 @@ icon: fas fa-calendar
 order: 2
 ---
 
-## Friday February 14, 2025
+## Monday March 17, 2025
 
-I am reading *Alien Oceans* by Kevin Peter Hand.
+For science, I am reading *Alien Oceans* by Kevin Peter Hand and *Probably
+Overthinking It* by Allen Downey, and I am and attending meetings
+and lectures about astronomy.
 
-I just finished four weeks of work learning how to use
-[Jekyll](https://jekyllrb.com) and the [Chirpy
-theme](https://github.com/cotes2020/jekyll-theme-chirpy) for creating this blog.
-I wrote a detailed description in this blog about how I customized the Jekyll
-Chirpy theme. I learned a lot about modern HTML, CSS, SCSS, and configuration of
-Apache httpd with this project.
+In the past four weeks I have been reviving my Python and SQL skills, which I
+haven't used since I retired three years ago. I am building an application for
+tracking the audiobooks I listen to. I have records in an Excel file going back
+to 2010. I am building a Python CGI application because DreamHost supports PHP
+and CGI but not WSGI.
 
-I have attended lectures from the [Amateur Astronomers
-Association](https://aaa.org) and the monthly meetings of the [Amateur Telescope
-Makers of Boston](https://atmob.org).
+I have posted recently about what I've been learning while working on this
+application:
+
+-   [Apache httpd mod_rewrite](/blog/posts/using-apache-httpd-mod_rewrite/)
+-   [Generating and Installing an ssh Public Key](/blog/posts/generating-and-installing-ssh-key-pair/)
+-   [Using SQLite3 with Python 3.12 and 3.13](/blog/posts/using-sqlite3-with-python/)
+-   [Python Virtual Environments in a DreamHost Shared Hosting Account](/blog/posts/python-virtual-environments-in-a-dreamhost-shared-hosting-account/)
+-   [WSGI and CGI Apps in a DreamHost Shared Hosting Account](/blog/posts/wsgi-and-cgi-apps-in-a-dreamhost-shared-hosting-account/)
+
+I am working on a second project that involves finding and annotating interesting
+websites in the .science top level domain. This is partly because I'm considering
+registering a domain in the .science TLD for my own use.
