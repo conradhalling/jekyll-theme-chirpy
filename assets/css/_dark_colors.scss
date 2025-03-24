@@ -10,6 +10,7 @@
   --bg-color-010: hsl(var(--base-hue) var(--base-saturation) 10);
   --bg-color-015: hsl(var(--base-hue) var(--base-saturation) 15);
   --bg-color-020: hsl(var(--base-hue) var(--base-saturation) 20);
+  --bg-color-025: hsl(var(--base-hue) var(--base-saturation) 25);
   --bg-color-030: hsl(var(--base-hue) var(--base-saturation) 30);
   --bg-color-050: hsl(var(--base-hue) var(--base-saturation) 50);
 
@@ -107,16 +108,16 @@
   /*
     Tables
   */
-  --tb-odd-bg: var(--bg-color-020);                 // odd table rows
-  --tb-even-bg: var(--bg-color-015);                // even table rows
-  --tb-border-color: var(--bg-color-030);           // standard border color
+  --tb-odd-bg: var(--bg-color-005);                 // odd table rows
+  --tb-even-bg: var(--bg-color-010);                // even table rows
+  --tb-border-color: var(--bg-color-025);           // standard border color
 
   .table-wrapper > table {
     border: solid 2px var(--tb-border-color);
   }
 
   .table-wrapper > table thead {
-    background-color: var(--bg-color-010);
+    background-color: var(--bg-color-015);
     border-bottom: solid 2px var(--tb-border-color);
   }
 
