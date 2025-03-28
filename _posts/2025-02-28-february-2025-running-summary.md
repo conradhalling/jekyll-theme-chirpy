@@ -30,14 +30,18 @@ I am trying to increase my miles slowly but steadily without injuring myself.
 |   16 | 2/17  |      |      |      |      |       |       |      |     0.00 |       198.62 |
 |   17 | 2/24  |      | 2.05 | 3.03 |      |       |     — |    — |     5.08 |       203.70 |
 
-My last race was the 4-mile Gobble, Gobble, Gobble race on Thursday, November 28
-(Thanksgiving Day), which I completed at a sub-10:00 pace. My training runs are
-usually at a 10:35 or slower mile pace. 
+I had stopped running after August 24, 2024 because of a sore right Achilles
+tendon. After a little more than two months without running, I started again on
+November 2.
+
+I ran the 4-mile Gobble, Gobble, Gobble race on Thursday, November 28
+(Thanksgiving Day) with a good time except I was slow going up hills. Running
+went well in December. 
 
 We experienced a typical New England winter in January and February, causing me
-to miss many days of running because of cold air and accumulated snow and ice on
-roads and sidewalks. I increased my long run to eleven miles, but I finished
-only three long runs since the beginning of 2025. My daily run reached five
-miles before I missed nine days in a row because of winter. As I write this at
-the end of February, I reduced my daily mileage and will increase it again
-slowly in March.
+to miss many days of running because of cold temperatures and accumulated snow
+and ice on roads and sidewalks. I increased my long run to eleven miles, but I
+have finished only three long runs since the beginning of 2025. My daily run
+reached five miles before I missed nine days in a row because of winter. As I
+write this at the end of February, I have reduced my daily mileage and will
+increase it again slowly in March.
