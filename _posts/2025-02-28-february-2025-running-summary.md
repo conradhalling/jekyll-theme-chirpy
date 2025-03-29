@@ -7,7 +7,6 @@ categories: [Running]
 ---
 
 These are the miles I've logged from November 2, 2024, through February 28, 2025.
-I am trying to increase my miles slowly but steadily without injuring myself.
 
 | Week | Date  | Mon  | Tue  | Wed  | Thu  | Fri   | Sat   | Sun  | Wk Total | Period Total |
 |-----:|-------|-----:|-----:|-----:|-----:|------:|------:|-----:|---------:|-------------:|
@@ -31,17 +30,18 @@ I am trying to increase my miles slowly but steadily without injuring myself.
 |   17 | 2/24  |      | 2.05 | 3.03 |      |       |     — |    — |     5.08 |       203.70 |
 
 I had stopped running after August 24, 2024 because of a sore right Achilles
-tendon. After a little more than two months without running, I started again on
-November 2.
+tendon. After a little more than two months without running, I started running
+again on November 2. I am trying to increase my miles slowly but steadily
+without injuring myself.
 
 I ran the 4-mile Gobble, Gobble, Gobble race on Thursday, November 28
 (Thanksgiving Day) with a good time except I was slow going up hills. Running
-went well in December. 
+went well in December.
 
 We experienced a typical New England winter in January and February, causing me
 to miss many days of running because of cold temperatures and accumulated snow
 and ice on roads and sidewalks. I increased my long run to eleven miles, but I
-have finished only three long runs since the beginning of 2025. My daily run
+finished only three long runs since the beginning of 2025. My daily run
 reached five miles before I missed nine days in a row because of winter. As I
 write this at the end of February, I have reduced my daily mileage and will
 increase it again slowly in March.
