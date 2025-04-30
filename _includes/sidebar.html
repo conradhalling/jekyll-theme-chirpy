@@ -35,8 +35,14 @@
             <span>{{ site.data.locales[include.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
           </a>
         </li>
-        <!-- .nav-item -->
       {% endfor %}
+      <!-- Crawler Activity website -->
+      <li class="nav-item">
+        <a href="https://sphaerula.com/cgi/crawlers.cgi" class="nav-link">
+          <i class="fa-fw fas fa-spider"></i>
+          <span>CRAWLERS</span>
+        </a>
+      </li>
     </ul>
   </nav>
 

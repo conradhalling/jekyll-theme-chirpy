@@ -4,27 +4,31 @@ icon: fas fa-calendar
 order: 2
 ---
 
-## Monday March 17, 2025
+## Wednesday April 30, 2025
 
 For science, I am reading *Alien Oceans* by Kevin Peter Hand and *Probably
 Overthinking It* by Allen Downey, and I am and attending meetings
 and lectures about astronomy.
 
-In the past four weeks I have been reviving my Python and SQL skills, which I
-haven't used since I retired three years ago. I am building an application for
-tracking the audiobooks I listen to. I have records in an Excel file going back
-to 2010. I am building a Python CGI application because DreamHost supports PHP
-and CGI but not WSGI.
+I have spent the first four months of 2025 reviving my Python and
+SQL skills, which I haven't used since I retired in 2022. The first project is my
+[Audiobooks](https://conradhalling.com/audiobooks/) tool for tracking the
+audiobooks I've listened to for the past fifteen years. The second project is my
+[Crawler Activity](https://sphaerula.com/cgi/crawlers.cgi) tool for analyzing
+and presenting data about the web crawlers that are indexing and scraping my two
+websites.
 
-I have posted recently about what I've been learning while working on this
-application:
+I have posted recently about what I've been learning while working on these
+tools and on this blog:
 
 -   [Apache httpd mod_rewrite](/blog/posts/using-apache-httpd-mod_rewrite/)
 -   [Generating and Installing an ssh Public Key](/blog/posts/generating-and-installing-ssh-key-pair/)
 -   [Using SQLite3 with Python 3.12 and 3.13](/blog/posts/using-sqlite3-with-python/)
 -   [Python Virtual Environments in a DreamHost Shared Hosting Account](/blog/posts/python-virtual-environments-in-a-dreamhost-shared-hosting-account/)
 -   [WSGI and CGI Apps in a DreamHost Shared Hosting Account](/blog/posts/wsgi-and-cgi-apps-in-a-dreamhost-shared-hosting-account/)
+-   [Strip Metadata from Your Photos](/blog/posts/strip-metadata-from-your-photos/)
+-   [Web Bots and Crawlers](/blog/posts/web-bots-and-crawlers/)
 
-I am working on a second project that involves finding and annotating interesting
+I have started a third project that involves finding and annotating interesting
 websites in the .science top level domain. This is partly because I'm considering
 registering a domain in the .science TLD for my own use.
