@@ -32,7 +32,7 @@ half mile repeats on two days. My long runs in the humidity were very difficult,
 and I had to cut some short. But on August 7-10 I ran on the Oregon coast, and those
 runs were fun and easy.
 
-I had signed up for a half marathon in Westerly Rhode Island in early
+I had signed up for a half marathon in Westerly, Rhode Island, in early
 September. But my long run on Saturday, August 24, was intended to be 13 miles
 long, and I had to stop at 11 miles with a very sore right Achilles tendon.
 I decided I could not run the race.

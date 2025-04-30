@@ -1,12 +1,13 @@
 ---
-title: Running Summary March 2025
-description: I have run steadily for 21 weeks without injury. In March I increased my long run to 12.5 miles and began running faster.
-date: 2025-03-31 21:25:00 -0400
+title: Running Summary April 2025
+description: I have run steadily for 26 weeks without injury. In April I decreased my training efforts but I continued to run faster.
+date: 2025-04-30 15:48:00 -0400
 author: conrad
 categories: [Running]
 ---
 
-These are the miles I've logged from November 2, 2024, through March 31, 2025.
+These are the miles I've logged from November 2, 2024, through April 30, 2025,
+six months of pretty steady running.
 
 | Week | Date  | Mon  | Tue  | Wed  | Thu  | Fri   | Sat   | Sun   | Wk Total | Period Total |
 |-----:|-------|-----:|-----:|-----:|-----:|------:|------:|------:|---------:|-------------:|
@@ -32,18 +33,22 @@ These are the miles I've logged from November 2, 2024, through March 31, 2025.
 |   19 | 3/10  |      |      |      |      |       |  4.13 |       |     4.13 |       242.87 |
 |   20 | 3/17  | 4.16 |      | 5.17 |      |       |  4.12 |  4.13 |    17.58 |       260.45 |
 |   21 | 3/24  | 4.13 |      | 6.06 |      |  6.06 |       |       |    16.25 |       276.70 |
-|   22 | 3/31  | 4.11 |    - |    - |    - |     - |     - |     - |     4.11 |       280.81 |
+|   22 | 3/31  | 4.11 | 4.12 | 4.13 |      |  4.12 |       |       |    16.48 |       293.18 |
+|   23 | 4/7   | 4.15 |      |      |      |       |  4.14 |       |     8.29 |       301.47 |
+|   24 | 4/14  | 4.14 |      |      |      |       |       |  2.07 |     6.21 |       307.68 |
+|   25 | 4/21  |      | 5.11 |      | 6.13 |       |  6.10 |       |    15.34 |       323.02 |
+|   26 | 4/28  | 6.14 |      | 6.57 |    - |     - |     - |     - |          |              |
 
-In March I completed a long run of twelve and a half miles, but I was tired for
-several days aftewards. After that, all of my runs were four to six miles long.
-I was surprised when near the end of March I suddenly began running faster,
-reducing my time by 30 seconds per mile with no perceived increase in effort.
+I ran three days in a row on March 31 through April 2 with the idea in mind that
+I would run four miles a day for seven days in a row. But on April 3, which was
+to be day four, my left knee hurt, and I took a rest day.
 
-In mid-March I began bicycling occasionally on non-running days, which was good
-cross-training but tiring for my legs. In general, I have enough energy to
-either run or bicycle each day, although occasionally I need to take a rest day
-because my legs are tired.
+Beginning April 7, I ran twice a week for two weeks. I did a little bicycling on
+a few of the non-running days. Beginning April 20 I have tried running every other
+day, increasing my distance to six miles for the last four runs. On April 22 I
+ran five fast miles with my friend R.C. For my last two runs, I tried running
+only in Zone 2, slow and easy. I did not do any long runs in April.
 
-In April I plan to increase my bicycling and probably reduce my running, perhaps
-alternating running and bicycling days. I need to get into bicycle touring
-condition sufficient for riding a loaded bicycle about 45 miles in a day.
+My legs tolerate running every other day, but seemingly any increase means
+fatigue and aches. In May I hope to continue running steadily while beginning
+kayaking and increasing my bicycling.
