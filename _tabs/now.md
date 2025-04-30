@@ -4,30 +4,32 @@ icon: fas fa-calendar
 order: 2
 ---
 
-## Friday February 28, 2025
+## Wednesday, April 30, 2025
 
-I am currently listening to one audiobook: *Sodom and Gomorrah* (translated to
-English) by Marcel Proust. I am reading *Alien Oceans* by Kevin Peter Hand.
+In the past five weeks I finished listening to audiobooks of <cite>Dune</cite>
+by Frank Herbert, <cite>Gaudy Night</cite> by Dorothy L. Sayers, <cite>Pebble in
+the Sky</cite> by Isaac Asimov, <cite>The Whole Art of Detection</cite> by
+Lyndsay Faye, and <cite>A Wizard of Earthsea</cite> by Ursula K. Le Guin.
 
-I spent the last six weeks reviving my programming skills. I learned how to use
-[Jekyll](https://jekyllrb.com/) and the [Chirpy
-theme](https://github.com/cotes2020/jekyll-theme-chirpy) for creating this blog,
-and I spent a lot of time customizing the theme. I wrote about the details on my
-other blog at [sphaerula.com](https://sphaerula.com).
+I am currently listening to <cite>The Captive</cite> by Marcel Proust and
+<cite>Braiding Sweetgrass</cite> by Robin Wall Kimmerer. I spend about two hours
+a day walking the dogs, and I pass the time by listening to audiobooks. I track
+my audiobook listening with my
+[Audiobooks](https://conradhalling.com/audiobooks) tool on this website.
 
-I am working on a project where I will make available a simple user interface
-for recording and viewing the audiobooks I've listened to for the past fifteen
-years. Watch this space.
+My running is going well if I don't run more often than every other day. I am
+experimenting with Zone 2 running to increase my distance without tiring myself
+out. My average run is now six miles. One consequence of running is that I'm
+hungry all the time.
 
-We are emerging from a New England winter that gave us plenty of snow, ice,
-wind, and cold. I missed quite a few days of running in February because of
-weather, but my progress has been steady since I started running again last
-November.
+I cleaned my Trek Valencia bicycle and took it to Ace Wheelworks for its annual
+maintenance, and it rides nicely. I need to begin training for my bicycle tours
+this summer.
 
-It's time to start bicycling again. I need to clean my Trek Valencia bicycle and
-take it to Ace Wheelworks for its annual maintenance.
+On May 2, depending on water temperature, Paddle Boston opens its kayaking
+sites. I have a season pass, and I hope to kayak maybe once a week this
+summer.
 
-I wrote in this blog in January about Rick Wakeman's 1975 album [The Myths and
-Legends of King Arthur and the Knights of the Round
-Table](https://en.wikipedia.org/wiki/The_Myths_and_Legends_of_King_Arthur_and_the_Knights_of_the_Round_Table).
-I have been listening to it frequently.
+The other day I listened to <cite>Oxygène</cite> by Jean-Michel Jarre. I
+bought the record album when this came out in 1976. The tunes are revolving
+in my brain as I write this.
