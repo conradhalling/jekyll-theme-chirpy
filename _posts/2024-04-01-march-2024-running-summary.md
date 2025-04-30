@@ -1,6 +1,6 @@
 ---
 title: Running Summary March 2024
-description: I was running well, but I decided I had enough en
+description: I was running well, but I got distracted in mid-March and stopped running.
 date: 2024-04-01 15:39:00 -0400
 author: conrad
 categories: [Running]
@@ -25,12 +25,16 @@ These were the miles I logged from December 25, 2023, through March 31, 2024.
 |   13 |  3/18 |      |      |      |      |       |       |      |     0.00 |        73.33 |
 |   14 |  3/25 |      |      |      |      |       |       |      |     0.00 |        73.33 |
 
-I started over from scratch, essentially using the Couch to 5k plan, and it
-took me eight weeks to reach the 5k distance. A few weeks later I managed
-a six-mile run. I was experiencing some pain in my left knee, especially
-when climbing stairs, and I don't like to run when I'm feeling pain.
+In late December 2023, I started over from scratch, essentially using the Couch
+to 5k plan, and I restarted again on February 2. It took me eight weeks to reach
+the 5k distance. A few weeks later I managed a six-mile run. But I was experiencing
+some pain in my left knee, especially when climbing stairs, and I didn't like to
+run when I was feeling pain.
 
 On January 4, 2024, my wife and I adopted two dogs from the Pawtucket Rhode Island
 Animal Shelter. Suddenly I was walking a dog four times a day, occasionally for
 several miles at a time, and this was my excuse for not running as much as I
 had hoped.
+
+In March I increased my long run to six miles, but various distractions diverted
+me from running after March 16.
