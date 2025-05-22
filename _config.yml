@@ -29,7 +29,7 @@ url: "https://conradhalling.com"
 # baseurl: "/~halto/blog"
 baseurl: "/blog"
 
-paginate: 6
+paginate: 8
 
 github:
   username: conradhalling # change to your GitHub username
