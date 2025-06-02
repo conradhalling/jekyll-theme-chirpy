@@ -1,12 +1,13 @@
 ---
-title: Running Summary March 2025
-description: I have run steadily for 21 weeks without injury. In March I increased my long run to 12.5 miles and began running faster.
-date: 2025-03-31 21:25:00 -0400
+title: Running Summary May 2025
+description: I have run steadily for 30 weeks without injury. In May I increased my training efforts but ran only in Zone 2.
+date: 2025-05-31 15:01:00 -0400
 author: conrad
 categories: [Running]
 ---
 
-These are the miles I've logged from November 2, 2024, through March 31, 2025.
+These are the miles I've logged from November 2, 2024, through May 31, 2025,
+seven months of pretty steady running.
 
 | Week | Date  | Mon  | Tue  | Wed  | Thu  | Fri   | Sat   | Sun   | Wk Total | Period Total |
 |-----:|-------|-----:|-----:|-----:|-----:|------:|------:|------:|---------:|-------------:|
@@ -32,18 +33,37 @@ These are the miles I've logged from November 2, 2024, through March 31, 2025.
 |   19 | 3/10  |      |      |      |      |       |  4.13 |       |     4.13 |       242.89 |
 |   20 | 3/17  | 4.16 |      | 5.17 |      |       |  4.12 |  4.13 |    17.58 |       260.47 |
 |   21 | 3/24  | 4.13 |      | 6.06 |      |  6.06 |       |       |    16.25 |       276.72 |
-|   22 | 3/31  | 4.11 |    — |    — |    — |     — |     — |     — |        — |            — |
+|   22 | 3/31  | 4.11 | 4.12 | 4.13 |      |  4.12 |       |       |    16.48 |       293.20 |
+|   23 | 4/7   | 4.15 |      |      |      |       |  4.14 |       |     8.29 |       301.49 |
+|   24 | 4/14  | 4.14 |      |      |      |       |       |  2.07 |     6.21 |       307.70 |
+|   25 | 4/21  |      | 5.11 |      | 6.13 |       |  6.10 |       |    15.34 |       323.04 |
+|   26 | 4/28  | 6.14 |      | 6.57 |      |  7.05 |       |  9.41 |    29.17 |       352.21 |
+|   27 | 5/5   |      |      | 6.10 |      |       |  4.41 |  7.05 |    17.56 |       369.77 |
+|   28 | 5/12  |      | 5.08 |      | 7.03 |       |  4.09 |       |    16.20 |       385.97 |
+|   29 | 5/19  |      |      |      |      |  3.08 | 11.02 |       |    14.10 |       400.07 |
+|   30 | 5/26  | 7.03 |      |      | 7.03 |       |  8.03 |     — |          |              |
 
-In March I completed a long run of twelve and a half miles, but I was tired for
-several days aftewards. After that, all of my runs were four to six miles long.
-I was surprised when near the end of March I suddenly began running faster,
-reducing my time by 30 seconds per mile with no perceived increase in effort.
+In May 2025 I have run only in Zone 2, and this is working well for me. Running
+in Zone 2 enabled me to increase the average length of my runs without injuring
+myself. I avoided running two days in a row unless I was well-rested. But my
+running was inconsistent when I prioritized other activities over running. I
+managed one long run of eleven miles.
 
-In mid-March I began bicycling occasionally on non-running days, which was good
-cross-training but tiring for my legs. In general, I have enough energy to
-either run or bicycle each day, although occasionally I need to take a rest day
-because my legs are tired.
+My monthly totals reveal that my effort is not very consistent from month to
+month, but I increased my total effort in May.
 
-In April I plan to increase my bicycling and probably reduce my running, perhaps
-alternating running and bicycling days. I need to get into bicycle touring
-condition sufficient for riding a loaded bicycle about 45 miles in a day.
+| Month    | Miles | Miles per Day |
+|----------|------:|--------------:|
+| Nov 2024 | 33.91 |          1.13 |
+| Dec 2024 | 64.00 |          2.06 |
+| Jan 2025 | 58.79 |          1.90 |
+| Feb 2025 | 47.02 |          1.70 |
+| Mar 2025 | 77.11 |          2.49 |
+| Apr 2025 | 54.92 |          1.83 |
+| May 2025 | 86.41 |          2.79 |
+
+Ideally, I would like to run every other day with a long run reaching fourteen
+miles every two weeks as long as I don't have any nagging pains. In a really
+consistent month, I should be able to run a hundred miles. I would like to run a
+half marathon race this year, but I feel like a marathon is now beyond my
+physical ability.
