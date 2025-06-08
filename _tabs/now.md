@@ -4,21 +4,26 @@ icon: fas fa-calendar
 order: 2
 ---
 
-## Wednesday April 30, 2025
+## Sunday June 8, 2025
 
-For science, I am reading *Alien Oceans* by Kevin Peter Hand and *Probably
-Overthinking It* by Allen Downey, and I am and attending meetings
-and lectures about astronomy.
+I have spent the first five months of 2025 reviving my Python and SQL skills,
+which I hadn't used since I retired in 2022.
 
-I have spent the first four months of 2025 reviving my Python and
-SQL skills, which I haven't used since I retired in 2022. The first project is my
-[Audiobooks](https://conradhalling.com/audiobooks/) tool for tracking the
-audiobooks I've listened to for the past fifteen years. The second project is my
-[Crawler Activity](https://sphaerula.com/cgi/crawlers.cgi) tool for analyzing
-and presenting data about the web crawlers that are indexing and scraping my two
-websites.
+The first project is my
+[Audiobooks](https://conradhalling.com/audiobooks/)
+tool for tracking the audiobooks I've listened to for the past fifteen years.
 
-I have posted recently about what I've been learning while working on these
+The second project is my
+[Crawler Activity](https://sphaerula.com/cgi/crawlers.cgi?summary)
+tool for analyzing and presenting data about the web crawlers that are indexing
+and scraping my two websites.
+
+In a third project, I am finding and annotating interesting websites in the
+.science top level domain. This is partly because I'm considering registering a
+domain in the .science TLD for my own use, and I'm curious about who is
+using .science domains.
+
+I have recently posted about what I've been learning while working on these
 tools and on this blog:
 
 -   [Apache httpd mod_rewrite](/blog/posts/using-apache-httpd-mod_rewrite/)
@@ -29,6 +34,5 @@ tools and on this blog:
 -   [Strip Metadata from Your Photos](/blog/posts/strip-metadata-from-your-photos/)
 -   [Web Bots and Crawlers](/blog/posts/web-bots-and-crawlers/)
 
-I have started a third project that involves finding and annotating interesting
-websites in the .science top level domain. This is partly because I'm considering
-registering a domain in the .science TLD for my own use.
+I write about my other activities on my other blog at
+[conradhalling.com](https://conradhalling.com/blog).
