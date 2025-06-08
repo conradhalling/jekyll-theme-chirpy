@@ -1,6 +1,6 @@
 ---
 title: "The Busybody Book Club"
-description: "This is a brief review of “The Busybody Book Club” by Freya Sampson."
+description: "This is a brief review of the book “The Busybody Book Club” by Freya Sampson."
 date: 2025-06-04 20:48:00 -0400
 author: conrad
 categories: [Books]

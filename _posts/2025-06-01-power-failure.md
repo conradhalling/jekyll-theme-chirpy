@@ -1,6 +1,6 @@
 ---
 title: "Power Failure"
-description: "These are my comments about “Power Failure” by William D. Cohan."
+description: "These are my comments about the book “Power Failure” by William D. Cohan."
 date: 2025-06-01 11:57:00 -0400
 author: conrad
 categories: [Books]
