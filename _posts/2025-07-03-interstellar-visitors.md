@@ -26,7 +26,16 @@ What many people are hoping for is that the object turns out to be an
 interstellar spaceship, perhaps as depicted in Arthur C. Clarke's book
 [<cite>Rendezvous with Rama</cite>](https://www.harpercollins.com/products/rendezvous-with-rama-arthur-c-clarke?variant=39935267799074).
 
-Here's a story idea for science fiction writers. We send a probe to investigate
-a new interstellar visitor, and the cameras on our probe return images of
-one or even several other ancient and alien spacecraft that have already landed
-on the object.
+<em>Here's a story idea for science fiction writers</em>: We send a probe to
+investigate a new interstellar visitor, and the cameras on our probe return
+images of one or even several other ancient and alien spacecraft that have
+already landed on the object.
+
+<em>Added July 5, 2025</em>: The official name of the new object is [Comet
+3I/ATLAS](https://science.nasa.gov/solar-system/comets/3i-atlas/).
+
+The European Space Agency's
+[Comet Interceptor](https://www.esa.int/Science_Exploration/Space_Science/Comet_Interceptor)
+is scheduled to launch in 2029. The spacecraft will be parked in orbit. When a
+comet approaches the sun in an orbit suitable for interception, ESA scientists
+will send two probes from the spacecraft to the comet.
