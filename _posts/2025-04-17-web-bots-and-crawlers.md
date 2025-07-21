@@ -1,5 +1,5 @@
 ---
-title: Web Bots and Crawlers
+title: Web Bots and Crawlers (Part 1)
 description: Most traffic on one of my websites is from web bots and crawlers.
 author: conrad
 date: 2025-04-17 09:14:00 -0400
@@ -66,3 +66,8 @@ into five categories:
 
 The anonymous explorer bots are wasting bandwidth and energy for the site
 because they are not finding the files or directories they are looking for.
+
+## Next Post
+
+See [Web Bots and Crawlers (Part 2)](/blog/posts/web-bots-and-crawlers-part-2/)
+for the next post in this series.
