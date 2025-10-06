@@ -15,3 +15,8 @@ severe pain. That problem has also gone away.
 I ran only six times in August for a total of fifteen miles with no knee or
 Achilles problems. I ran so little because I was focused on bicycling, riding
 up to 35 miles per day to prepare for short bicycle tours in September.
+
+I use my Apple Watch to alert me when I exceed my Zone 2 pace. After my
+71st birthday, the watch reduced my peak Zone 2 heartrate from 125 bpm to
+124 bpm, which is annoying. When I'm annoyed enough, I will see if I can
+override this setting.
