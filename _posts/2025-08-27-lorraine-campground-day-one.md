@@ -49,4 +49,4 @@ within Zone 1 and Zone 2. But once again I pushed harder than I should have on
 the hills. My effort was 30% Zone 1, 38% Zone 2, and 32% Zone 3.
 
 For the second day, see
-[Lorraine Campground, Day Two]( {% link _posts/2025-08-28-lorraine-campground.md %} ).
+[Lorraine Campground, Day Two]( {% link _posts/2025-08-28-lorraine-campground-day-two.md %} ).

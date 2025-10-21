@@ -52,5 +52,5 @@ today was the day.
 My only riding today was to ride on the campground roads a couple of times for
 a total of three miles.
 
-For the third day of this short tour, see
-[Lorraine Campground, Day Three]( {% link _posts/2025-08-29-lorraine-campground-to-somerville.md %} ).
+For the third and final day of this short tour, see
+[Lorraine Campground, Day Three]( {% link _posts/2025-08-29-lorraine-campground-day-three.md %} ).
