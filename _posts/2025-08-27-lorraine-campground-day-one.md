@@ -24,7 +24,7 @@ occasional bike lanes helped. The roads near North Reading had two
 difficult hills where I had to push my bike. The temperature was a pleasant 71
 °F.
 
-<iframe src="https://ridewithgps.com/embeds?type=route&id=52396753&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=344929294&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 I arrived during a cloudburst with hail and rain. After I checked in and had
 set up my camp, there was another cloudburst; I stayed dry in my tent.
