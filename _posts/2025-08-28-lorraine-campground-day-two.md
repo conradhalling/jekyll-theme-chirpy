@@ -11,7 +11,7 @@ Thursday, August 28, 2025, was the second of three days I spent at Lorraine
 Campground in
 [Harold Parker Forest](https://www.mass.gov/locations/harold-parker-state-forest).
 (For the first day of this short tour, see
-[Lorraine Campground, Day One]( {% link _posts/2025-08-27-somerville-to-lorraine-campground.md %} )).
+[Lorraine Campground, Day One]( {% link _posts/2025-08-27-lorraine-campground-day-one.md %} )).
 
 I slept 9:30 p.m. to 12:30 a.m. and 2:15 a.m. to 6:00 a.m. The temperature was
 a cool 53 °F at dawn. The damp from yesterday’s rain was annoying. The site was
