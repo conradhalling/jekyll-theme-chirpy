@@ -20,7 +20,7 @@ Massachusetts, at 3:50 p.m., taking
 three and a half hours to ride 31.76 miles. Since I had printed cue sheets and
 was careful to follow them, I didn't make any wrong turns on this trip, unlike
 on my
-[ride to this campground on May 19]( {% link _posts/2024-05-19-somerville-to-spacious-skies-minute-man.md %} ).
+[ride to this campground on May 19]( {% link _posts/2024-05-19-spacious-skies-minute-man-day-one.md %} ).
 The route I had
 planned was nearly identical to the Boston Spur of the Adventure Cycling
 Association Atlantic Coast Bicycle Route, Map #1. Because of recent rain, I

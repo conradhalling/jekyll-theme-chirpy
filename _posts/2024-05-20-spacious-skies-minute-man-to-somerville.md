@@ -9,7 +9,7 @@ categories: [Bicycling]
 Monday, May 20, 2024, was the second and final day of my tour to
 [Spacious Skies Minute Man Campground](https://spaciousskiescampgrounds.com/minute-man/).
 (For the first day, see
-[Spacious Skies Minute Man, Day One]( {% link _posts/2024-05-19-somerville-to-spacious-skies-minute-man.md %} ).)
+[Spacious Skies Minute Man, Day One]( {% link _posts/2024-05-19-spacious-skies-minute-man-day-one.md %} ).)
 
 During the night, I was awakened a few times during the night by train horns or
 noisy trucks. I carry earplugs, which would have prevented this problem, but I
