@@ -15,8 +15,8 @@ weighs 9.5 ounces.
 It requires about 55% of the capacity of one 10,000-mAh power bank to charge my
 iPhone 16 Pro and my Apple Series 10 Watch. Every few days I also need to
 recharge my tent lantern and my Blackburn bicycle lights; this uses only a few
-percent of the power bank's charge. Without recharging,
-two power banks are sufficient for recharging these devices for three days, and
+percent of the power bank's charge. Two power banks are sufficient for
+recharging these devices for three days, and
 three power banks are sufficient for five days. It takes about eight hours to
 charge one of these power banks using a 5-watt charger; using a higher power
 charger does not decrease the charging time.
@@ -26,12 +26,14 @@ carry a single power bank with larger capacity. If I have access to electricity,
 I can charge multiple power banks at a time.
 
 For longer trips, I needed a way to efficiently recharge my power banks. I
-decided to use a dynamo hub. I had my local bicycle shop,
+decided to use a dynamo hub. I asked my local bicycle shop,
 [Ace Wheelworks](https://www.wheelworks.com)
-in Somerville, MA, install a Shimano Metrea Dynamo Hub and a
-[Sinewave Cycles Reactor Dynamo Powered USB Charger](https://www.sinewavecycles.com/products/sinewave-cycles-reactor)
-on my Surly Disc Trucker. While I was at it, I also had them install a dynamo
-powered headlight. This was expensive, but I felt the convenience was worth
+in Somerville, Massachusetts, to install a Shimano Metrea Dynamo Hub, a
+[Sinewave Cycles Reactor Dynamo Powered USB Charger](https://www.sinewavecycles.com/products/sinewave-cycles-reactor),
+and a
+[Busch & Müller IQ-X](https://www.bumm.de/en/products/dynamo-scheinwerfer/produkt/164rtsndi-01-schwarz-164rtsndi-silber%20.html)
+dynamo-powered headlight on my Surly Disc Trucker.
+This was expensive, but I felt the convenience was worth
 the money.
 
 | Item | Price |
@@ -43,13 +45,13 @@ the money.
 | Sales Tax | $44.47 |
 | Total | $904.96 |
 
-On my recent eight-day tour on Cape Cod, I had a good opportunity experiment
+On my recent eight-day tour on Cape Cod, I had a good opportunity to experiment
 with recharging my power banks using the dynamo hub. I spent the first four days
 and nights at a campground that provided charging ports in their recreation
 room, so it wasn't until the sixth day that I needed to charge a power bank. The
 A1237 power bank has a percent charged readout, so I could obtain fairly precise
-numbers for charging. The results were variable, and I found that riding one
-mile increased the charge about 1%.
+numbers for charging. The results were variable, but on average I found that
+riding one mile increased the charge about 1%.
 
 | Start | End | Increase | Miles |
 | -----: | -----: | -----: | -----: |
