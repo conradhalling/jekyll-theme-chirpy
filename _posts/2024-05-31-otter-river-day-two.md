@@ -7,7 +7,7 @@ categories: [Bicycling]
 media_subpath: /assets/img/2024-05-31/
 ---
 
-On Friday, May 31, 2024, I rode the second and last segment of a tour to Otter
+On Friday, May 31, 2024, I rode the second segment of a tour to Otter
 River State Forest, where I planned to camp with fellow members of the
 Appalachian Mountain Club from the Worcester area.
 (For the first day of this tour, see
