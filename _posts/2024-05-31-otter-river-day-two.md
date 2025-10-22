@@ -76,3 +76,6 @@ count. In the photo, the swimming area is visible in the distance on the right.
 
 My riding effort was 24% Zone 1, 30% Zone 2, 40% Zone 3, and 6% Zone 4, much
 harder than I intended.
+
+For the third day of this tour, see
+[Otter River, Day Three]( {% link _posts/2024-06-01-otter-river-day-three.md %} ).
