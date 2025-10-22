@@ -9,7 +9,7 @@ media_subpath: /assets/img/2025-09-04/
 
 Thursday, September 4, 2025, was the second day of my tour of Cape Cod.
 (For the first day of this tour, see
-[Cape Cod, Day One]( {% link _posts/2025-09-03-somerville-to-north-of-highland-camping-area.md %} )).
+[Cape Cod, Day One]( {% link _posts/2025-09-03-cape-cod-2025-day-one.md %} )).
 
 I slept 9:00 p.m. to 12:30 a.m., 3:30 a.m. to 6:00 a.m. My air mattress was
 leaking air because I hadn’t closed the valve completely. I read from

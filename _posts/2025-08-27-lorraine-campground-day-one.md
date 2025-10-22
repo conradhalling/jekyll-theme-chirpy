@@ -13,7 +13,7 @@ Campground in
 This beautiful state campground is only twenty miles north of Boston. This tour
 was my first of 2025, and I was using it as a shakedown tour before a planned
 longer
-[tour to Cape Cod]( {% link _posts/2025-09-03-somerville-to-north-of-highland-camping-area.md %} )
+[tour to Cape Cod]( {% link _posts/2025-09-03-cape-cod-2025-day-one.md %} )
 in September.
 
 I left my house at 1:15 p.m. and arrived at the
