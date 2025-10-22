@@ -60,6 +60,5 @@ My riding effort today was 17% Zone 1, 39% Zone 2, 37% Zone 3, and 7% Zone 4.
 I worked harder than I wanted to. I need to learn to slow down to avoid
 overtiring myself.
 
-For the second and final day of this out and
-back tour, see
-[Spacious Skies Minute Man, Day Two]( {% link _posts/2024-05-20-spacious-skies-minute-man-to-somerville.md %} ).
+For the second and final day of this out and back tour, see
+[Spacious Skies Minute Man, Day Two]( {% link _posts/2024-05-20-spacious-skies-minute-man-day-two.md %} ).
