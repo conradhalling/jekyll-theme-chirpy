@@ -69,3 +69,6 @@ was rising at 5:55 p.m., and I saw the head of a seal in the ocean.
 
 I managed my effort well on this short and easy day at 57% Zone 1, 33% Zone 2,
 and 10% Zone 3.
+
+For the second day of this eight-day tour, see
+[Cape Cod, Day Two]( {% link _posts/2025-09-04-cape-cod-2025-day-two.md %} ).
