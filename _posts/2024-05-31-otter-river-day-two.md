@@ -13,7 +13,7 @@ Appalachian Mountain Club from the Worcester area.
 (For the first day of this tour, see
 [Otter River, Day One]( {% link _posts/2024-05-30-otter-river-day-one.md %} )).
 
-<iframe src="https://ridewithgps.com/embeds?type=trip&id=196986943&title=Spacious%20Skies%20Minute%20Man%20Campground%20to%20Otter%20River%20State%20Park&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=196986943&title=Spacious%20Skies%20Minute%20Man%20Campground%20to%20Otter%20River%20State%20Forest&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 I left Spacious Skies Minute Man Campgroud at 9:36 p.m. The weather was very
 pleasant, sunny and 65 to 70 °F. Near Ayer, I saw one of the new bicycle safety
