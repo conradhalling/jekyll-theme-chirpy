@@ -1,5 +1,5 @@
 ---
-title: "Bicycle Tour: Cape Cod, Day Eight"
+title: "Bicycle Tour: Cape Cod 2025, Day Eight"
 description: I travelled from Nickerson State Park to Somerville via bicycle trails and the Provincetown Fast Ferry.
 date: 2025-09-10 22:01:00 -0400
 author: conrad
@@ -8,8 +8,8 @@ media_subpath: /assets/img/2025-09-10/
 ---
 
 Wednesday, September 10, 2025, was the eighth and final day of my tour on Cape
-Cod. I rode from Nickerson State Park
-following the East Coast Greenway route to MacMillan Pier in Provincetown.
+Cod. I rode from Nickerson State Park,
+following the East Coast Greenway route, to MacMillan Pier in Provincetown.
 I caught the fast ferry to Seaport in Boston and rode bike lanes to my home
 in Somerville. This is one of my favorite routes.
 
@@ -83,4 +83,4 @@ bicyclists waiting to cross the road; I went with them, which saved the big
 community path was congested, and the ride was moderately stressful.
 
 I arrived home at about 5:15 p.m. There was no rain the entire day. My total
-bicycle mileage was 45.15 miles.
+mileage for the day was 45.15 miles.

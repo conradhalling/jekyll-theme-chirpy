@@ -1,5 +1,5 @@
 ---
-title: "Bicycle Tour: Cape Cod, Day Five"
+title: "Bicycle Tour: Cape Cod 2025, Day Five"
 description: I rode 31 miles in the rain from North of Highland Camping Area to Nickerson State Park.
 date: 2025-09-07 18:14:00 -0400
 author: conrad
@@ -7,7 +7,8 @@ categories: [Bicycling]
 media_subpath: /assets/img/2025-09-07/
 ---
 
-Sunday, September 7, 2025, was the fifth day of my tour of Cape Cod.
+Sunday, September 7, 2025, was the fifth day of my tour of Cape Cod. Today
+I departed from North of Highland Camping Area to ride to Nickerson State Park.
 
 <iframe src="https://ridewithgps.com/embeds?type=route&id=53035250&title=North%20of%20Highland%20Camping%20Area%20to%20Nickerson%20State%20Park&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
