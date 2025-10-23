@@ -7,8 +7,11 @@ categories: [Bicycling]
 media_subpath: /assets/img/2025-09-07/
 ---
 
-Sunday, September 7, 2025, was the fifth day of my tour of Cape Cod. Today
-I departed from North of Highland Camping Area to ride to Nickerson State Park.
+Sunday, September 7, 2025, was the fifth day of my tour of Cape Cod.
+(For the fourth day of this tour, see
+[Cape Cod 2025, Day Four]( {% link _posts/2025-09-06-cape-cod-2025-day-four.md %} )).
+Today I departed from North of Highland Camping Area to ride to Nickerson State
+Park.
 
 <iframe src="https://ridewithgps.com/embeds?type=route&id=53035250&title=North%20of%20Highland%20Camping%20Area%20to%20Nickerson%20State%20Park&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 

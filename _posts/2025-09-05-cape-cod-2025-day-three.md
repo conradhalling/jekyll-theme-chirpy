@@ -10,7 +10,9 @@ media_subpath: /assets/img/2025-09-05/
 Friday, September 5, 2025, was the third day of my tour of Cape Cod.
 (For the second day of this tour, see
 [Cape Cod 2025, Day Two]( {% link _posts/2025-09-04-cape-cod-2025-day-two.md %} )).
-I was camping at North of Highland Camping Area for the third day.
+I continued camping at
+[North of Highland Camping Area](www.capecodcamping.com)
+for the third day.
 
 I slept for seven hours and woke at 6:00 a.m. A little rain started at 6:00
 a.m., with a rainbow at sunrise; the rain was intermittent until 7:40 a.m.
@@ -35,8 +37,8 @@ volunteer.
 
 ![LED bulb in Highland Light](led-bulb-in-highland-light.png){:width="600" height="800" }_LED bulb in Highland Light_
 
-I explored the _wetu_, a traditional [Wampanoag](https://trurohistoricalsociety.org/wampanoag-nation-people-of-the-first-light/)
-dwelling, installed in front of the Highland House Museum.
+I explored the _wetu_, a
+[traditional Wampanoag dwelling](https://trurohistoricalsociety.org/wampanoag-nation-people-of-the-first-light/), installed in front of the Highland House Museum.
 
 ![Exterior of Wampanoag wetu at Highland Light Museum](exterior-of-wampanoag-wetu-at-highland-light-museum.png){:width="800" height="600" }_Exterior of Wampanoag wetu at Highland Light Museum_
 
@@ -75,3 +77,6 @@ the moonrise. The ocean was very calm. Returning back to my campsite completed
 1.6 miles of walking.
 
 ![Moonrise over Head of the Meadow Beach](moonrise-over-head-of-the-meadow-beach.png){:width="800" height="600" }_Moonrise over Head of the Meadow Beach_
+
+For the fourth day of this eight-day tour, see
+[Cape Cod 2025, Day Four]( {% link _posts/2025-09-06-cape-cod-2025-day-four.md %} ).

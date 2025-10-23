@@ -12,7 +12,7 @@ Thursday, September 4, 2025, was the second day of my tour of Cape Cod.
 [Cape Cod 2025, Day One]( {% link _posts/2025-09-03-cape-cod-2025-day-one.md %} )).
 I was camping at North of Highland Camping Area for the second day.
 
-I slept 9:00 p.m. to 12:30 a.m., 3:30 a.m. to 6:00 a.m. My air mattress was
+I slept six hours, waking at 6:00 a.m. My air mattress was
 leaking air because I hadn’t closed the valve completely. I read from
 _Les Miserables_ by Victor Hugo on my Kindle while I was awake in the middle
 of the night.
@@ -27,15 +27,15 @@ in North Truro on Route 6A; this is an upscale deli and market where the
 employees are very friendly and helpful. I bought a sandwich, some bagels, and
 fruit.
 
-Forty-three units of new housing were under construction just east of Route 6.
-There is a severe shortage of affordable housing on Cape Cod since much of the
-housing stock has been purchased by investors for short-term rentals. Some new
-housing is being built to attract workers.
+Forty-three units of new housing were under construction just east of Route 6 on
+Highland Road. There is a severe shortage of affordable housing on Cape Cod
+since much of the housing stock has been purchased by investors for short-term
+rentals. Some new housing is being built to attract workers.
 
 I walked back to the campground taking a longer route on Highland Road, Coast
 Guard Road, and the Head of the Meadow Bicycle Trail Connector. The roads were
 typical Cape Cod roads with no sidewalks or bicycle lanes. I find the Cape
-annoying automobile-oriented.
+annoyingly automobile-oriented.
 
 ![Highland Road, a typical Cape Cod road](a-typical-cape-cod-road.png){:width="800" height="600" }_Highland Road, a typical Cape Cod road_
 
