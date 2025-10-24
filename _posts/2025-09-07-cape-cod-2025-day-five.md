@@ -100,3 +100,6 @@ steadily until about 9:00 p.m., with intermittent sprinkles until 2:00 a.m.
 
 I managed my effort well on today's ride, with 67% Zone 1, 23% Zone 2, and
 10% Zone 3.
+
+For the sixth day of this eight-day tour, see
+[Cape Cod 2025, Day Six]( {% link _posts/2025-09-08-cape-cod-2025-day-six.md %} ).

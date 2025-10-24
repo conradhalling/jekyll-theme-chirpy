@@ -16,7 +16,7 @@ My plan was to spend each day hiking and/or bicycling. I toured this area of
 Cape Cod two years ago in September 2023 (see
 [Cape Cod 2023, Day One]( {% link _posts/2023-09-24-cape-cod-2023-day-one.md %} )).
 
-<iframe src="https://ridewithgps.com/embeds?type=route&id=53040340&title=Somerville%20to%20North%20of%20Highland%20Campground&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=345652661&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 I left the house at 11:30 a.m. and took the Somerville Community Path and other
 bike lanes in Cambridge and Boston to the Provincetown Fast Ferry pier in the

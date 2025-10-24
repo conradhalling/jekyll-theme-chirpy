@@ -54,7 +54,7 @@ on the bike trails are too steep to ride up unless you build up a lot of
 momentum. I rode 28.87 total miles, all of the distance in Zone 1 or Zone 2.
 I was pretty tired when I finished.
 
-<iframe src="https://ridewithgps.com/embeds?type=route&id=53052013&title=Provincelands%20Bike%20Trails&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=345651958&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 ![Provincelands Bike Trail](provincelands-bike-trail.png){:width="800" height="600" }_Provincelands Bike Trail_
 
