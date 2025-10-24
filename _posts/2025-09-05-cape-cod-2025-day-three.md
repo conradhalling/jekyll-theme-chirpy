@@ -38,13 +38,14 @@ volunteer.
 ![LED bulb in Highland Light](led-bulb-in-highland-light.png){:width="600" height="800" }_LED bulb in Highland Light_
 
 I explored the _wetu_, a
-[traditional Wampanoag dwelling](https://trurohistoricalsociety.org/wampanoag-nation-people-of-the-first-light/), installed in front of the Highland House Museum.
+[traditional Wampanoag dwelling](https://trurohistoricalsociety.org/wampanoag-nation-people-of-the-first-light/), installed in front of the
+[Highland House Museum](https://trurohistoricalsociety.org/highlandhouse/).
 
-![Exterior of Wampanoag wetu at Highland Light Museum](exterior-of-wampanoag-wetu-at-highland-light-museum.png){:width="800" height="600" }_Exterior of Wampanoag wetu at Highland Light Museum_
+![Exterior of Wampanoag wetu at Highland House Museum](exterior-of-wampanoag-wetu-at-highland-house-museum.png){:width="800" height="600" }_Exterior of Wampanoag wetu at Highland House Museum_
 
-![Rear interior of Wampanoag wetu at Highland Light Museum](rear-interior-of-wampanoag-wetu-at-highland-light-museum.png){:width="800" height="600" }_Rear interior of Wampanoag wetu at Highland Light Museum_
+![Rear interior of Wampanoag wetu at Highland House Museum](rear-interior-of-wampanoag-wetu-at-highland-house-museum.png){:width="800" height="600" }_Rear interior of Wampanoag wetu at Highland House Museum_
 
-![Front interior of Wampanoag wetu at Highland Light Museum](front-interior-of-wampanoag-wetu-at-highland-light-museum.png){:width="800" height="600" }_Front interior of Wampanoag wetu at Highland Light Museum_
+![Front interior of Wampanoag wetu at Highland House Museum](front-interior-of-wampanoag-wetu-at-highland-house-museum.png){:width="800" height="600" }_Front interior of Wampanoag wetu at Highland House Museum_
 
 After visiting Highland Light, I walked to Salty Market in North Truro for a
 chicken salad sandwich and two sesame seed bagels. I returned to the campground

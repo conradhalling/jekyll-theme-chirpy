@@ -22,7 +22,7 @@ hours to ride to my destination.
 
 I was obsessed about energy for recharging my electronics since from this point
 on I was going to be dependent on charging my powerbanks using the dynamo hub on
-my bicycle. Because of my diligent charging efforts yesterday, I had three
+my bicycle. Because of my diligent charging efforts the day before, I had three
 fully-charged 10,000-mAh powerbanks. I charged my watch and phone, using about
 40% of the capacity of one powerbank. When the recreation hall at the campground
 opened at 8:00 a.m., I began topping up that powerbank, knowing there was not
@@ -37,10 +37,10 @@ no matter what after thirty miles of riding.
 I exited the campground and rode towards Head of the Meadow Beach. I turned
 right onto the bike trail — variously called "Head of the Meadow Bicycle Trail
 Connector" or "Old Kings Highway," depending on which map I used — and followed
-the trail to Coast Guard Dr. I continued on Coast Guard Dr until I turned west
-on Highland Rd, which I followed into Truro and the intersection with Route 6A.
-I went this way because Highland Rd crosses under Route 6, whereas the East
-Coast Greenway route recommends taking South Highland Rd to Route 6 where I
+the trail to Coast Guard Road. I continued on Coast Guard Road until I turned west
+on Highland Road, which I followed into Truro and the intersection with Route 6A.
+I went this way because Highland Road crosses under Route 6, whereas the East
+Coast Greenway route recommends taking South Highland Road to Route 6 where I
 would have to cross Route 6 where traffic can be fast and heavy.
 
 Turning left on Route 6A, I rode past
@@ -55,29 +55,29 @@ Following
 and the
 [East Coast Greenway](https://greenway.org),
 I turned right off Route
-6 onto Castle Rd. I followed Castle Rd to Truro Center Rd (see the photo below),
+6 onto Castle Road. I followed Castle Road to Truro Center Road (see the photo below),
 turning right and continuing a little until I reached the intersection with
-South Pamet Rd.
+South Pamet Road.
 
-![Bicycle Route 1 Sign on Castle Rd at Truro Center Rd](bike-route-1-sign-on-castle-rd-at-truro-center-rd.png){:
-width="800" height="600" }_Bicycle Route 1 Sign on Castle Rd at Truro Center Rd_
+![Bicycle Route 1 Sign on Castle Road at Truro Center Road](bike-route-1-sign-on-castle-rd-at-truro-center-rd.png){:
+width="800" height="600" }_Bicycle Route 1 Sign on Castle Road at Truro Center Road
 
 At this point, I left Bicycle Route 1 and the East Coast Greenway by turning
-left onto South Pamet Rd. After going under Route 6, I bore right to continue on
-South Pamet Rd. I followed this until turning right onto Collins Rd, which was
-freshly paved and easy to ride. I rode to the end of Collins Rd where it
+left onto South Pamet Road. After going under Route 6, I bore right to continue on
+South Pamet Road. I followed this until turning right onto Collins Road, which was
+freshly paved and easy to ride. I rode to the end of Collins Road where it
 intersected with Route 6. It was still raining hard.
 
-Near the intersection of Collins Rd and Route 6, to the left, was an unpaved
-single lane road, Slough Pond Rd. This road was difficult to ride because it was
+Near the intersection of Collins Road and Route 6, to the left, was an unpaved
+single lane road, Slough Pond Road. This road was difficult to ride because it was
 soft wet sand. I ended up pushing my bike in the rain for nearly three miles on
 single lane sand roads until I reached Ocean View Drive. These roads provide
 access to the cabins that are tucked in by the ponds. A lot of sand got into my
 brakes, and my rear brakes were becoming unreliable.
 
-Back on pavement, I rode south on Ocean View Dr, which is part of Bicycle
+Back on pavement, I rode south on Ocean View Drive, which is part of Bicycle
 Route 1 and the East Coast Greenway. At the end of the drive, I turned right
-onto Lecount Hollow Dr. I took this to the Cape Code Rail Trail, where I
+onto Lecount Hollow Road. I took this west to the Cape Code Rail Trail, where I
 turned left and headed south.
 
 It was still raining, but not as hard as before. I love this section of the Cape
