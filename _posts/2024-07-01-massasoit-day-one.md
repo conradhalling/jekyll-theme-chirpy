@@ -1,6 +1,6 @@
 ---
 title: "Bicycle Tour: Massasoit State Park, Day One"
-description:
+description: I rode from my house to Massasoit State Park for two days of camping.
 date: 2024-07-01 20:43:00 -0400
 author: conrad
 categories: [Bicycling]
