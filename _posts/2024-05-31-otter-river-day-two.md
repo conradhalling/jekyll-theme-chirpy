@@ -1,5 +1,5 @@
 ---
-title: "Bicycle Tour: Otter River, Day Two"
+title: "Bicycle Tour: Otter River State Forest, Day Two"
 description: On the second day of a five-day tour, I rode from Spacious Skies Minute Man Campground to Otter River State Forest.
 date: 2024-05-31 22:03:00 -0400
 author: conrad
@@ -78,4 +78,4 @@ My riding effort was 24% Zone 1, 30% Zone 2, 40% Zone 3, and 6% Zone 4, much
 harder than I intended.
 
 For the third day of this tour, see
-[Otter River, Day Three]( {% link _posts/2024-06-01-otter-river-day-three.md %} ).
+[Otter River State Forest, Day Three]( {% link _posts/2024-06-01-otter-river-day-three.md %} ).

@@ -1,5 +1,5 @@
 ---
-title: "Bicycle Tour: Otter River, Day One"
+title: "Bicycle Tour: Otter River State Forest, Day One"
 description: On the first day of a five-day tour, I rode from Somerville to Spacious Skies Minute Man Campground, my overnight stop on my way to Otter River State Forest.
 date: 2024-05-30 19:57:00 -0400
 author: conrad
@@ -42,4 +42,4 @@ Once again, I pushed myself too hard on this ride. My riding effort was 13% Zone
 overtiring myself.
 
 For the second day of this tour, see
-[Otter River, Day Two]( {% link _posts/2024-05-31-otter-river-day-two.md %} ).
+[Otter River State Forest, Day Two]( {% link _posts/2024-05-31-otter-river-day-two.md %} ).

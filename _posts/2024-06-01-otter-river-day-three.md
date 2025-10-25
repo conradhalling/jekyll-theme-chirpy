@@ -1,5 +1,5 @@
 ---
-title: "Bicycle Tour: Otter River, Day Three"
+title: "Bicycle Tour: Otter River State Forest, Day Three"
 description: On the third day of a five-day tour, I enjoyed a quiet day at Otter River State Forest.
 date: 2024-06-01 19:55:00 -0400
 author: conrad
@@ -58,3 +58,6 @@ In the very warm afternoon, I began striking camp, and at about 2:30 p.m. the AM
 leader found me and told me the tour group had arrived at Group Site B. I
 finished packing, rode over to the group site, set up my tent, and joined the
 everyone for dinner and good conversation.
+
+For the fourth day of this tour, see
+[Otter River State Forest, Day Four]( {% link _posts/2024-06-02-otter-river-day-four.md %} ).

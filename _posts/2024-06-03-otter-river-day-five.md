@@ -1,6 +1,6 @@
 ---
-title: "Bicycle Tour: Otter River, Day Five"
-description: On the fifth and last day of a five-day tour to Otter River State Forest, I rode from Spacious Skies Minuteman Campground to my home.
+title: "Bicycle Tour: Otter River State Forest, Day Five"
+description: On the fifth and last day of a five-day tour to Otter River State Forest, I rode from Spacious Skies Minute Man Campground to my home.
 date: 2024-06-03 14:22:00 -0400
 author: conrad
 categories: [Bicycling]
@@ -10,7 +10,9 @@ media_subpath: /assets/img/2024-06-03/
 On Monday, June 3, 2024, on the fifth and last day my tour to Otter River State
 Forest, I rode from
 [Spacious Skies Minute Man Campground](https://spaciousskiescampgrounds.com/minute-man/)
-to home on a route that has become very familiar.
+to home on a route that has become very familiar. (For the fourth day of this
+tour, see [Otter River State Forest, Day Four]( {% link
+_posts/2024-06-02-otter-river-day-four.md %} )).
 
 I woke up with the sunrise at 5:00 a.m. to another beautiful day.
 
