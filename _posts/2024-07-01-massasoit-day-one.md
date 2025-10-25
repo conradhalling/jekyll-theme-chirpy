@@ -11,8 +11,6 @@ On Monday, July 1, 2024, I rode from my home in
 Somerville, Massachusetts to
 [Massasoit State Park](https://www.mass.gov/locations/massasoit-state-park) to
 camp for two nights.
-(For the second day of this tour, see
-[Massasoit State Park, Day Two]( {% link _posts/2024-07-02-massasoit-day-two.md %} )).
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=198271950&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
@@ -106,3 +104,6 @@ were about to walk through my tent.
 
 ![My campsite at Massasoit State Park](my-campsite-at-massasoit-state-park.png){:
 width="800" height="600" }_My campsite at Massasoit State Park_
+
+For the second day of this tour, see
+[Massasoit State Park, Day Two]( {% link _posts/2024-07-02-massasoit-day-two.md %} ).
