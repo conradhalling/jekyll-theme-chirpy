@@ -20,10 +20,10 @@ I woke up with the sunrise at 5:00 a.m. to another beautiful day.
 width="800" height="600" }_My shady campsite at Spacious Skies Minute Man Campground_
 
 I left at 8:25 a.m. and arrived home at
-11:55 a.m., taking 3 hours 30 minutes to ride 31.5 miles. The weather was very
-pleasant. Since I had ridden this route (see
-[Spacious Skies Minute Man, Day Two]( {% link _posts/2024-05-20-spacious-skies-minute-man-day-two.md %} ))
-on May 20, I did not make any wrong turns.
+11:55 a.m., taking three hours thirty minutes to ride 31.5 miles. The weather was very
+pleasant. Since I had ridden this route two weeks ago on May 20 (see
+[Spacious Skies Minute Man, Day Two]( {% link _posts/2024-05-20-spacious-skies-minute-man-day-two.md %} )),
+I did not make any wrong turns.
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=197036737&title=Spacious%20Skies%20Minute%20Man%20Campground%20to%20Somerville&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
