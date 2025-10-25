@@ -12,9 +12,7 @@ riding and camping on Cape Cod. I made reservations for four nights at
 [North of Highland Camping Area](www.capecodcamping.com)
 followed by three nights at
 [Nickerson State Park](https://www.mass.gov/locations/nickerson-state-park).
-My plan was to spend each day hiking and/or bicycling. I toured this area of
-Cape Cod two years ago in September 2023 (see
-[Cape Cod 2023, Day One]( {% link _posts/2023-09-24-cape-cod-2023-day-one.md %} )).
+My plan was to spend each day hiking and/or bicycling.
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=345652661&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 

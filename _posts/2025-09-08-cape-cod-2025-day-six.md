@@ -96,3 +96,6 @@ for the day.
 
 In the evening, I met my neighbors across the road, Bernadette and Paul. We
 had a nice conversation while drinking tea.
+
+For the seventh day of this eight-day tour, see
+[Cape Cod 2025, Day Seven]( {% link _posts/2025-09-09-cape-cod-2025-day-seven.md %} ).

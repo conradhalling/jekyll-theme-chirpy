@@ -11,7 +11,9 @@ Wednesday, September 10, 2025, was the eighth and final day of my tour on Cape
 Cod. I rode from Nickerson State Park,
 following the East Coast Greenway route, to MacMillan Pier in Provincetown.
 I caught the fast ferry to Seaport in Boston and rode bike lanes to my home
-in Somerville. This is one of my favorite routes.
+in Somerville. (For the seventh day of this tour, see
+[Cape Cod 2025, Day Seven]( {% link _posts/2025-09-09-cape-cod-2025-day-seven.md %} )).
+
 
 <iframe src="https://ridewithgps.com/embeds?type=route&id=53070402&title=Nickerson%20State%20Park%20to%20Somerville&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
