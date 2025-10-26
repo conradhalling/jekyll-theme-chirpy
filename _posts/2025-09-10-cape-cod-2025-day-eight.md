@@ -14,8 +14,7 @@ I caught the fast ferry to Seaport in Boston and rode bike lanes to my home
 in Somerville. (For the seventh day of this tour, see
 [Cape Cod 2025, Day Seven]( {% link _posts/2025-09-09-cape-cod-2025-day-seven.md %} )).
 
-
-<iframe src="https://ridewithgps.com/embeds?type=route&id=53070402&title=Nickerson%20State%20Park%20to%20Somerville&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=346354723&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 I woke up at 6:00 after sleeping well through the night. My neighbor Paul got
 up and visited briefly. I ate breakfast, collected my trash, and took it over
@@ -31,19 +30,19 @@ All this good neighborly conversation slowed down my packing. My goal had been
 to depart at 8:00 a.m., but I left at 8:53 a.m.
 
 As I’ve noted before, it was nearly four miles from my campsite in Area 7 to the
-entrance of the park and the Cape Cod Rail Trail. I rode steadily north without
-overexerting myself, staying within Zone 2, and I was disciplined, taking a rest
-and food break every ten miles. For food I was consuming granola bars and
-drinking Gatorade.
+entrance of the park and the Cape Cod Rail Trail. I rode steadily north on the
+rail trail without overexerting myself, staying within Zone 2, and I was
+disciplined, taking a rest and food break every ten miles. For food I was
+consuming granola bars and drinking Gatorade.
 
-I took my first break just north of Locust Road in
-Eastham; I considering swinging over to the Little Capistrano Bike Shop to show
+I took my first break just north of Locust Road in Eastham after riding ten
+miles; I considering swinging over to the Little Capistrano Bike Shop to show
 Mark my setup and compliment him on the brake repairs, but I was worried about
 time. At 15 miles, I reached the intersection of the Cape Cod Rail Trail with
-Lecount Hollow Road. I rode up Ocean View Drive along the shoreline, climbing slowly
-with a breeze in my face, until I turned left on Long Pond Road. I rode past
-Long Pond into Wellfleet, and I reached twenty miles on West Main Street, where I
-took another food break.
+LeCount Hollow Road. I rode up Ocean View Drive along the shoreline, climbing
+slowly with a breeze in my face, until I turned left on Long Pond Road. I rode
+past Long Pond into Wellfleet, and I reached twenty miles on West Main Street,
+where I took another food break.
 
 I continued along the East Coast Greenway route west of Route 6. This route had
 some hills, including one hill where I had to walk my bike up. I was passed by
@@ -85,4 +84,4 @@ bicyclists waiting to cross the road; I went with them, which saved the big
 community path was congested, and the ride was moderately stressful.
 
 I arrived home at about 5:15 p.m. There was no rain the entire day. My total
-mileage for the day was 45.15 miles.
+riding mileage for the day was 45.15 miles.
