@@ -77,7 +77,7 @@ brakes, and my rear brakes were becoming unreliable.
 
 Back on pavement, I rode south on Ocean View Drive, which is part of Bicycle
 Route 1 and the East Coast Greenway. At the end of the drive, I turned right
-onto Lecount Hollow Road. I took this west to the Cape Code Rail Trail, where I
+onto LeCount Hollow Road. I took this west to the Cape Code Rail Trail, where I
 turned left and headed south.
 
 It was still raining, but not as hard as before. I love this section of the Cape
