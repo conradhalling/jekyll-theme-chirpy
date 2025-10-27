@@ -52,14 +52,20 @@ dunes and the ocean.
 ![Head of the Meadow Bike Trail](head-of-the-meadow-bike-trail.png){:width="800" height="600" }_Head of the Meadow Bike Trail_
 
 After 6.92 miles of riding (46 minutes), I arrived at the
-[North of Highland Camping Area](www.capecodcamping.com),
-where I quickly checked in and found my beautiful and secluded
+[North of Highland Camping Area](www.capecodcamping.com).
+I managed my effort well on this short and easy day at 57% Zone 1, 33% Zone 2,
+and 10% Zone 3.
+
+I quickly checked in and found my beautiful and secluded
 campsite. The weather was sunny and a very comfortable 69 °F.
 
 ![My secluded campsite at North of Highland Camping Area](campsite-at-north-of-highland-camping-area.png){:width="800" height="600" }_My secluded campsite at North of Highland Camping Area_
 
-Once I finished setting up my campsite, I walked to the Head of Meadow Beach. I
-walked down the beach to Coast Guard Road and walked back to the campground on
+Once I finished setting up my campsite, I walked to the Head of Meadow Beach.
+
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=346540568&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
+I walked down the beach to Coast Guard Road and walked back to the campground on
 the Head of the Meadow Bike Path Connector for a total of 2.4 miles.
 
 The trees growing in the woods include pitch pine (_Pinus rigida_), white oak
@@ -71,9 +77,6 @@ the head of a seal in the ocean.
 ![Pitch pine forest near the Head of the Meadow Beach](pitch-pine-forest-near-head-of-the-meadow-beach.png){:width="800" height="600" }_Pitch Pine forest near the Head of the Meadow Beach_
 
 ![Head of the Meadow Beach](head-of-the-meadow-beach.png){:width="800" height="600" }_Head of the Meadow Beach_
-
-I managed my effort well on this short and easy day at 57% Zone 1, 33% Zone 2,
-and 10% Zone 3.
 
 For the second day of this eight-day tour, see
 [Cape Cod 2025, Day Two]( {% link _posts/2025-09-04-cape-cod-2025-day-two.md %} ).
