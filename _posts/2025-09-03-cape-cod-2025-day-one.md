@@ -39,7 +39,9 @@ shelter inside because the wind was so strong.
 ![Arriving in Provincetown on the Fast Ferry](arriving-in-provincetown-on-the-fast-ferry.png){:width="800" height="600" }_Arriving in Provincetown on the Fast Ferry_
 
 After disembarking at MacMillan Pier in Provincetown, I rode through
-Provincetown on Route 6A, following the East Coast Greenway route. To get to
+Provincetown on Route 6A, following the
+[East Coast Greenway](https://greenway.org)
+route. To get to
 the Head of the Meadow Bike Trail, I needed patience to wait for a gap in
 the high-speed traffic to cross Route 6 at the tricky intersection with
 Stotts Crossing and High Head Road.
@@ -49,8 +51,9 @@ dunes and the ocean.
 
 ![Head of the Meadow Bike Trail](head-of-the-meadow-bike-trail.png){:width="800" height="600" }_Head of the Meadow Bike Trail_
 
-After 6.92 miles of riding (46 minutes), I arrived at the North of Highland
-Camping Area, where I quickly checked in and found my beautiful and secluded
+After 6.92 miles of riding (46 minutes), I arrived at the
+[North of Highland Camping Area](www.capecodcamping.com),
+where I quickly checked in and found my beautiful and secluded
 campsite. The weather was sunny and a very comfortable 69 °F.
 
 ![My secluded campsite at North of Highland Camping Area](campsite-at-north-of-highland-camping-area.png){:width="800" height="600" }_My secluded campsite at North of Highland Camping Area_
@@ -59,11 +62,11 @@ Once I finished setting up my campsite, I walked to the Head of Meadow Beach. I
 walked down the beach to Coast Guard Road and walked back to the campground on
 the Head of the Meadow Bike Path Connector for a total of 2.4 miles.
 
-The trees growing in the woods
-include pitch pine (_Pinus rigida_), white oak (_Quercus alba_), and black oak
-(_Quercus velutina_). Compared to the beaches in Oregon, I find the beaches
-on Cape Cod uninteresting, but there is an abundance of soft dry sand. The moon
-was rising at 5:55 p.m., and I saw the head of a seal in the ocean.
+The trees growing in the woods include pitch pine (_Pinus rigida_), white oak
+(_Quercus alba_), and black oak (_Quercus velutina_). Compared to the beaches in
+Oregon, where I grew up, I find the beaches on Cape Cod uninteresting, but there
+is an abundance of soft dry sand. The moon was rising at 5:55 p.m., and I saw
+the head of a seal in the ocean.
 
 ![Pitch pine forest near the Head of the Meadow Beach](pitch-pine-forest-near-head-of-the-meadow-beach.png){:width="800" height="600" }_Pitch Pine forest near the Head of the Meadow Beach_
 

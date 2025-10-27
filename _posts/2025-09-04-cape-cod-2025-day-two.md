@@ -22,8 +22,12 @@ power bank, and then I took the power bank over to the campground's recreation
 hall for charging. I turned off my Garmin inReach Messenger since I had a strong
 cell phone signal.
 
-I walked west from the campground on Head of the Meadow Road to Salty’s Market
-in North Truro on Route 6A; this is an upscale deli and market where the
+I walked southwest from the campground on Head of the Meadow Road to Salty’s
+Market in North Truro on Route 6A.
+
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=346533928&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
+Salty's Market is an upscale deli and market where the
 employees are very friendly and helpful. I bought a sandwich, some bagels, and
 fruit.
 

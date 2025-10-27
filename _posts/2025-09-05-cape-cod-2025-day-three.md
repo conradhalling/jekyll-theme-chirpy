@@ -22,10 +22,12 @@ recharged the power bank in the campground's recreation room using a 5-watt
 charger; this took 6.5 hours.
 
 I walked from the campground to
-[Highland Light](https://www.highlandlighthouse.org),
-where I took
-the tour given by volunteers. I climbed to the top and chatted with the
-volunteer.
+[Highland Light](https://www.highlandlighthouse.org).
+
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=346536150&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
+At Highland Light, I took the tour given by volunteers. I climbed to the top and
+chatted with the volunteer.
 
 ![Highland Light viewed from the beach](highland-light.png){:width="800" height="600" }_Highland Light viewed from the beach_
 
@@ -56,15 +58,18 @@ I took a 90-minute nap from 12:30 to 2:00 p.m. The weather was 76 °F and sunny
 with a breeze.
 
 After my nap, I rode 11.44 miles exploring the area and scouting the early part
-of my route to Nickerson State Park. As part of the ride, I followed the East
-Coast Greenway route south on South Highland Road to its intersection with
-Route 6. I sat on my bike for a few minutes as I watched the intimidating high
+of my route to Nickerson State Park.
+
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=345433177&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
+As part of the ride, I followed the
+[East Coast Greenway](https://greenway.org)
+route south on South Highland Road to its intersection with
+Route 6. I sat on my bike for a few minutes as I watched the intimidating, high
 speed traffic on Route 6. I decided I didn't want to ride that way when I headed
 to Nickerson State Park on Sunday because of the difficulty of crossing Route 6
 there safely. My best alternative was to ride west on Highland Road, which
 passes _under_ Route 6, to Route 6A and take that south to Route 6.
-
-<iframe src="https://ridewithgps.com/embeds?type=trip&id=345433177&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 I rode Old Kings Highway south from Old Dewline Road to Longbrook Road. Old
 Kings Highway proved to be a sandy, unpaved, single lane road through the dune forest. I

@@ -27,9 +27,12 @@ the next day (Sunday, September 7), so I did not ride my bike today.
 
 I walked 2.5 miles to
 [Truro Vineyards](https://trurovineyardsofcapecod.com)
-between Route 6A and Route 6, arriving at
-noon, to take advantage of the food trucks. I ate two Cumin Lime Chicken Tacos
-and a mocktail called the Pain-killer.
+between Route 6A and Route 6.
+
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=346537834&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
+I arrived at noon to take advantage of the food trucks. I ate two Cumin Lime
+Chicken Tacos and a mocktail called the Pain-killer.
 
 ![Truro Vineyards entrace sign](truro-vineyards-entrance-sign.png){:width="800" height="600" }_Truro Vineyards entrance sign_
 
@@ -40,8 +43,9 @@ and a mocktail called the Pain-killer.
 ![Food truck tacos and a mocktail at Truro Vineyards](food-truck-tacos-and-a-mocktail-at-truro-vineyards.png){:width="800" height="600" }_Food truck tacos and a mocktail at Truro Vineyards_
 
 After eating, I walked back to the campground, giving me more than seven miles
-of walking for the day. During my walk, I was confidently able to give two
-tourists on bikes directions to local attractions.
+of walking for the day. During my walk, I was confidently able (after a few days
+of exploring the area) to give two tourists on bikes directions to local
+attractions.
 
 The weather was 76 °F, humid, and sunny at 1:00 pm. I took a nap for an hour
 with the tent wide open to catch the breeze. I did laundry after I woke up, and
