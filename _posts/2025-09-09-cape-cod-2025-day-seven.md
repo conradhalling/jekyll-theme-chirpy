@@ -14,10 +14,14 @@ Tuesday, September 9, 2025, was the seventh day of my tour of Cape Cod.
 I slept in until 7:15 a.m. after reading for three hours in the middle of the
 night.
 
-After breakfast, I hiked north on the state park trails near Route 6. The
-eastern-most trail follows the fence between the park and the highway. Farther
-north, the trails exit into a neighborhood with large, expensive houses. The
-traffic noise from Route 6 there was unpleasantly loud; I would not live here.
+After breakfast, I hiked north on the state park trails near Route 6.
+
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=346520150&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
+The eastern-most trail follows the fence between the park and the highway.
+Farther north, the trails exit into a neighborhood with large, expensive houses.
+The traffic noise from Route 6 there was unpleasantly loud; I would not live
+here.
 
 ![The beach at Higgin's Pond](the-beach-at-higgins-pond.png){:
 width="800" height="600" }_The beach at Higgin's Pond_
@@ -34,9 +38,9 @@ width="600" height="800" }_A Howard Stein metal sculpture_
 ![Another Howard Stein metal sculpture](another-howard-stein-metal-sculpture.png){:
 width="600" height="800" }_Another Howard Stein metal sculpture_
 
-I saw a yard sign encouraging people in the neighborhood to support clean water
-infrastructure. Cape Cod has many neighborhoods with septic systems, and this
-has caused
+A yard sign at a house near Baker Pond encouraged people in the
+neighborhood to support clean water infrastructure. Cape Cod has many
+neighborhoods with septic systems, and this has caused
 [widespread pollution of ponds and bays](https://www.capecod.gov/2023/08/21/pollution-is-threatening-cape-cods-famous-waters-its-towns-are-spending-hundreds-of-millions-to-head-off-an-environmental-disaster/).
 
 ![The Orleans pond pledge](the-orleans-pond-pledge.png){:

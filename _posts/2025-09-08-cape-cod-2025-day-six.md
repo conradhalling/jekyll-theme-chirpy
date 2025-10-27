@@ -11,8 +11,9 @@ Monday, September 8, 2025, was the sixth day of my tour of Cape Cod.
 (For the fifth day of this tour, see
 [Cape Cod 2025, Day Five]( {% link _posts/2025-09-07-cape-cod-2025-day-five.md %} )).
 
-The rain had stopped by the time I woke up in the morning. The skies were
-still cloudy with a comfortable temperature of 64 °F.
+The rain that continued from the previous day had stopped by the time I woke up
+in the morning. The skies were still cloudy with a comfortable temperature of 64
+°F.
 
 ![My campsite in Area 7 of Nickerson State Park](my-campsite-in-area-seven-of-nickerson-state-park.png){:
 width="800" height="600" }_My campsite in Area 7 of Nickerson State Park_
