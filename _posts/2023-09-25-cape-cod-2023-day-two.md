@@ -12,8 +12,8 @@ Nickerson State Park. (For the first day of this tour, see
 [Cape Cod 2023, Day One]( {% link _posts/2023-09-24-cape-cod-2023-day-one.md %} )).
 
 From 8:15 a.m. to 10:45 a.m., I walked campground loops and bicycle trails in
-the park for 6.39 miles. Nickerson State Park is enormous with hundreds of
-campsites in seven different areas. I found a plaque commemorating
+the park for 6.39 miles. Nickerson State Park is an enormous campground with
+hundreds of campsites in seven different areas. I found a plaque commemorating
 [John Kelley](https://en.wikipedia.org/wiki/Johnny_Kelley)'s fiftieth Boston
 Marathon.
 
@@ -45,7 +45,7 @@ back to my campsite for another 2.90 miles, arriving at 1:20 p.m.
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=346205007&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 I ate lunch and relaxed at my campsite. From 4:30 p.m. to 6:00 p.m., I rode
-campground loops in the park for 12.31 miles.
+campground loops and bike trails in the park for 12.31 miles.
 
 I got plenty of exercise and relaxation today, having walked about twelve
 miles and having biked another twelve miles. This was my idea of a good

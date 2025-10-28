@@ -1,6 +1,6 @@
 ---
 title: "Bicycle Tour: Cape Cod 2023, Day Three"
-description:
+description: I hiked in Nickerson State Park and rode to the western end of Cape Cod Rail Trail and back.
 date: 2023-09-26 21:04:00 -0400
 author: conrad
 categories: [Bicycling]
@@ -11,7 +11,7 @@ On Tuesday, September 26, 2023, I spent my third day at Nickerson State Park.
 (For the second day of this tour, see
 [Cape Cod 2023, Day Two]( {% link _posts/2023-09-25-cape-cod-2023-day-two.md %} )).
 
-In the morning from 9:45 a.m. to 11:30 a.m. I walked all the way around Flax
+In the morning from 9:45 a.m. to 11:30 a.m., I walked all the way around Flax
 Pond on park trails.
 
 ![A glacial erratic](a-glacial-erratic-in-nickerson-state-park.png){:

@@ -1,6 +1,6 @@
 ---
 title: "Bicycle Tour: Cape Cod 2023, Day One"
-description: I traveled from Somerville to Nickerson State Park on Cape Cod.
+description: I traveled from Somerville to Nickerson State Park on Cape Cod by bicycle and the Provincetown Fast Ferry.
 date: 2023-09-24 20:57:00 -0400
 author: conrad
 categories: [Bicycling]
@@ -60,13 +60,13 @@ south on Route 6, looking for an opportunity to cross. When I was across
 from Designers Road, I waited for a gap in the traffic and walked my bike
 across the four highway lanes.
 
-Designers Road was an unpaved lane between houses that crossed east to Old Kings
-Highway. As I rode slowly east, I came upon a large puddle in the road that was
-maybe twenty feet long. I carefully rode into the puddle, thinking it would not
-be too bad if I rode slowly, only to have my front wheel drop into a pothole.
-The water was lapping at the bottoms of my front panniers, and I thought I was
-going to fall off my bike. But I was able to keep going forward, and I pedaled
-out of the puddle without getting wet.
+Designers Road was an unpaved lane between houses that crossed east from Route 6
+to Old Kings Highway. As I rode slowly east, I came upon a large puddle in the
+road that was maybe twenty feet long. I carefully rode into the puddle, thinking
+it would not be too bad if I rode slowly, only to have my front wheel drop into
+a pothole. The water was lapping at the bottoms of my front panniers, and I
+thought I was going to fall off my bike. But I was able to keep going forward,
+and I pedaled out of the puddle without getting wet.
 
 I turned right on Old Kings Highway and rode south past Wellfleet Hollow
 Campground on the left to the intersection with Route 6, where I was less than a
@@ -87,7 +87,8 @@ Next to the Cape Cod Rail Trail, I ate lunch at the Wellfleet Chamber of
 Commerce building, which had a picnic table under an apple tree and a
 port-a-john. The building was open, so I went in and talked to the woman there;
 her job on the weekends was to give advice to tourists about what to see in
-Wellfleet. I bought a Wellfleet mussel sticker.
+Wellfleet. I bought a Wellfleet oyster sticker to help support the Chamber of
+Commerce.
 
 At 1:50 p.m. I resumed my journey south, riding 11.3 miles on the Cape Cod Rail
 Trail from the Wellfleet Chamber of Commerce to Nickerson State Park.
