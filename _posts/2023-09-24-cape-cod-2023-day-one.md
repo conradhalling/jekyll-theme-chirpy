@@ -90,6 +90,10 @@ her job on the weekends was to give advice to tourists about what to see in
 Wellfleet. I bought a Wellfleet oyster sticker to help support the Chamber of
 Commerce.
 
+![Wellfleet Oyster sticker](wellfleet-oyster-sticker.png){:
+width="800" height="600" }_Wellfleet Oyster sticker_
+
+
 At 1:50 p.m. I resumed my journey south, riding 11.3 miles on the Cape Cod Rail
 Trail from the Wellfleet Chamber of Commerce to Nickerson State Park.
 
