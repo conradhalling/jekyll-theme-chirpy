@@ -20,7 +20,7 @@ quickly and departed Wellfleet Hollow State Park at 7:15 a.m.
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=198418867&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
-I rode up to Long Pond Road and took over Route 6 it into Wellfleet. I took back roads
+I rode up to Long Pond Road and took over Route 6 into Wellfleet. I took back roads
 between Wellfleet and Truro to reach Route 6A into Provincetown. I later learned that my
 route followed the [East Coast Greenway](https://greenway.org) and
 [Bicycle Route 1](https://en.wikipedia.org/wiki/Claire_Saltonstall_Bikeway).
