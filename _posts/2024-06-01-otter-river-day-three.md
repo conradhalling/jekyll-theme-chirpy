@@ -19,14 +19,15 @@ I took my tripod and binoculars over to the grassy area by Beaman pond and gazed
 at Ursa Major, Boötes (with Arcturus), Scorpio (with Antares), Cygnus, and
 Lyra (with Vega).
 
-After sleeping some more, in the morning I walked one and a half miles to the
-convenience grocery in Baldwinville for fruit, snacks, and a sandwich. There are
-some beautiful old houses along U.S. 202 in Baldwinville.
+After sleeping some more, in the morning I
+walked one and a half miles to the convenience grocery in Baldwinville for
+fruit, snacks, and a sandwich. There are some beautiful old houses along U.S.
+202 in Baldwinville.
+
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=346796435&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 ![A beautiful old house in Baldwinville](beautiful-old-house-in-baldwinville.png){:
 width="800" height="600" }_A beautiful old house in Baldwinville_
-
-I explored the park and trails thoroughly in the morning.
 
 ![Otter River State Forest entrance sign](otter-river-state-forest-entrance-sign.png){:
 width="800" height="600" }_Otter River State Forest entrance sign_
@@ -36,6 +37,8 @@ width="800" height="600" }_Otter River State Forest entrance road_
 
 ![Ferns growing in Otter River State Forest](ferns-growing-in-otter-river-state-forest.png){:
 width="800" height="600" }_Ferns growing in Otter River State Forest_
+
+Later in the morning I explored the park's trails.
 
 ![Pine trees growing in Otter River State Forest](pine-trees-growing-in-otter-river-state-forest.png){:
 width="600" height="800" }_Pine trees growing in Otter River State Forest_
