@@ -1,6 +1,6 @@
 ---
 title: "Bicycle Tour: Dune's Edge Campground, Day Three"
-description:
+description: I hiked in the Provincelands north of Provincetown.
 date: 2023-09-12 22:17:00 -0400
 author: conrad
 categories: [Bicycling]
@@ -67,15 +67,17 @@ everyone was about my age.
 ![Recent dune erosion](recent-dune-erosion.png){: width="800" height="600" }_Recent dune erosion_
 
 After about an hour of steady walking, I reached Race Point Beach. I followed
-the bike trail to the small but modern visitor’s center.
+the bike trail to the small but modern visitor’s center. I identified some of
+the plants in the photos below using the
+[Cape Cod Native Plants website](https://capecodnativeplants.org/).
 
-![Unidentified flower](unidentified-flower.png){: width="800" height="600" }_Unidentified flower_
+![Dahlia](dahlia.png){: width="800" height="600" }_Dahlia_
 
-![Unidentified flower](unidentified-flower-2.png){: width="800" height="600" }_Unidentified flower_
+![Goldenrod](goldenrod.png){: width="800" height="600" }_Goldenrod_
 
-![Unidentified plant with white berries](unidentified-plant-with-white-berries.png){: width="800" height="600" }_Unidentified plant with white berries_
+![Bayberry](bayberry.png){: width="800" height="600" }_Bayberry_
 
-![Unidentified plant with red berries](unidentified-plant-with-red-berries.png){: width="800" height="600" }_Unidentified plant with red berries_
+![Cranberry](cranberry.png){: width="800" height="600" }_Cranberry_
 
 ![Lichen](lichen.png){: width="800" height="600" }_Lichen_
 

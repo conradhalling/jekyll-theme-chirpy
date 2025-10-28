@@ -1,6 +1,6 @@
 ---
 title: "Bicycle Tour: Dune's Edge Campground, Day Two"
-description:
+description: I rode the Provincelands bike trails north of Provincetown.
 date: 2023-09-11 20:01:00 -0400
 author: conrad
 categories: [Bicycling]
@@ -50,13 +50,13 @@ width="800" height="600" }_Shark sculpture at Herring Cove Beach_
 ![Downtown Provincetown](downtown-provincetown.png){:
 width="800" height="600" }_Downtown Provincetown_
 
-During my rides, I was having problems shifting gears. In the afternoon, I
-walked over to Shaw's (about a mile) and bought groceries.
-At a bicycle shop across the street, I asked about bringing my bike in to have
-the derailleurs adjusted. I walked back to camp, ate lunch, and rode my bike to
-the bike shop, dropping it off at about 3:00 p.m. I walked around downtown
-Provincetown and back to the bike shop. The mechanic was playing with the
-adjustments, and he said I should avoid cross chaining (3-1 or 1-8 gear
+During my rides, I was having problems shifting gears on my Trek Valencia. In
+the afternoon, I walked about a mile over to Shaw's in Provincetown for
+groceries. At the bicycle shop across the street, I asked about bringing my bike
+in to have the derailleurs adjusted. I walked back to camp, ate lunch, and rode
+my bike to the bike shop, dropping it off at about 3:00 p.m. I walked around
+downtown Provincetown and back to the bike shop. The mechanic was adjusting the
+set screws, and he said I should avoid cross chaining (3-1 or 1-8 gear
 combinations). He said the position of the front derailleur needed to be
 adjusted because of the smaller crankset that I had had installed a week ago.
 His adjustments improved the shifting. He did not want to charge me, but he
