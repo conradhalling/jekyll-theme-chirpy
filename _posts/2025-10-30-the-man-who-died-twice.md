@@ -9,8 +9,8 @@ categories: [Books]
 These are my notes about
 [<cite>The Man Who Died Twice</cite>](https://www.penguinrandomhouse.com/books/633984/the-man-who-died-twice-by-richard-osman/)
 by Richard Osman, published
-September 28, 2021. This is the second book in popular
-[<cite>The Thursday Murder Club Series</cite>](https://www.penguinrandomhouse.com/series/TM9/a-thursday-murder-club-mystery/).
+September 28, 2021. This is the second book in the popular
+[<cite>Thursday Murder Club Series</cite>](https://www.penguinrandomhouse.com/series/TM9/a-thursday-murder-club-mystery/).
 
 I listened to the audiobook, which is narrated expertly
 by Lesley Manville. I am systematically listening to the first four books in
@@ -73,5 +73,9 @@ Other implausible plot points:
 
 I know, I know, I’m taking the plot too seriously when this book is clearly
 not that type of book.
+
+See
+[my notes]( {% link _posts/2025-10-15-the-thursday-murder-club.md %} )
+about the first book in the series, <cite>The Thursday Murder Club</cite>.
 
 My rating: Very good, four stars
