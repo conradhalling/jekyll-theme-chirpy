@@ -8,7 +8,7 @@ categories: [Running]
 
 A year ago my running was going well, but I was experiencing soreness of my
 right Achilles tendon, and that prevented me from running a half marathon in
-Rhode Island in early September. That problem, fortunately has gone away.
+Rhode Island in early September. That problem, fortunately, has gone away.
 Earlier this summer my problem was in my left knee, with occasional but not
 severe pain. That problem has also gone away.
 
@@ -17,6 +17,6 @@ Achilles problems. I ran so little because I was focused on bicycling, riding
 up to 35 miles per day to prepare for short bicycle tours in September.
 
 I use my Apple Watch to alert me when I exceed my Zone 2 pace. After my
-71st birthday, the watch reduced my peak Zone 2 heartrate from 125 bpm to
+71st birthday, the watch reduced my peak Zone 2 heart rate from 125 bpm to
 124 bpm, which is annoying. When I'm annoyed enough, I will see if I can
 override this setting.
