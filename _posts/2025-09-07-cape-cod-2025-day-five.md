@@ -60,7 +60,7 @@ turning right and continuing a little until I reached the intersection with
 South Pamet Road.
 
 ![Bicycle Route 1 Sign on Castle Road at Truro Center Road](bike-route-1-sign-on-castle-rd-at-truro-center-rd.png){:
-width="800" height="600" }_Bicycle Route 1 Sign on Castle Road at Truro Center Road
+width="800" height="600" }_Bicycle Route 1 Sign on Castle Road at Truro Center Road_
 
 At this point, I left Bicycle Route 1 and the East Coast Greenway by turning
 left onto South Pamet Road. After going under Route 6, I bore right to continue on

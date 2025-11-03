@@ -27,7 +27,7 @@ Market in North Truro on Route 6A.
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=346533928&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
-Salty's Market is an upscale deli and market where the
+Salty Market is an upscale deli and market where the
 employees are very friendly and helpful. I bought a sandwich, some bagels, and
 fruit.
 

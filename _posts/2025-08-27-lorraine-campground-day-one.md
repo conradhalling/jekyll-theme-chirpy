@@ -29,13 +29,13 @@ difficult hills where I had to push my bike. The temperature was a pleasant 71
 I arrived during a cloudburst with hail and rain. After I checked in and had
 set up my camp, there was another cloudburst; I stayed dry in my tent.
 
-![Lorraine Campground After a Cloudburst](lorraine-campground-after-a-cloudburst.png){:
-width="800" height="600" }_Lorraine Campground After a Cloudburst_
+![Lorraine Campground after a cloudburst](lorraine-campground-after-a-cloudburst.png){:
+width="800" height="600" }_Lorraine Campground after a cloudburst_
 
 My campsite, number 15, was enormous, measuring 40 feet by 70 feet.
 
-![My Enormous Campsite](my-enormous-campsite.png){:
-width="800" height="600" }_My Enormous Campsite_
+![My enormous campsite](my-enormous-campsite.png){:
+width="800" height="600" }_My enormous campsite_
 
 This semi-urban campground is near the Andover Sportsmen Club, and firearm
 reports were pretty constant until sunset. There was continuous traffic noise

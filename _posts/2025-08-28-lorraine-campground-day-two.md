@@ -17,7 +17,7 @@ I slept 9:30 p.m. to 12:30 a.m. and 2:15 a.m. to 6:00 a.m. The temperature was
 a cool 53 °F at dawn. The damp from yesterday’s rain was annoying. The site was
 very shady, so I wasn't sure I would be able to dry my tent.
 
-![My Campsite at Sunrise](my-campsite-at-sunrise.png){: width="800" height="600" }_My Campsite at Sunrise_
+![My campsite at sunrise](my-campsite-at-sunrise.png){: width="800" height="600" }_My campsite at sunrise_
 
 Because of the moisture in the air, I could see drops of water falling from the
 trees in the sunlight, and there were some spectacular sunbeams.
@@ -47,7 +47,7 @@ invisible. I knew when I first saw this that the day would come when I would
 forget to remove the plastic bowl before putting the pot on the burner. Well,
 today was the day.
 
-![My Melted Food Bowl](my-melted-food-bowl.png){: width="800" height="600" }_My Melted Food Bowl_
+![My melted food bowl](my-melted-food-bowl.png){: width="800" height="600" }_My melted food bowl_
 
 My only riding today was to ride on the campground roads a couple of times for
 a total of three miles.
