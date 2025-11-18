@@ -19,11 +19,7 @@ I woke up with the sunrise at 5:00 a.m. to another beautiful day.
 ![My shady campsite at Spacious Skies Minute Man Campground](my-campsite-at-spacious-skies-minuteman-campground.png){:
 width="800" height="600" }_My shady campsite at Spacious Skies Minute Man Campground_
 
-I left at 8:25 a.m. and arrived home at
-11:55 a.m., taking three hours thirty minutes to ride 31.5 miles. The weather was very
-pleasant. Since I had ridden this route two weeks ago on May 20 (see
-[Spacious Skies Minute Man, Day Two]( {% link _posts/2024-05-20-spacious-skies-minute-man-day-two.md %} )),
-I did not make any wrong turns.
+I left at 8:25 a.m.
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=197036737&title=Spacious%20Skies%20Minute%20Man%20Campground%20to%20Somerville&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
@@ -65,8 +61,17 @@ Linear Trail, and Somerville Community Path; this is a ride I do frequently.
 ![The Minuteman Commuter Bikeway in Lexington](minuteman-commuter-bikeway-in-lexington.png){:
 width="800" height="600" }_The Minuteman Commuter Bikeway in Lexington_
 
+I stopped near Lexington Green for a snack and a drink of water; the temperature
+was 76 °F.
+
 ![The Buckman Tavern on Lexington Green](buckman-tavern-on-lexington-green.png){:
 width="800" height="600" }_The Buckman Tavern on Lexington Green_
+
+I arrived home at 11:55 p.m., taking three hours thirty minutes to ride 31.5
+miles. The weather was very pleasant. Since I had ridden this route two weeks
+ago on May 20 (see
+[Spacious Skies Minute Man, Day Two]( {% link _posts/2024-05-20-spacious-skies-minute-man-day-two.md %} )),
+I did not make any wrong turns.
 
 I did an excellent job of managing my riding effort. (Perhaps I was also
 getting into better touring condition). My effort was 58% Zone 1, 34% Zone 2,

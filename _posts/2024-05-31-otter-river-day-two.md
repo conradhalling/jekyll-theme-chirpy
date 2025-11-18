@@ -35,8 +35,9 @@ From mile 18.7 to mile 19.8, through downtown Fitchburg on Main Street, the ride
 was unpleasant, with narrow city streets, a lot of traffic, and no bike lane.
 However, I didn't see another way to get through.
 
-At mile 22.5, I stopped at Crocker Playground in West Fitchburg for half an hour
-to eat lunch. There were no restrooms at this park.
+At 12:30 p.m., after I had ridden 22.5 miles, I stopped at Crocker Playground in
+West Fitchburg for half an hour to eat lunch. There were no restrooms at this
+park.
 
 ![Rest break at Crocker Playground in West Fitchburg](rest-break-at-crocker-playground-in-west-fitchburg.png){:
 width="800" height="600" }_Rest break at Crocker Playground in West Fitchburg_
@@ -44,7 +45,7 @@ width="800" height="600" }_Rest break at Crocker Playground in West Fitchburg_
 The ride on South Ashburnham Road was very pleasant as it passed by Crocker
 Pond and Whitmanville Reservoir.
 
-At mile 29.6 to 30.6 , on Gardner Road and Pearl Street, the two-lane road was
+From mile 29.6 to 30.6, on Gardner Road and Pearl Street, the two-lane road was
 in poor condition with no shoulder, and it climbed a steep hill from 838 to
 1,214 feet. I had to dismount and push my bike up the hill. Because there was no
 shoulder, I felt unsafely exposed to passing cars, but fortunately traffic was
@@ -60,8 +61,13 @@ At mile 36.8, I took Happy Hollow Road, which is unpaved and rutted. Instead, I
 recommend taking Crotty Avenue down to State Road 68.
 
 I arrived at Otter River State Forest Campground at 3:40 pm, having ridden
-40.4 miles in 6 hours. I had a nice site, O60, near Beaman Pond and near the
-restroom with showers. The restroom contained a huge spider.
+40.4 miles in 6 hours. I was very dehydrated from my ride. My riding effort was
+24% Zone 1, 30% Zone 2, 40% Zone 3, and 6% Zone 4, much harder than I intended.
+
+I had a nice site, O60, near Beaman Pond and near the restroom with showers. The
+restroom contained a huge spider. There were bear warnings and tick warnings on
+the restroom doors. Drinking water was obtained from hand pumps, but the showers
+had hot water.
 
 ![My campsite at Otter River State Forest](my-campsite-at-otter-river-state-forest.png){:
 width="800" height="600" }_My campsite at Otter River State Forest_
@@ -69,13 +75,25 @@ width="800" height="600" }_My campsite at Otter River State Forest_
 ![Spider in the Otter River State Forest restroom](spider-in-otter-river-state-forest-restroom.png){:
 width="600" height="800" }_Spider in the Otter River State Forest restroom_
 
+I couldn't get location data or news on my Verizon phone. I had to use my Garmin
+Inreach Messenger to text from my campsite, using the satellite service. I was
+able to make a phone call by walking about a half mile towards Baldwinville.
+
 Beaman Pond was closed for swimming because of a high bacteria
 count. In the photo, the swimming area is visible in the distance on the right.
 
 ![Beaman Pond](beaman-pond.png){: width="800" height="600" }_Beaman Pond_
 
-My riding effort was 24% Zone 1, 30% Zone 2, 40% Zone 3, and 6% Zone 4, much
-harder than I intended.
+I fell asleep at about 9:30 p.m. and woke up at 11:30 p.m. I got out my
+binoculars and tripod to try some stargazing. Unfortunately, the restroom across
+the road from my campsite had very bright floodlights that spoiled the sky.
+
+I took my tripod and binoculars over to the dark grassy area by Beaman pond and
+gazed at Ursa Major, Boötes (with Arcturus), Scorpio (with Antares), Cygnus
+(Deneb), and Lyra (with Vega). When I was finished, I reviewed star charts on my
+phone to remind me what I had viewed, but I couldn’t use any of my
+internet-dependent stargazing apps because my signal was too weak. I went to
+sleep again at about 1:00 am.
 
 For the third day of this tour, see
 [Otter River State Forest, Day Three]( {% link _posts/2024-06-01-otter-river-day-three.md %} ).
