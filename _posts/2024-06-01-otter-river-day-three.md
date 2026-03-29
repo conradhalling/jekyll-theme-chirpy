@@ -7,21 +7,6 @@ categories: [Bicycling]
 media_subpath: /assets/img/2024-06-01/
 ---
 
-No bears.
-I fell asleep at about 9:30 and woke up at 11:30. I got out my binoculars and tripod and did some stargazing for an hour. Ursa Major, Bootes (Arcturus), Scorpio (Antares), Lyra (Vega), Cygnus (Deneb). Tried to view Albiero. Bright lights from restroom made me walk over to the swimming beach where it was darker. When I was finished, I reviewed star charts to remind me what I had viewed. I couldn’t use any of my iPhone stargazing apps because my signal is too weak. I went to sleep again at about 1:00 am.
-After my usual breakfast, I walked into town to the Cumberland Farms, where I bought a sandwich, chips, yogurt, and three bananas. I took many photos of the town: Somerville nice houses, the lack of sidewalks in some sections of US 202, and about a dozen photos of empty nip bottles. Living on US 202 is noisy from trucks, loud motorcycles, and high speed car traffic. The speed limit in town is generally ignored. Everyone has to drive. I don’t know where the big grocery store is. The total walk was 3 miles.
-I explored the park. It is very quiet here; about 10% full. It is 62 F at 9:00 am, headed for maybe 80, but I can’t get a weather forecast.
-I am going to be lazy, then move to Group Camp B at about 3:30 when the AMC group led by Denny LaForce arrives.
-Sites in the 70s get a lot of highway noise. The nearby restrooms are closed.
-The nature trail between sites 55 and 56 is a two-mile hike to Lake Dennison. I walked about a quarter mile and turned back because I was not a prepared hiker.
-I could come back for a few days, maybe riding out on Saturday or Sunday for road safety and staying here for a few days to explore the area. Tully Lake is about ten miles away.
-I took a nap from 11:00-12:30.
-I’m reading Charles Stross’s The Trader’s War, an omnibus containing The Clan Corporate & The Merchants’ War.
-
-
-
-
-
 On Saturday, June 1, 2024, I enjoyed a rest day at Otter River State Forest by
 exploring the area on foot. (For the second day of this tour, see [Otter River,
 Day Two]( {% link _posts/2024-05-31-otter-river-day-two.md %} )).
@@ -90,7 +75,9 @@ Everyone went to bed between 8:30 and 9:00 p.m. I got up at 2:45 a.m. to use the
 restroom. Vega was right overhead. Even here there was noticeable light
 pollution. The park buildings were lit brightly with indiscriminate floodlights.
 
-My phone drained its battery fairly quickly unless I put it into airplane mode. The battery on my watch had the same problem. I depleted one of my 10k power banks.
+My phone drained its battery fairly quickly unless I put it into airplane mode.
+The battery on my watch had the same problem. I depleted one of my 10k power
+banks.
 
 For the fourth day of this tour, see
 [Otter River State Forest, Day Four]( {% link _posts/2024-06-02-otter-river-day-four.md %} ).

@@ -15,7 +15,7 @@ Campground in
 
 I slept 9:30 p.m. to 1:00 a.m. and 3:00 a.m. to 5:45 a.m. After breakfast, while
 I was packing, there was a cloudburst at 7:05 a.m. for five minutes, enough that
-I would have to dry everything off when I get home. I quickly threw everything
+I would have to dry everything off when I got home. I quickly threw everything
 back in my tent and crawled in to stay dry. A second, more intense cloudburst at
 8:00 a.m. drenched me and got water into some of my equipment. I had to pack a
 wet tent.

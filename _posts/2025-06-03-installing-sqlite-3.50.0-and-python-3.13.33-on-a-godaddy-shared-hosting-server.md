@@ -41,6 +41,16 @@ SQLite 3, and I couldn't import the
 After five tries, I succeeded in installing SQLite 3.50.0 and Python
 3.13.3. These were the steps I used.
 
+## Create the `local` Directory
+
+I chose to install the software into a directory named `local` in my account.
+(The directions provided by GoDaddy install Python into a hidden directory named
+`.local`, but I preferred not to hide the directory.) I created the directory.
+
+```console
+$ mkdir local
+```
+
 ## Configure Environment Variables
 
 In my experience, compiling and installing software in a Linux environment is a
@@ -64,22 +74,6 @@ export LDFLAGS=-"L${HOME}/local/lib -Wl,-rpath,${HOME}/local/lib"
 
 I logged out and logged in again to my account on the shared hosting server
 to initialize these variables properly in my working environment.
-
-## Create the `local` Directory
-
-I chose to install the software into a directory named `local` in my account.
-(The directions provided by GoDaddy install Python into a hidden directory named
-`.local`, but I preferred not to hide the directory.) I created the directory
-and used the `nano` editor to add the following line to my `.bash_profile`.
-
-```console
-$ mkdir local
-$ nano .bash_profile
-export PATH=${HOME}/local/bin:${PATH}:${HOME}/bin
-```
-
-I logged out and logged in again to my account to initialize the `PATH`
-variable properly in my working environment.
 
 ## Install readline 8.2
 
@@ -125,10 +119,10 @@ $ wget https://sqlite.org/2025/sqlite-autoconf-3500000.tar.gz
 $ tar -xzf sqlite-autoconf-3500000.tar.gz
 $ mkdir bld
 $ cd bld
-$ ./sqlite-autoconf-3500000 configure --help
-$ ./sqlite-autoconf-3500000 configure --prefix=${HOME}/local
+$ ../sqlite-autoconf-3500000/configure --help
+$ ../sqlite-autoconf-3500000/configure --prefix=${HOME}/local
 Checking libs for readline...-lreadline
-Using readline flags: -I/home/yzocwkxqowf9/local/include -lreadline -lncurses
+Using readline flags: -I/home/xxxxxxxxxxx9/local/include -lreadline -lncurses
 Line-editing support for the sqlite3 shell: readline
 $ make
 $ make install
@@ -219,7 +213,7 @@ checking for sqlite3_trace_v2 in -lsqlite3... yes
 checking for sqlite3_value_double in -lsqlite3... yes
 checking for sqlite3_load_extension in -lsqlite3... yes
 checking for sqlite3_serialize in -lsqlite3... yes
-[output omittd]
+[output omitted]
 checking for stdlib extension module _sqlite3... yes
 $ make
 $ make install

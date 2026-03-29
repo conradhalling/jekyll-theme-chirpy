@@ -3,7 +3,7 @@ title: What Mad Pursuit
 description: These are my comments about Francis Crick's 1988 book “What Mad Pursuit”.
 author: conrad
 date: 2025-10-08 10:52:00 -0400
-categories: [Science]
+categories: [Books]
 ---
 
 Written by one of the co-discoverers of the structure of DNA in 1953 and a

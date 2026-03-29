@@ -2,7 +2,7 @@
 title: My Computers
 author: conrad
 date: 2025-02-06 12:13:00 -0500
-categories: [Technology]
+categories: [Miscellaneous]
 ---
 
 Looking back, I see I have been programming computers for 54 years. I have owned
@@ -109,8 +109,9 @@ some of the fitness features don't always work well. I own the LTE model because
 I don't have to carry a phone when I go for a run; my wife can track my position
 and call me on my watch if she needs to reach me.
 
-Finally, in the Apple ecosystem, three years ago I bought the [Apple
-TV](https://en.wikipedia.org/wiki/Apple_TV) digital media player. We have a very
+The last item in the Apple ecosystem is an [Apple
+TV](https://en.wikipedia.org/wiki/Apple_TV) digital media player that I bought
+three years ago. We have a very
 basic, nonsmart "HD ready" flat panel TV (1360 x 768 resolution) connected to
 it. I usually watch movies and TV shows on my laptop, iPad, or iPhone rather
 than on the TV.

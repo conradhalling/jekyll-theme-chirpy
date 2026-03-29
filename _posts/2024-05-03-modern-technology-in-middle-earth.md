@@ -3,7 +3,7 @@ title: Modern Technology in Middle-earth
 description: This is a story idea. In Middle-earth, humans would eventually develop modern technologies through an industrial revolution. The result would be Middle-earth with modern amenities.
 date: 2024-05-03 09:22:00 -0500
 author: conrad
-categories: [Writing]
+categories: [Miscellaneous]
 media_subpath: /assets/img/2024-05-03/
 ---
 
@@ -15,7 +15,7 @@ passing through a valley in Middle-earth_
 A tourist in modern Middle-earth could take a walking tour of Hobbiton led by
 guides dressed as hobbits, featuring a historically authentic recreation
 of Bag-End and souvenir shops selling mathoms and leather-bound replicas of the
-Red Book of Westmarch. 
+Red Book of Westmarch.
 
 Go horseback riding in Rohan. Take a river cruise down the Anduin. Try
 spelunking in Moria wearing rechargeable headlamps. Hop in your EV and drive the

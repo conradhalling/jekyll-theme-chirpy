@@ -13,7 +13,7 @@ Thursday, September 4, 2025, was the second day of my tour of Cape Cod.
 I was camping at North of Highland Camping Area for the second day.
 
 I slept six hours, waking at 6:00 a.m. My air mattress was
-leaking air because I hadn’t closed the valve completely. I read from
+leaking because I hadn’t closed the valve completely. I read from
 _Les Miserables_ by Victor Hugo on my Kindle while I was awake in the middle
 of the night.
 

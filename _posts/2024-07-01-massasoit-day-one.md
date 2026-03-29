@@ -99,7 +99,7 @@ dehydrated when I finished. My effort was 25% Zone 1, 34% Zone 2, 35% Zone 3,
 and 6% Zone 4.
 
 My campsite, D74, was shaded in the afternoon but close to the road. When
-people are talking while they walked by on the road, it sounded like they
+people were talking while they walked by on the road, it sounded like they
 were about to walk through my tent.
 
 ![My campsite at Massasoit State Park](my-campsite-at-massasoit-state-park.png){:

@@ -4,20 +4,27 @@ icon: fas fa-calendar
 order: 2
 ---
 
-## Friday, October 17, 2025
+## Tuesday, March 10, 2026
 
-I spent many hours in July and August watching the Tour de France and the
-Tour de France Femmes.
+In November I began teaching myself guitar using the
+[<cite>Mel Bay Modern Guitar Method Complete Edition</cite>](https://www.melbay.com/Products/30506MEB/mel-bay-modern-guitar-method-complete-edition.aspx)
+and Justin Sandercoe's
+[Justin Guitar app](https://www.justinguitar.com). I
+usually practice twice a day for 30 to 45 minutes in each session.
 
-I did a lot of recreational bicycle riding this summer. I completed two bicycle
-tours this fall, and I'm slowly but steadily adding trip reports to this site.
+I inherited my mother's very fine cello, and after trying unsuccessfully for a
+year to sell it on consignment, I decided to learn to play it. Unlike my parents
+and my siblings, I am not gifted musically, so I do not expect to play it very
+well. But I am attempting this because it will make me learn something new,
+and playing will provide social interactions if I get good enough to join an
+amateur ensemble. I am waiting for my very busy luthier to finish setting up
+the cello for a beginner, at which point I will begin taking lessons.
 
-My big summer reads were _Les Miserables_ by Victor Hugo and _Lonesome
-Dove_ by Larry McMurtry. I have read or listened to a few other books.
-Watch for posts coming "any day now."
+I am running every other day, but I missed a few weeks this winter because of
+heavy snowfalls here in eastern Massachusetts, when I substituted snow shoveling
+for running as my aerobic workouts. I have entered several 5 kilometer races
+this spring.
 
-I resumed running in mid-September, and my runs are up to four miles. I am
-being careful to run every other day at most to avoid injury.
-
-I write about my other activities on my other blog at
-[sphaerula.com](https://sphaerula.com/blog/).
+I do a lot of reading, and as I finish a book I write a post on this blog.
+I am currently reading [<cite>Bach's Cello Suites</cite>](https://www.allenandunwin.com/browse/book/Steven-Isserlis-The-Bach-Cello-Suites-9780571366255)
+by the cellist Steven Isserlis.

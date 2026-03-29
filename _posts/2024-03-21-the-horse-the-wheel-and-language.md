@@ -3,7 +3,7 @@ title: The Horse, the Wheel, and Language
 description: What other books like "The Horse, the Wheel, and Language" are available?
 date: 2024-03-21 18:13:00 -0500
 author: conrad
-categories: [Language]
+categories: [Books]
 ---
 
 I am listening to the audiobook [The Horse, the Wheel, and Language: How Bronze

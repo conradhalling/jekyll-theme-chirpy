@@ -30,13 +30,13 @@ All this good neighborly conversation slowed down my packing. My goal had been
 to depart at 8:00 a.m., but I left at 8:53 a.m.
 
 As I’ve noted before, it was nearly four miles from my campsite in Area 7 to the
-entrance of the park and the Cape Cod Rail Trail. I rode steadily north on the
+entrance of Nickerson State Park and the Cape Cod Rail Trail. I rode steadily north on the
 rail trail without overexerting myself, staying within Zone 2, and I was
 disciplined, taking a rest and food break every ten miles. For food I was
 consuming granola bars and drinking Gatorade.
 
 I took my first break just north of Locust Road in Eastham after riding ten
-miles; I considering swinging over to the Little Capistrano Bike Shop to show
+miles; I considering swinging east to the Little Capistrano Bike Shop to show
 Mark my setup and compliment him on the brake repairs, but I was worried about
 time. At 15 miles, I reached the intersection of the Cape Cod Rail Trail with
 LeCount Hollow Road. I rode up Ocean View Drive along the shoreline, climbing
@@ -50,14 +50,14 @@ two younger riders whose loads were as big as mine. Otherwise, the ride was
 uneventful, and I reached the Head of the Meadow Beach at 32 miles at 12:30 p.m.
 (3.5 hours of riding). I used the restroom facilities there, but it was a little
 too windy to stop to eat. I met a nice couple who were out bicycling and who
-were staying at the Adventure Bound Camping Resort on Highland Road. We exchanged
+were staying at the nearby Adventure Bound Camping Resort on Highland Road. We exchanged
 information about North of Highland Campground and Adventure Bound Camping Resort; they said the tent sites
 on the perimeter are nice, and the showers are excellent since no one uses them
-since they’re all in RVs.
+because they’re all in RVs.
 
 At 12:35 p.m. at mile 32.91, I stopped at a bench on the Head of the Meadow Bike
 Trail and ate a leisurely lunch (a packet of tuna, an asiago bagel, and the
-peach Bernadette had given me.) I had built a big surplus of time, so I relaxed
+peach Bernadette had given me.) I had accumulated a big surplus of time, so I relaxed
 until 1:30 p.m. before riding the last 6.01 miles into Provincetown, for a total
 distance of 38.92 miles.
 

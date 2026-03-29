@@ -3,7 +3,7 @@ title: New England Spring 2025
 description: Spring is late in 2025.
 date: 2025-03-23 12:16:00 -0400
 author: conrad
-categories: [Gardening]
+categories: [Miscellaneous]
 media_subpath: /assets/img/2025-03-23/
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Mel Bay’s Modern Guitar Method, Grade 1"
-description: "I am teaching myself guitar from “Mel Bay’s Modern Guitar Method.”"
+title: "Mel Bay Modern Guitar Method, Grade 1"
+description: "I am teaching myself guitar from “Mel Bay Modern Guitar Method Complete Edition.”"
 date: 2025-12-29 12:32:00 -0500
 author: conrad
 categories: [Music]
 ---
 
-I am teaching myself guitar using
-[<cite>Mel Bay's Modern Guitar Method, Complete Edition</cite>](https://www.melbay.com/Products/30506MEB/mel-bay-modern-guitar-method-complete-edition.aspx?classificationSId=G26).
+I am teaching myself guitar using the book
+[<cite>Mel Bay Modern Guitar Method Complete Edition</cite>](https://www.melbay.com/Products/30506MEB/mel-bay-modern-guitar-method-complete-edition.aspx?classificationSId=G26).
 The complete edition is 679 pages long and includes the book in electronic
 format and downloadable music files of all musical pieces and exercises.
 The complete edition can be purchased in two parts or each grade individually.
@@ -29,7 +29,7 @@ the PDF of the book into Apple Books. This made it possible to read the
 music on my 13-inch iPad Air and listen to the audio examples of the exercises
 or songs. I bought a sturdy music stand that holds my iPad Air without wobbling.
 
-The strength of <cite>Mel Bay's Modern Guitar Method</cite> is that the student
+The strength of <cite>Mel Bay Modern Guitar Method Complete Edition</cite> is that the student
 learns to read standard notation from day one; the book does not contain TABs.
 The weakness of this method is that the music is old tunes in the public domain
 or original compositions by Mel Bay and/or William Bay, and this music is not

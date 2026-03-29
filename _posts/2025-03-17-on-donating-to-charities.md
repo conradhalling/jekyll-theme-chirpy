@@ -3,7 +3,7 @@ title: On Donating
 description: There are so many causes to support that I apply a one-strike rule. If a charity engages in behavior I disapprove of, it goes off my list.
 date: 2025-03-17 08:12:00 -0400
 author: conrad
-categories: [Society]
+categories: [Miscellaneous]
 ---
 
 I'm going to rant a little here. I donate to many charitable organizations, and

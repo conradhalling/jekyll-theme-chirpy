@@ -1,6 +1,6 @@
 ---
 title: Running Summary September 2025
-description: I began running again in September, but my longest run is only two miles.
+description: I began running again in September, but my longest run was only two miles.
 date: 2025-09-30 20:52:00 -0400
 author: conrad
 categories: [Running]
