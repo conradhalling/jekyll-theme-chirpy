@@ -3,7 +3,7 @@ title: "Mel Bay Modern Guitar Method, Grade 1"
 description: "I am teaching myself guitar from “Mel Bay Modern Guitar Method Complete Edition.”"
 date: 2025-12-29 12:32:00 -0500
 author: conrad
-categories: [Music]
+categories: [Guitar]
 ---
 
 I am teaching myself guitar using the book
