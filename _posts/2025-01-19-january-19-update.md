@@ -3,7 +3,7 @@ title: January 19 Update
 description: I have been busy in December 2024 and January 2025.
 date: 2025-01-19 18:43:00 -0500
 author: conrad
-categories: [Miscellaneous]
+categories: [Personal]
 ---
 
 I am listening to two audiobooks: *Sodom and Gomorrah* (English translation)

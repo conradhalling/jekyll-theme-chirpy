@@ -6,8 +6,6 @@ author: conrad
 categories: [Running]
 ---
 
-## December 2025 Summary
-
 In December 2025, I maintained my fitness, with a long run of seven miles. I ran
 two crowded 5k races, the
 [Winter Classic 5k](https://classic5k.com/winter-classic/)
@@ -35,17 +33,3 @@ after a one-month break:
 |   10 | 11/24 |      |      |      | 4.02 |       |  4.05 |       |     8.07 |        91.58 |
 |   11 | 12/1  | 4.10 |      | 4.08 |      |       |       |  7.11 |    15.29 |       106.87 |
 |   12 | 12/8  |      |      | 3.05 |      |  3.25 |       |  5.22 |    11.52 |       118.39 |
-
-## Year 2025 Summary
-
-In 2025, I turned 71 and managed to maintain my fitness. My maximum weekly
-distance was 30.15 miles. My longest run was 12.53 miles. I ran three short
-races in November and December. I ran 515.54 miles in 2025.
-
-I experimented with Zone 2 running, which maintained my fitness and probably
-reduced my chances of injury but didn't make me any faster. Despite my
-modest mileage, I still experienced joint pain in my left knee, enough that
-I took two three-week breaks in the summer. I learned that I need to take
-at least one rest day between runs.
-
-I hope to do as well, and maybe even better, in 2026.
