@@ -1,15 +1,16 @@
 ---
-title: Running Summary March 2024
-description: I was running well, but I got distracted in mid-March and stopped running.
-date: 2024-04-01 15:39:00 -0400
+title: Running Summary February 2024
+description: I ran well in February 2024, increasing my long run to five miles.
+date: 2024-03-01 09:30:00 -0500
 author: conrad
 categories: [Running]
 ---
 
-In March I increased my long run to six miles, but various distractions diverted
-me from running after March 16.
+In late December 2023, I started over from scratch, essentially using the Couch
+to 5k plan, and I restarted again on February 2. It took me eight weeks to reach
+the 5k distance, after which I increased my long run to five miles.
 
-These were the miles I logged from December 25, 2023, through March 31, 2024.
+These were the miles I logged from December 25, 2023, through February 29, 2024.
 
 | Week | Date  | Mon  | Tue  | Wed  | Thu  | Fri   | Sat   | Sun  | Wk Total | Period Total |
 |-----:|-------|-----:|-----:|-----:|-----:|------:|------:|-----:|---------:|-------------:|
@@ -22,8 +23,4 @@ These were the miles I logged from December 25, 2023, through March 31, 2024.
 |    7 | 2/5   |      | 2.55 |      | 2.54 |       |  2.56 |      |     7.65 |        22.68 |
 |    8 | 2/12  | 3.07 |      | 3.08 |      |       |  4.05 |      |    10.20 |        32.88 |
 |    9 | 2/19  | 3.06 |      | 3.30 |      |  3.33 |       | 5.10 |    14.79 |        47.67 |
-|   10 | 2/26  |      |      |      |      |       |  3.05 |      |     3.05 |        50.72 |
-|   11 | 3/4   |      |      | 3.57 |      |  3.55 |       | 6.05 |    13.17 |        63.89 |
-|   12 | 3/11  |      | 3.79 |      |      |       |  5.65 |      |     9.44 |        73.33 |
-|   13 | 3/18  |      |      |      |      |       |       |      |     0.00 |        73.33 |
-|   14 | 3/25  |      |      |      |      |       |       |      |     0.00 |        73.33 |
+|   10 | 2/26  |      |      |      |      |     — |     — |    — |     0.00 |        47.67 |

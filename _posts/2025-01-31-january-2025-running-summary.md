@@ -6,10 +6,19 @@ author: conrad
 categories: [Running]
 ---
 
-These are the miles I've logged since I started running again on November 2, 2024.
 I am trying to not train too hard and to increase my miles slowly but
 steadily. I have succeeded in running 39 times in the past 13 weeks without
 injury.
+
+I deliberately ran very little the week of January 13 since I needed a rest
+week. Unfortunately, I ran very little following week of January 20 because of
+snow, ice, and cold weather. I got back on track the last week of January.
+
+I steadily increased my long run each week to 10 miles in early January, but I
+haven't run long since. I plan to continue increasing my long run one mile each
+week in February to 14 miles on the last weekend of the month.
+
+These are the miles I've logged since I started running again on November 2, 2024.
 
 | Week | Date  | Mon  | Tue  | Wed  | Thu  | Fri   | Sat   | Sun  | Wk Total | Period Total |
 |-----:|-------|-----:|-----:|-----:|-----:|------:|------:|-----:|---------:|-------------:|
@@ -27,20 +36,3 @@ injury.
 |   11 | 1/13  |      |      |      |      |       |       | 4.11 |     4.11 |       138.90 |
 |   12 | 1/20  |      |      |      |      |  4.10 |       |      |     4.10 |       143.00 |
 |   13 | 1/27  | 5.12 | 4.13 | 4.45 |      |       |     — |    — |        — |            — |
-
-I had stopped running after August 24, 2024 because of a sore right Achilles
-tendon. After a little more than two months without running, I started running
-again on November 2. I am trying to increase my miles slowly but steadily
-without injuring myself.
-
-I ran the 4-mile Gobble, Gobble, Gobble race on Thursday, November 28
-(Thanksgiving Day) at a good pace except that I was slow going up hills. Running
-went well in December.
-
-I deliberately ran very little the week of January 13 since I needed a rest
-week. Unfortunately, I ran very little following week of January 20 because of
-snow, ice, and cold weather. I am back on track this week.
-
-I have steadily increased my long run each week to 10 miles. I plan to continue
-increasing my long run one mile each week in February to 14 miles on the last
-weekend of the month.

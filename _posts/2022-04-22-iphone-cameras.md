@@ -2,7 +2,7 @@
 title: iPhone Cameras
 description: I muse about buying a better iPhone for its camera.
 author: conrad
-date: 2022-03-21 13:02:00 -0500
+date: 2022-04-22 13:02:00 -0400
 categories: [Miscellaneous]
 ---
 

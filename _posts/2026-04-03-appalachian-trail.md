@@ -1,6 +1,6 @@
 ---
 title: Vicariously Hiking the Appalachian Trail
-description: I am following three people as they hike the Appalachian Trail.
+description: I am following two people as they hike the Appalachian Trail.
 date: 2026-04-03 10:33:00 -0400
 author: conrad
 categories: [Miscellaneous]
@@ -13,7 +13,7 @@ Appalachian Trail on Mt. Greylock in Western Massachusetts. And I have read
 several books by people who have hiked the Appalachian Trail or the Pacific
 Crest Trail.
 
-This year (2026) I am following the logs of three people who are hiking the
+This year (2026) I am following the logs of two people who are hiking the
 [Appalachian Trail](https://www.nps.gov/appa/index.htm),
 which extends 2,190 miles from Springer Mountain in
 Georgia to Mt. Katahdin in Maine. There are several more people posting videos
@@ -46,22 +46,3 @@ stage four metastatic breast cancer.
 
 Checklist is low key and friendly with a great sense of humor. On the day of
 this post, Checklist posted about his twenty-sixth day.
-
-## Moron
-
-Moron is Kenneth Pararo, whose
-[Book of Moron](https://bookofmoron.podbean.com)
-podcast I discovered in the late fall of 2025 when I was looking for bicycle
-touring and bikepacking podcasts. At the time, Moron was posting a series named
-"Long Errand" about a bicycle tour across the southern United States.
-
-This year Moron is hiking the Appalachian Trail, and he has started a new series
-of episodes named "Walden 11." Moron started his hike about March 6, a pretty
-early start date, after backpacking four days from his parents' house to the
-[AT Approach Trail](https://www.atlantatrails.com/hiking-trails/at-approach-trail-hiking-amicalola-falls-to-springer-mountain/),
-which starts at Amicalola Falls in Georgia.
-
-Moron goes off trail frequently, walking the roads instead of the trail. He is
-hiking long distances each day (twenty to more than thirty miles per day), so he
-will finish much earlier than Mighty Mouse and John. Moron is an advocate
-of using AI, and he is experimenting with using AI for logging his hike.

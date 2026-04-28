@@ -6,9 +6,7 @@ author: conrad
 categories: [Running]
 ---
 
-In 2025, I turned 71 but managed to increase my fitness. I ran three short races
-in November and December. I ran 515 miles in 2025, a 57% increase over 2024.
-My maximum weekly distance was 30.15 miles, and my longest run was 12.53 miles.
+In 2025, I turned 71 but managed to increase my fitness.
 
 I experimented with Zone 2 running, which maintained my fitness and probably
 reduced my chances of injury but didn't make me any faster. Despite my modest
@@ -16,6 +14,9 @@ mileage, I still experienced joint pain in my left knee, enough that I took
 breaks in the summer (when I was doing a lot of bicycling). I learned that I
 need to take at least one rest day between runs. I took a deliberate break for
 the rest of the year after I raced on December 14.
+
+I ran 515 miles in 2025. My maximum weekly distance was 30.15 miles, and my
+longest run was 12.53 miles. I ran three short races in November and December.
 
 I hope to do as well, and maybe even better, in 2026.
 
@@ -74,3 +75,13 @@ I hope to do as well, and maybe even better, in 2026.
 | 12/15 |      |      |      |      |       |       |       |     0.00 |
 | 12/22 |      |      |      |      |       |       |       |     0.00 |
 | 12/29 |      |      |      |    — |     — |     — |     — |     0.00 |
+
+In 2025 I ran the most miles in five years.
+
+| Year | Miles |
+|------|------:|
+| 2021 |   201 |
+| 2022 |   459 |
+| 2023 |   301 |
+| 2024 |   327 |
+| 2025 |   515 |

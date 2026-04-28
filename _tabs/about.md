@@ -11,11 +11,12 @@ include astronomy, computers, computer programming, dabbling in data science and
 machine learning, and reading about science.
 
 My other activities include reading fiction and nonfiction; listening to
-audiobooks, podcasts, and music; playing guitar (and soon, cello); running; and
+audiobooks, podcasts, and music; learning guitar and cello; running; and
 bicycle touring. Oh, and dog walking—so much dog walking.
 
 I write on this blog about things I find interesting. This is mostly a means for
-clearing my head of ideas and organizing my thoughts.
+clearing my head of ideas and organizing my thoughts. I am slowly converting
+items from my journal into back-dated blog posts.
 
 Feel free to contact me by email by clicking on the envelope icon at the bottom
 left of this page.

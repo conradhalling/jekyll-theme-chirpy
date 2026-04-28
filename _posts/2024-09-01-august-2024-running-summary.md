@@ -6,6 +6,22 @@ author: conrad
 categories: [Running]
 ---
 
+Since resuming running in June, I tried not to increase my mileage quickly.
+Many of my runs this month took place in high
+humidity, which had a good training effect but was physically tiring. I tried
+another set of half mile repeats this month. My long runs in the humidity were very difficult,
+and I had to cut some short.
+
+Unfortunately, I experienced growing pain in my right Achilles tendon. I had to
+cut short my long run on August 24, stopping after running eleven miles out of a
+planned thirteen.
+
+I had signed up for a half marathon in Westerly, Rhode Island, scheduled on the
+second weekend of September, but I decided I could not run the race.
+
+This has happened before. After a few weeks of rest and no running, I expect
+I'll start running again.
+
 These were the miles I logged from June 17, 2024, through August 24, 2024.
 
 | Week | Date  | Mon  | Tue  | Wed  | Thu  | Fri   | Sat   | Sun  | Wk Total | Period Total |
@@ -20,22 +36,3 @@ These were the miles I logged from June 17, 2024, through August 24, 2024.
 |    8 |  8/5  | 4.04 |      | 6.74 | 3.45 |       | 11.03 |      |    25.26 |       126.98 |
 |    9 |  8/12 |      |      |      |      |       |  4.09 | 5.04 |     9.13 |       136.11 |
 |   10 |  8/19 |      | 4.09 |      | 5.07 |       | 11.04 |      |    20.20 |       156.31 |
-
-I started running again after a three-month hiatus during which I was focused
-on walking dogs and training for bicycle tours in May and early June.
-
-I tried not to increase my mileage too quickly, throwing in a couple of weeks
-with very little running, but this failed as my right Achilles tendon grew
-increasingly painful. Since it was summer, many of my runs took place in high
-humidity, which had a good training effect but was physically tiring. I tried
-half mile repeats on two days. My long runs in the humidity were very difficult,
-and I had to cut some short. But on August 7-10 I ran on the Oregon coast, and those
-runs were fun and easy.
-
-I had signed up for a half marathon in Westerly, Rhode Island, in early
-September. But my long run on Saturday, August 24, was intended to be 13 miles
-long, and I had to stop at 11 miles with a very sore right Achilles tendon.
-I decided I could not run the race.
-
-This has happened before. After a few weeks of rest and no running, I expect
-I'll start running again.

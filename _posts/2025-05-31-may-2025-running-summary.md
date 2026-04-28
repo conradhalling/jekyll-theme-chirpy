@@ -6,6 +6,31 @@ author: conrad
 categories: [Running]
 ---
 
+In May 2025 I have run only in Zone 2, and this is working well for me. Running
+in Zone 2 enabled me to increase the average length of my runs without injuring
+myself. I avoided running two days in a row unless I was well-rested. But my
+running was inconsistent when I prioritized other activities over running. I
+managed one long run of eleven miles.
+
+My monthly totals reveal that my effort is not very consistent from month to
+month, but I increased my total effort in May.
+
+| Month    | Miles | Miles per Day |
+|----------|------:|--------------:|
+| Nov 2024 | 33.91 |          1.13 |
+| Dec 2024 | 64.00 |          2.06 |
+| Jan 2025 | 58.79 |          1.90 |
+| Feb 2025 | 47.02 |          1.70 |
+| Mar 2025 | 77.11 |          2.49 |
+| Apr 2025 | 54.92 |          1.83 |
+| May 2025 | 86.41 |          2.79 |
+
+Ideally, I would like to run every other day with a long run reaching fourteen
+miles every two weeks as long as I don't have any nagging pains. In a really
+consistent month, I should be able to run a hundred miles. I would like to run a
+half marathon race this year, but I feel like a marathon is now beyond my
+physical ability.
+
 These are the miles I've logged from November 2, 2024, through May 31, 2025,
 seven months of pretty steady running.
 
@@ -42,28 +67,3 @@ seven months of pretty steady running.
 |   28 | 5/12  |      | 5.08 |      | 7.03 |       |  4.09 |       |    16.20 |       385.97 |
 |   29 | 5/19  |      |      |      |      |  3.08 | 11.02 |       |    14.10 |       400.07 |
 |   30 | 5/26  | 7.03 |      |      | 7.03 |       |  8.03 |     — |          |              |
-
-In May 2025 I have run only in Zone 2, and this is working well for me. Running
-in Zone 2 enabled me to increase the average length of my runs without injuring
-myself. I avoided running two days in a row unless I was well-rested. But my
-running was inconsistent when I prioritized other activities over running. I
-managed one long run of eleven miles.
-
-My monthly totals reveal that my effort is not very consistent from month to
-month, but I increased my total effort in May.
-
-| Month    | Miles | Miles per Day |
-|----------|------:|--------------:|
-| Nov 2024 | 33.91 |          1.13 |
-| Dec 2024 | 64.00 |          2.06 |
-| Jan 2025 | 58.79 |          1.90 |
-| Feb 2025 | 47.02 |          1.70 |
-| Mar 2025 | 77.11 |          2.49 |
-| Apr 2025 | 54.92 |          1.83 |
-| May 2025 | 86.41 |          2.79 |
-
-Ideally, I would like to run every other day with a long run reaching fourteen
-miles every two weeks as long as I don't have any nagging pains. In a really
-consistent month, I should be able to run a hundred miles. I would like to run a
-half marathon race this year, but I feel like a marathon is now beyond my
-physical ability.

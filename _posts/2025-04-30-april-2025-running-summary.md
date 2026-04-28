@@ -6,6 +6,20 @@ author: conrad
 categories: [Running]
 ---
 
+I ran three days in a row on March 31 through April 2 with the idea in mind that
+I would run four miles a day for seven days in a row. But on April 3, which was
+to be day four, my left knee hurt, and I took a rest day.
+
+Beginning April 7, I ran twice a week for two weeks. I did a little bicycling on
+a few of the non-running days. Beginning April 20 I have tried running every
+other day, increasing my distance to six miles for the last four runs. On April
+22 I ran five fast miles with my friend R.C. For my last two runs, I tried
+running only in Zone 2, slow and easy. I did not do any long runs in April.
+
+My legs tolerate running every other day, but seemingly any increase means
+fatigue and aches. In May I hope to continue running steadily while beginning
+kayaking and increasing my bicycling.
+
 These are the miles I've logged from November 2, 2024, through April 30, 2025,
 six months of pretty steady running.
 
@@ -37,18 +51,4 @@ six months of pretty steady running.
 |   23 | 4/7   | 4.15 |      |      |      |       |  4.14 |       |     8.29 |       301.49 |
 |   24 | 4/14  | 4.14 |      |      |      |       |       |  2.07 |     6.21 |       307.70 |
 |   25 | 4/21  |      | 5.11 |      | 6.13 |       |  6.10 |       |    15.34 |       323.04 |
-|   26 | 4/28  | 6.14 |      | 6.57 |    — |     — |     — |     — |        — |            — |
-
-I ran three days in a row on March 31 through April 2 with the idea in mind that
-I would run four miles a day for seven days in a row. But on April 3, which was
-to be day four, my left knee hurt, and I took a rest day.
-
-Beginning April 7, I ran twice a week for two weeks. I did a little bicycling on
-a few of the non-running days. Beginning April 20 I have tried running every other
-day, increasing my distance to six miles for the last four runs. On April 22 I
-ran five fast miles with my friend R.C. For my last two runs, I tried running
-only in Zone 2, slow and easy. I did not do any long runs in April.
-
-My legs tolerate running every other day, but seemingly any increase means
-fatigue and aches. In May I hope to continue running steadily while beginning
-kayaking and increasing my bicycling.
+|   26 | 4/28  | 6.14 |      | 6.57 |    — |     — |     — |     — |    12.71 |       335.75 |

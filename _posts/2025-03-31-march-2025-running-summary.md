@@ -6,6 +6,20 @@ author: conrad
 categories: [Running]
 ---
 
+In March I completed a long run of 12.53 miles, but I was tired for
+several days aftewards. After that, all of my runs were four to six miles long.
+I was surprised when near the end of March I suddenly began running faster,
+reducing my time by 30 seconds per mile with no perceived increase in effort.
+
+In mid-March I began bicycling occasionally on non-running days, which was good
+cross-training but tiring for my legs. In general, I have enough energy to
+either run or bicycle each day, although occasionally I need to take a rest day
+because my legs are tired.
+
+In April I plan to increase my bicycling and probably reduce my running, perhaps
+alternating running and bicycling days. I need to get into bicycle touring
+condition sufficient for riding a loaded bicycle about 45 miles in a day.
+
 These are the miles I've logged from November 2, 2024, through March 31, 2025.
 
 | Week | Date  | Mon  | Tue  | Wed  | Thu  | Fri   | Sat   | Sun   | Wk Total | Period Total |
@@ -32,18 +46,4 @@ These are the miles I've logged from November 2, 2024, through March 31, 2025.
 |   19 | 3/10  |      |      |      |      |       |  4.13 |       |     4.13 |       242.89 |
 |   20 | 3/17  | 4.16 |      | 5.17 |      |       |  4.12 |  4.13 |    17.58 |       260.47 |
 |   21 | 3/24  | 4.13 |      | 6.06 |      |  6.06 |       |       |    16.25 |       276.72 |
-|   22 | 3/31  | 4.11 |    — |    — |    — |     — |     — |     — |        — |            — |
-
-In March I completed a long run of twelve and a half miles, but I was tired for
-several days aftewards. After that, all of my runs were four to six miles long.
-I was surprised when near the end of March I suddenly began running faster,
-reducing my time by 30 seconds per mile with no perceived increase in effort.
-
-In mid-March I began bicycling occasionally on non-running days, which was good
-cross-training but tiring for my legs. In general, I have enough energy to
-either run or bicycle each day, although occasionally I need to take a rest day
-because my legs are tired.
-
-In April I plan to increase my bicycling and probably reduce my running, perhaps
-alternating running and bicycling days. I need to get into bicycle touring
-condition sufficient for riding a loaded bicycle about 45 miles in a day.
+|   22 | 3/31  | 4.11 |    — |    — |    — |     — |     — |     — |     4.11 |       280.83 |

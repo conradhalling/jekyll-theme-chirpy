@@ -35,3 +35,10 @@ exact count), including the Boston Marathon in 2016.
 As I got older, I increased my walking breaks to one minute every six minutes. I
 ran my last marathon, a virtual marathon, at age 66 in 2020 during the Covid
 pandemic, using the run-walk-run approach.
+
+_Added on April 14, 2026_: The Stryd blog has a
+[series of three posts](https://blog.stryd.com/2026/04/07/broken-endurance-blog-1-why-so-many-runners-misunderstand-it/)
+about how professional coaches and runners use the run/walk/run method to
+achieve success. The posts had their intended effect on me: Now I'm thinking
+of buying a Stryd power meter to measure the effectiveness of the run/walk/run
+method on my long runs this year.

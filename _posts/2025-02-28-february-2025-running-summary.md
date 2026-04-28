@@ -6,6 +6,15 @@ author: conrad
 categories: [Running]
 ---
 
+We experienced a typical New England winter in February, causing me to miss many
+days of running because of cold temperatures and accumulated snow and ice on
+roads and sidewalks. I increased my long run to eleven miles, but I have
+finished only three long runs since the beginning of 2025. My daily run reached
+five miles before I missed nine days in a row because of wintery conditions.
+
+As I write this at the end of February, I have reduced my daily mileage and will
+increase it again slowly in March.
+
 These are the miles I've logged from November 2, 2024, through February 28, 2025.
 
 | Week | Date  | Mon  | Tue  | Wed  | Thu  | Fri   | Sat   | Sun  | Wk Total | Period Total |
@@ -27,13 +36,4 @@ These are the miles I've logged from November 2, 2024, through February 28, 2025
 |   14 | 2/3   | 5.05 |      | 5.08 |      |  4.13 | 11.19 |      |    25.46 |       182.16 |
 |   15 | 2/10  |      | 5.08 |      | 5.14 |       |  6.26 |      |    16.48 |       198.64 |
 |   16 | 2/17  |      |      |      |      |       |       |      |     0.00 |       198.64 |
-|   17 | 2/24  |      | 2.05 | 3.03 |      |       |     — |    — |        — |            — |
-
-We experienced a typical New England winter in February, causing me to miss many
-days of running because of cold temperatures and accumulated snow and ice on
-roads and sidewalks. I increased my long run to eleven miles, but I finished
-only three long runs since the beginning of 2025. My daily run reached five
-miles before I missed nine days in a row because of wintery conditions.
-
-As I write this at the end of February, I have reduced my daily mileage and will
-increase it again slowly in March.
+|   17 | 2/24  |      | 2.05 | 3.03 |      |       |     — |    — |     5.08 |       203.72 |

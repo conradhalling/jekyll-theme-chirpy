@@ -10,23 +10,18 @@ These were my accomplishments for 2024. I had a busy and productive year.
 
 ## Running
 
-I had a so-so year of running in 2024 where my efforts were limited by minor
-injuries. I trained to run a half marathon in September, and I experimented in
-July with running half mile repeats and tempo runs to improve my speed. But I
-developed a sore and tight right Achilles tendon in August, and I decided not to
-run the half marathon.
+As I described in my
+[running summary for 2024]( {% link _posts/2025-01-02-year-2024-running-summary.md %} ),
+I had a so-so year of running in 2024 when I had two long gaps in my running.
+I was training to run a half marathon in September, but an injury led to my
+not running that race and taking a long break from running.
 
-I ran a total of 327 miles. On my biggest week, I ran twenty-five miles. My
-longest runs were in August: Eleven miles in Pacific City, Oregon, and eleven
-miles again two weeks later in the Boston area.
-
-I finished one race, the Gobble Gobble Gobble 4-miler in Somerville,
-Massachusetts, on Thanksgiving Day morning.
+I ran a total of 327 miles, and I finished one race.
 
 ## Bicycling
 
 I attended the Mass Bike Lobby Day with Massachusetts state legislators on
-January 25. There I met people from AMC in Worcester and learned about their
+January 25. There I met bicycling advocates from AMC and learned about their
 bicycle touring workshop and tours. In April attended the AMC Bicycle Touring
 Workshop in Worcester.
 
@@ -39,7 +34,7 @@ I finished three early-summer bicycle tours:
 
 -   A five-night tour to
     [Otter River State Forest]( {% link _posts/2024-05-30-otter-river-day-one.md %} )
-    to join fellow members of the AMC on their annual one-night tour
+    to join fellow AMC members on their annual one-night tour
 
 -   A two-night solo tour to [Massasoit State Park]( {% link _posts/2024-07-01-massasoit-day-one.md %} )
 
