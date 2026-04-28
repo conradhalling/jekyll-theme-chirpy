@@ -3,7 +3,7 @@ title: Accomplishments in 2025
 description: "I reviewed my journal, and these were my accomplishments in 2025."
 date: 2026-01-05 19:04:00 -0500
 author: conrad
-categories: [Personal]
+categories: [Other]
 ---
 
 These were my accomplishments for 2025. I had a very interesting and productive

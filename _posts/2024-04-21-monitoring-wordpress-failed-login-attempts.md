@@ -3,7 +3,7 @@ title: Monitoring WordPress Failed Login Attempts
 author: conrad
 date: 2024-04-21 22:19:00 -0500
 description: Bad actors on the internet attempt to log in to WordPress sites. I use a plugin to slow them down.
-categories: [Blogging]
+categories: [Computing]
 media_subpath: /assets/img/2024-04-21/
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Generating and Installing an ssh Public Key
-description: I generated a public/private key pair and installed the public key in my blogging accounts so I could log in without having to enter a password. 
+description: I generated a public/private key pair and installed the public key in my blogging accounts so I could log in without having to enter a password.
 author: conrad
 date: 2025-02-19 09:25 -0500
-categories: [Blogging]
+categories: [Computing]
 ---
 
 ## Introduction

@@ -2,8 +2,8 @@
 title: Modifying the Jekyll Chirpy Theme
 author: conrad
 description: I modified the Jekyll Chirpy theme to use different font families and to add color and contrast.
-date: 2025-02-09 18:06:00 -0500
-categories: [Blogging]
+date: 2025-02-08 18:06:00 -0500
+categories: [Computing]
 ---
 
 ## Introduction
@@ -13,7 +13,7 @@ popular [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) is
 designed for creating a technical blog that contains code blocks, tables, math, and
 figures.
 
-Jekyll combined with the Chirpy theme has a complete set of 
+Jekyll combined with the Chirpy theme has a complete set of
 [features](https://chirpy.cotes.page/about/#features)—everything I was looking for,
 including the following:
 
@@ -236,7 +236,7 @@ When I studied the theme's color styles (in files `_sass/themes/_light.scss` and
 `_sass/themes/_dark.scss`), I discovered that the theme used more than 80 CSS
 variables to specify colors for various HTML elements.
 
-For example, these were 23 of the CSS variables: 
+For example, these were 23 of the CSS variables:
 
 <table>
   <thead>
@@ -433,7 +433,7 @@ more information.)
 The table below displays colors for hues ranging from `0deg` to `330deg`,
 saturation `20%`, and lightness ranging from `0%` (black) to `100%` (white). The
 rightmost, grayscale column has saturation set to `0%`. At the time of writing,
-the colors in this blog were derived from hue `150deg` and saturation `20%`. 
+the colors in this blog were derived from hue `150deg` and saturation `20%`.
 
 <table>
   <thead>
@@ -766,7 +766,7 @@ I modified the following files:
   - `assets/css/_light_colors.scss`
   - `assets/css/_dark_colors.scss`
   - `assets/css/jekyll-theme-chirpy.scss`
-  
+
 ### Display the Avatar
 
 In the default theme, the avatar was displayed in a circle at the top of the

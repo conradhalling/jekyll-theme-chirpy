@@ -2,7 +2,7 @@
 title: My Computers
 author: conrad
 date: 2025-02-06 12:13:00 -0500
-categories: [Personal]
+categories: [Other]
 ---
 
 Looking back, I see I have been programming computers for 54 years. I have owned

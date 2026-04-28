@@ -3,14 +3,16 @@ title: Setting Up WordPress
 description: I found out that setting up a simple WordPress site was complicated.
 author: conrad
 date: 2022-03-18 14:11:00 -0500
-categories: [Blogging]
+categories: [Computing]
 ---
+
+_Added April 28, 2026: My blog at sphaerula.com no longer exists._
 
 "I want to write," I said. "So I need to set up a blog."
 
 Actually, I needed two blogs. For technical and scientific writing, I have long
-been using [sphaerula.com](https://sphaerula.com). (I recently wiped the site because the content
-was dated. I am reinstalling WordPress and creating new content.) For creating
+been using sphaerula.com. (I recently wiped the site because the content
+was dated. I am reinstalling WordPress and creating new content.) For creative
 writing and photography, I am using [conradhalling.com](https://conradhalling.com).
 
 Two days later, I'm still working on configuring
@@ -45,6 +47,3 @@ cookie notifications. It took me hours of experimentation to understand how the
 pages, customization, posts, and widgets work for the Twenty Twenty-One theme,
 but now I have finished configuration and created two placeholder posts, one
 each for my Writing and Photography categories.
-
-To keep things simple, I plan to use the Twenty Twenty-One theme for my blog here at
-[sphaerula.com](https://sphaerula.com).

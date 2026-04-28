@@ -3,7 +3,7 @@ title: Jekyll Chirpy Theme Blog Customization
 description: 基于 Jekyll-Theme-Chirpy v7.0.0 的个性化方案介绍：MathJax 配置、侧边栏样式、页脚站点统计、背景动画、自定义新的 prompt 和 details 元素样式、LQIP 和反色图片的 Python 实现等内容。
 author: [huanyu_shi, conrad]
 date: 2024-03-30
-categories: [Blogging]
+categories: [Computing]
 math: true
 media_subpath: /assets/img/2024-03-30/
 last_modified_at: 2025-02-06 21:50:00 -0500
@@ -104,7 +104,7 @@ MathJax = {
 同样也要注意修改相应文字的颜色，我这里选的是深色背景，所以对应文字都是白色，
 ```css
 #sidebar .site-title a {
-    color: #ffffff; 
+    color: #ffffff;
     text-shadow: 5px 5px 10px rgba(0,0,0,0.5);
 }
 #sidebar .site-subtitle {
@@ -263,7 +263,7 @@ _posts
 <!-- {% raw %} -->
 ```html
 <!-- 站点统计 -->
-<p> 
+<p>
   {% include footer-busuanzi.html %}
 </p>
 ```
@@ -358,24 +358,24 @@ _posts
     from {
       -webkit-transform: rotate(0deg);
     }
-  
+
     to {
       -webkit-transform: rotate(360deg);
     }
   }
-  
+
   .icon-loading1 {
     display: inline-block;
     animation: infirot 1s linear infinite;
     -webkit-animation: infirot 1s linear infinite;
   }
-  
+
   @function random_range($min, $max) {
     $rand: random();
     $random_range: $min + floor($rand * (($max - $min) + 1));
     @return $random_range;
   }
-  
+
   #animation {
     position: fixed;
     top: 0;
@@ -384,7 +384,7 @@ _posts
     height: 100%;
     overflow: hidden;
     pointer-events: none;
-  
+
     @keyframes animate {
       0% {
         transform: translateY(0) rotate(0deg);
@@ -397,7 +397,7 @@ _posts
         border-radius: 50%;
       }
     }
-  
+
     @media all and (min-width: 1200px) {
       .animation-circle {
         position: absolute;
@@ -411,7 +411,7 @@ _posts
         animation-duration: var(--circle-time);
         animation-delay: var(--circle-delay);
         pointer-events: none;
-  
+
         @for $i from 0 through 50 {
           &:nth-child(#{$i}) {
             --circle-left: #{random_range(0%, 100%)};
@@ -423,7 +423,7 @@ _posts
         }
       }
     }
-  
+
     @media all and (max-width: 1199px) {
       .animation-circle {
         display: none;
@@ -527,7 +527,7 @@ To be or not to be. That is a question.
 
 <div class="box-danger" markdown="1">
 <div class="title"> Shakespeare </div>
-> To be or not to be. That is a question.  
+> To be or not to be. That is a question.
 > --- Shakespeare
 
 $$x^2 + y^2 =z^2$$
@@ -566,7 +566,7 @@ To be or not to be. That is a question.
     box-shadow: var(--language-border-color) 1px 1px 2px 1px;
     position: relative;
     margin-bottom: 1rem;
-  
+
     > div.title::before {
       content: $icon-content;
       color: $icon-color;
@@ -579,20 +579,20 @@ To be or not to be. That is a question.
       text-rendering: auto;
       -webkit-font-smoothing: antialiased;
     }
-  
+
     > div.title {
       background-color: $bg-color;
       color: $icon-color;
-      padding: .5rem .6rem .5rem 3rem; 
+      padding: .5rem .6rem .5rem 3rem;
       margin: -.6rem -1rem .6rem -1.5rem;
       font-weight: 600;
     }
-    
+
     > p:last-child{
         margin-bottom: 0;
     }
 }
-  
+
 /* box-info 蓝色 */
 .box-info {
 @include colorbox(
@@ -677,7 +677,7 @@ $$
    }
 
     details > summary {
-        padding: .5rem 1.0rem .5rem 1.0rem; 
+        padding: .5rem 1.0rem .5rem 1.0rem;
         margin: -.6rem -1rem -.6rem -1.5rem;
         font-weight: 600;
         background-color: var(--prompt-tip-bg);
@@ -698,7 +698,7 @@ $$
     details > summary::before {
         /* 关闭状态下 */
         /* 也可以用其他符号或自定义图标，比如 Unicode 字符 */
-        // content: '🙈'; 
+        // content: '🙈';
         /* content:'\002B9A'; */
         content: '😼';
         margin-right: .5rem;
@@ -706,7 +706,7 @@ $$
     }
     details[open] > summary::before {
         /* 展开状态下 */
-        /* content: '🐵';*/  
+        /* content: '🐵';*/
         /* content: '\002B9B'; */
         content: '🙀';
         animation: my-cat .2s ease-in-out; /*  点击会有动画效果 */
@@ -749,19 +749,19 @@ _低质量图像占位符，from [daun](https://processwire.com/modules/image-pl
 ```python
 from PIL import Image, ImageFilter
 import base64
-import pyperclip 
+import pyperclip
 
 def image_lqip(image_path,output_image_path,length=16,width=8,radius=2):
     """
     生成 LQIP（Low-Quality Image Placeholder）并保存到文件中，并返回base64编码的字符串。
-    
+
     参数：
     - image_path：原始图像文件路径
     - output_image_path：输出 LQIP 文件路径
     - length：调整后图像的长度，默认为 16
     - width：调整后图像的宽度，默认为 8
     - radius：高斯模糊的半径，默认为 2
-    
+
     返回值：
     - base64 编码的字符串
     """
@@ -775,12 +775,12 @@ def image_lqip(image_path,output_image_path,length=16,width=8,radius=2):
     with open(output_image_path, "rb") as image_file:
         encoded_string = base64.b64encode(image_file.read())
         base64_string = encoded_string.decode('utf-8')
-    
+
     return base64_string
 
 image_start = "../huanyushi.github.io"
 image_end = input()
-image_path = image_start + image_end 
+image_path = image_start + image_end
 
 base64_image = image_lqip(image_path, "test.jpg")
 
@@ -797,7 +797,7 @@ import base64
 def save_base64_image(base64_string, output_path):
     """
     将base64编码的字符串保存为图像文件。
-    
+
     参数：
     - base64_string：base64编码的字符串
     - output_path：输出图像文件路径
@@ -805,7 +805,7 @@ def save_base64_image(base64_string, output_path):
 
     # 解码base64编码的字符串
     decoded_data = base64.b64decode(base64_string)
-    
+
     # 将解码后的数据保存为图像文件
     with open(output_path, 'wb') as image_file:
         image_file.write(decoded_data)
@@ -820,7 +820,7 @@ Blog 支持暗色模式，同时文中的图片也可以相应转换至暗色模
 
 ```python
 from PIL import Image, ImageChops
-import matplotlib.pyplot as plt  
+import matplotlib.pyplot as plt
 
 def invert_color(fname):
     im = Image.open(fname)
@@ -838,18 +838,18 @@ image_path = path_start + path_end
 image_origin, image_inverted = invert_color(image_path)
 
 # 绘图对比，不想绘图可以直接去掉
-plt.subplot(121) 
-plt.title('original') 
+plt.subplot(121)
+plt.title('original')
 plt.axis('off')
-plt.imshow(origin, cmap='gray', vmin=0, vmax=255)  
-plt.subplot(122) 
-plt.title('inverse') 
-plt.imshow(image_output, cmap='gray', vmin=0, vmax=255) 
+plt.imshow(origin, cmap='gray', vmin=0, vmax=255)
+plt.subplot(122)
+plt.title('inverse')
+plt.imshow(image_output, cmap='gray', vmin=0, vmax=255)
 plt.axis('off')
 plt.show()
 
 # 保存图片
-image_output.save(image_start + image_end.replace('.', '-dark.')) # 如：test.PNG 生成的反色图片保存为 test-dark.PNG 
+image_output.save(image_start + image_end.replace('.', '-dark.')) # 如：test.PNG 生成的反色图片保存为 test-dark.PNG
 ```
 ![inverse comparison](inverse.png){:.light}
 ![inverse comparison](inverse-dark.png){:.dark}
@@ -863,11 +863,11 @@ _反色图片与原图片对比_
 1. 关掉梯子 (VPN) 再 push 一下试试；
 2. 在命令行中运行以下代码来取消代理。
 ```bash
-git config --global --unset http.proxy 
-git config --global --unset https.proxy 
+git config --global --unset http.proxy
+git config --global --unset https.proxy
 ```
-1. 打开梯子的情况下。对右下角网络点击右键，打开`网络和 Internet 设置`，点击代理，查看地址和端口号，如 `127.0.0.1:7890`。在命令行中输入 
-```shell 
+1. 打开梯子的情况下。对右下角网络点击右键，打开`网络和 Internet 设置`，点击代理，查看地址和端口号，如 `127.0.0.1:7890`。在命令行中输入
+```shell
 git config --global http.proxy http://127.0.0.1:7890
 ```
 

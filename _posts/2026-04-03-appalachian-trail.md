@@ -3,7 +3,7 @@ title: Vicariously Hiking the Appalachian Trail
 description: I am following two people as they hike the Appalachian Trail.
 date: 2026-04-03 10:33:00 -0400
 author: conrad
-categories: [Miscellaneous]
+categories: [Other]
 ---
 
 I did some backpacking in the Pacific Northwest in the 1970s, including short

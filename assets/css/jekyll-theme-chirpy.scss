@@ -74,8 +74,7 @@
   - Place the avatar in a rectangle instead of a circle.
   - In the sidebar, adjust font size of the site's title to make the title fint
     on one line.
-  - Increase the font size of the site's subtitle to make it a little easier to
-    read. Unfortunately, you have to zoom in to see the emoji.
+  - Adjust the font size and style for the subtitle.
 */
 #sidebar #avatar {
   box-shadow: none;
@@ -95,13 +94,9 @@
 }
 
 #sidebar .site-subtitle {
-  font-size: 1.2rem;
-  font-style: normal !important;
+  font-size: 0.9rem;
+  font-style: italic !important;
 }
-
-/*
-  The following changes are shared between sphaerula.com and conradhalling.com.
-*/
 
 /*
   Set the content font family.

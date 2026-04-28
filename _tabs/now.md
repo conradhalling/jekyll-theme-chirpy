@@ -19,17 +19,18 @@ it very well. But I am attempting this because it will make me learn something
 new, and playing will provide social interactions if I get good enough to join
 an amateur ensemble. I have my first lesson on May 9, 2026.
 
-I am running every other day, and I have been entering 5 kilometer races
-this spring.
+I am running every other day, and I have been entering short races for the
+past five months.
 
 I do a lot of reading, and as I finish a book I usually write a post on this
-blog. I recently finished reading the following books:
+blog. I recently finished reading the following books (watch for reviews
+on this site):
 
 -   <cite>[Bach's Cello Suites](https://www.allenandunwin.com/browse/book/Steven-Isserlis-The-Bach-Cello-Suites-9780571366255)</cite> by the cellist Steven Isserlis
 -   <cite>[Jacqueline du Pré: Her Life, Her Music, Her Legend](https://www.skyhorsepublishing.com/arcade-publishing/9781611458251/jacqueline-du-pre/)</cite> by Elizabeth Wilson
 -   <cite>[The Universal Timekeepers: Reconstructing History Atom by Atom]()</cite> by David Helfand
 
-Among several books I'm reading right now is
+Among several books I'm reading right now are
 <cite>[Learn Faster, Perform Better: A Musician’s Guide to the Neuroscience of Practicing](https://global.oup.com/academic/product/learn-faster-perform-better-9780197680070?lang=en&cc=us)</cite>
 by Molly Gebrian and the mystery novels written by a friend,
 [Maple Quinn](https://www.amazon.com/stores/author/B0GK4R5YMJ).

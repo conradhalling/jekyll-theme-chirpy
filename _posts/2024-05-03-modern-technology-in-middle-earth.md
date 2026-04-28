@@ -3,7 +3,7 @@ title: Modern Technology in Middle-earth
 description: This is a story idea. In Middle-earth, humans would eventually develop modern technologies through an industrial revolution. The result would be Middle-earth with modern amenities.
 date: 2024-05-03 09:22:00 -0500
 author: conrad
-categories: [Miscellaneous]
+categories: [Other]
 media_subpath: /assets/img/2024-05-03/
 ---
 
