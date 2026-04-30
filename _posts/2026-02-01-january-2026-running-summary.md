@@ -11,8 +11,8 @@ the past month. It's dull reading for anyone else.
 
 ## 2026 Goals
 
-A running goal for 2026 is to average ten or more miles per week (520 miles or
-more for the entire year). I would like to race a half marathon. And after
+A running goal for 2026 is to average ten or more miles per week (521.43 miles
+or more for the entire year). I would like to race a half marathon. And after
 ignoring 5-km races for many years because they were too short, I plan to run
 several 5-km races this year.
 
@@ -25,10 +25,10 @@ inches of snow on January 25-26 that prevented me from running for a week, but
 shoveling snow is good aerobic exercise. Running every other day is working well
 for me to prevent joint pain.
 
-| Week | Date  | Mon  | Tue  | Wed  | Thu  | Fri   | Sat   | Sun   | Wk Total | 2026 Total |
-|-----:|-------|-----:|-----:|-----:|-----:|------:|------:|------:|---------:|-----------:|
-|    0 | 12/29 |    — |    — |    — |      |       |       |  2.09 |     2.09 |       2.09 |
-|    1 | 1/5   |      |      |      | 2.07 |       |  3.04 |       |     5.11 |       7.20 |
-|    2 | 1/12  |      |      | 3.04 |      |       |  4.05 |       |     7.09 |      14.29 |
-|    3 | 1/19  | 4.05 |      | 4.07 |      |  5.11 |       |  3.11 |    16.34 |      30.63 |
-|    4 | 1/26  |      |      |      |      |       |       |       |     0.00 |      30.63 |
+| Week | Date  | Mon  | Tue  | Wed  | Thu  | Fri   | Sat   | Sun   | Wk Total |
+|-----:|-------|-----:|-----:|-----:|-----:|------:|------:|------:|---------:|
+|    0 | 12/29 |    — |    — |    — |      |       |       |  2.09 |     2.09 |
+|    1 | 1/5   |      |      |      | 2.07 |       |  3.04 |       |     5.11 |
+|    2 | 1/12  |      |      | 3.04 |      |       |  4.05 |       |     7.09 |
+|    3 | 1/19  | 4.05 |      | 4.07 |      |  5.11 |       |  3.11 |    16.34 |
+|    4 | 1/26  |      |      |      |      |       |       |     — |     0.00 |
