@@ -6,9 +6,9 @@ author: conrad
 categories: [Running]
 ---
 
-In March 2023 I was no longer working as a freelance bioinformatician, and
-I had time to resume consistent running. I ran twelve times this month, with
-a longest run of 8.49 miles.
+In March 2023 I was no longer working my freelance job, giving me time to resume
+consistent running. I ran twelve times this month, with a longest run of 8.49
+miles.
 
 These are my miles for 2023 so far:
 

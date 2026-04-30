@@ -6,7 +6,8 @@ author: conrad
 categories: [Running]
 ---
 
-In 2025, I turned 71 but managed to increase my fitness.
+In 2025, I turned 71 but managed to increase my fitness, running more miles
+than in any year 2021-2024.
 
 I experimented with Zone 2 running, which maintained my fitness and probably
 reduced my chances of injury but didn't make me any faster. Despite my modest

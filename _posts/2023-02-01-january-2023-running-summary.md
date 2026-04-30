@@ -11,7 +11,7 @@ length or longer. I ran the Fred Lebow Half Marathon in Central Park, New York
 City, on Sunday, January 22, 2023. I did not run for the rest of the month.
 
 During this month, I was often walking about seven miles a day on weekdays
-as my commute to a freelance job.
+commuting to and from a freelance job.
 
 | Date  | Mon  | Tue  | Wed   |  Thu  | Fri   | Sat   | Sun   | Wk Total |
 |-------|-----:|-----:|------:|------:|------:|------:|------:|---------:|

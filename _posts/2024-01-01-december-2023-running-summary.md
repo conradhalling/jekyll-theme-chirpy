@@ -14,6 +14,8 @@ I began bicycling in July, and I was able to increase my miles without knee
 pain in August. I completed two short bicycle tours to Cape Cod in September,
 and I continued riding into early December.
 
+I began running again the last week of December 2023.
+
 These were my running miles in December 2023.
 
 | 11/27 |    — |    — |     — |     — |       |       |       |     0.00 |

@@ -1,38 +1,22 @@
 ---
-title: Running Summary for 2022
-description: 2022 was a good year for me for running.
-date: 2023-01-03 14:37:00 -0500
+title: Running Summary November 2022
+description:
+date: 2022-12-01 08:51:00 -0500
 author: conrad
 categories: [Running]
 ---
 
-After I retired on February 28, 2022, I had more time for running. I had a good
-year with hardly any injuries.
+After 33 days of no running, I started over again on November 9, running four
+days that week. In mid-month, I began walking more than seven miles per day to
+and from a freelance job in Boston near Fenway Park. I raced the Gobble Gobble
+Gobble 4-mile Run in Somerville on Thanksgiving Day morning, and I did a short
+run the following Saturday.
 
-I ran 459.33 miles in 2022. My longest run was 13.60 miles around Oswego Lake
-in Lake Oswego, Oregon, on May 7. My biggest week I ran 26.49 miles (August
-8-14).
-
-I finished the following races:
-
--   Brooklyn Half Marathon on May 21
--   REI Co-op 5k in Cambridge, Massachusetts, on June 6
--   Annapolis 10-Mile Run on August 28
--   Portland Half Marathon on October 2
--   Gobble Gobble Gobble (4 miles) in Somerville, Massachusetts, on November 24
+These were my miles since March 1, 2022:
 
 | Date  | Mon   | Tue  | Wed   |  Thu  | Fri   | Sat   | Sun   | Wk Total |
 |-------|------:|-----:|------:|------:|------:|------:|------:|---------:|
-| 12/27 |     — |    — |     — |     — |     — |  2.03 |       |     2.03 |
-| 1/3   |  2.32 |      |  2.53 |       |       |       |       |     4.85 |
-| 1/10  |       |      |       |       |       |       |       |     0.00 |
-| 1/17  |       |      |       |       |       |       |       |     0.00 |
-| 1/24  |       |      |       |       |       |       |       |     0.00 |
-| 1/31  |       |      |       |       |       |       |       |     0.00 |
-| 2/7   |       |      |       |       |       |       |       |     0.00 |
-| 2/14  |       |      |       |       |       |       |       |     0.00 |
-| 2/21  |       |      |       |       |       |       |       |     0.00 |
-| 2/28  |       | 0.28 |  0.53 |  0.79 |  1.03 |  1.28 |       |     3.91 |
+| 2/28  |     — | 0.28 |  0.53 |  0.79 |  1.03 |  1.28 |       |     3.91 |
 | 3/7   |  1.53 | 1.81 |  2.05 |       |  2.54 |  3.02 |  2.26 |    13.61 |
 | 3/14  |       |      |  3.30 |  3.58 |       |  4.05 |  4.02 |    14.95 |
 | 3/21  |       | 4.30 |  4.09 |  5.15 |       |       |  6.08 |    19.62 |
@@ -71,8 +55,4 @@ I finished the following races:
 | 11/7  |       |      |  1.18 |  2.02 |  2.68 |       |  2.03 |     7.91 |
 | 11/14 |       |      |       |       |       |       |       |     0.00 |
 | 11/21 |       |      |       |  4.03 |       |       |  2.08 |     6.11 |
-| 11/28 |       |      |       |       |       |  4.01 |       |     4.01 |
-| 12/5  |  4.42 |      |       |       |       |       | 11.05 |    15.47 |
-| 12/12 |       |      |       |       |       |       |       |     0.00 |
-| 12/19 |       |      |       |       |       |       |  7.56 |     7.56 |
-| 12/26 |       |      |       |       |       |       |     — |     0.00 |
+| 11/28 |       |      |       |     — |     — |     — |     — |     0.00 |
