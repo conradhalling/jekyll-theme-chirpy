@@ -16,7 +16,7 @@ run/walk method of running five minutes and walking one minute. I am optimistic
 that I can use the run/walk method to increase my long runs to half-marathon
 distance this spring and summer.
 
-I bought two new pairs of running shoes in the middle of the month. I am
+I bought two new pairs of running shoes in the middle of the month. I am now
 rotating Saucony Kinvara Pros (old), Asics Gel-Cumulus 27s (new), and Saucony
 Kinvara 16s (new). I buy running shoes from
 [Marathon Sports](https://www.marathonsports.com)
@@ -28,7 +28,7 @@ directly from
 I am slowly approaching my goal of averaging ten miles per week. I did not
 run any races this month.
 
-There are my miles since the beginning of the 2026:
+These are my miles since the beginning of the 2026:
 
 | Week | Date  | Mon  | Tue  | Wed  | Thu  | Fri   | Sat   | Sun   | Wk Total |
 |-----:|-------|-----:|-----:|-----:|-----:|------:|------:|------:|---------:|
