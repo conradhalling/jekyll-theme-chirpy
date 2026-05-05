@@ -1,6 +1,6 @@
 ---
 title: "Never Too Late"
-description: "These are my notes about the book “Never Too Late” by John Holt"
+description: "These are my notes about the book “Never Too Late” by John Holt."
 date: 2026-05-03 09:23:00 -0400
 author: conrad
 categories: [Cello]
