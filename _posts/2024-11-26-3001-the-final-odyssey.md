@@ -1,6 +1,6 @@
 ---
 title: "3001: The Final Odyssey"
-description: This is a short review of “3001: The Final Odyssey” by Arthur C. Clarke.
+description: "This is a short review of “3001: The Final Odyssey” by Arthur C. Clarke."
 date: 2024-11-26 12:06:00 -0500
 author: conrad
 categories: [Books]
