@@ -55,19 +55,48 @@ they frequently had to analyze carefully (no coach) where they were going
 astray. “Finally, after many tries, we get it right. We stop and applaud each
 other.”
 
-Holt devotes the succeeding chapters to his life and memories about music. The
-early chapters are mostly about how music wasn’t a part of Holt’s life or his
-family’s life; these chapters aren’t very interesting. Holt started learning
-cello when he was 40 (in 1963), put it aside after two years, and resumed
-learning at age 50 (1973). During his first period of learning to play cello,
-Holt taught cello to the son of a friend and in the process learned a lot about
-teaching a difficult student. Holt was an educator by profession, and he wrote
-the best seller
+Holt devotes chapters two through seven to his life and memories about music.
+The second chapter is mostly about how music wasn’t a part of Holt’s life or his
+family’s life. In Chapter 3, Holt writes about experiences singing in the Glee
+Club in his high school years. Chapter 4 describes Holt's minimal experiences
+with music during his college years and during World War II, when he listens to
+music but neither sings nor plays. In Chapter 5, Holt writes about how he
+gradually learned to appreciate orchestral music and how he bought a guitar and
+learned some simple music. Chapter 6 describes how Holt figured out key
+signatures on his own, and how through experimentation he came to believe that
+most people can learn to sing in tune. In Chapter 7, Holt writes about taking up
+the flute but finding many impediments, both internal and external, to becoming
+a good player. These chapters weren’t very interesting to me.
+
+At last, in Chapter 8, Holt describes beginning to learn the cello at age 40.
+Holt bought a cello through a connection with a friend, and he found his cello
+teacher the same way. Unlike many music students, Holt anticipated his lessons
+with joy, not dread or anxiety. Although the lessons included exercises from a
+cello method book, Holt's teacher encouraged him to work through some chamber
+music, including movements of Bach's cello suites. And during this time, Holt
+taught cello to the son of a friend and in the process learned a lot about
+teaching a difficult student.
+
+Holt was an educator by profession, and he wrote the best seller
 <cite>[How Children Fail](https://www.johnholtgws.com/shop/p/how-children-fail)</cite>
 (1964). It was after this book was published that Holt became too busy to play
 cello.
 
-But eventually Holt made time to resume playing. In the epilog, he writes about
+I finished my first reading of Never Too Late by John Holt. Chapters Two through
+Seven were not very interesting, but in Chapter Eight Holt writes about taking
+up the cello for the first time at age 40. This is where the book gets
+interesting, although he failed at this effort, too. It is in Chapters Ten and
+Eleven that Holt becomes a real musician on the cello, and these chapters are
+very good.
+
+But eventually Holt made time to resume playing, taking up the cello again at
+age 50 (1973).
+
+*** There are good lessons in the last two chapters about learning and
+teaching.
+***
+
+In the epilog, Holt writes about
 “making a space” for playing cello by giving up other activities. He also
 describes how he was improving as a cellist and a musician, and he communicates
 well the pleasure he got from playing well with his fellow musicians.

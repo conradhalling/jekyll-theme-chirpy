@@ -17,8 +17,8 @@ I learned about this book from reading
 which is summarized as: “One school of training is highly personalized,
 technical and data-driven. The other is the one that wins marathons.”
 
-Crawley, who is a very good runner (66 minutes for a half marathon, 2:20 for a
-marathon) from the United Kingdom, traveled to Ethiopia in 2015 as an
+Crawley, who is a very good runner (66 minutes for a half marathon, 2:20:53 for
+a marathon) from the United Kingdom, traveled to Ethiopia in 2015 as an
 anthropologist to study Ethiopian male runners and how the culture supports
 running. (Cultural norms in Ethiopia prevented him from studying the female
 runners.) Crawley used the results of his research in Ethiopia to earn a Ph.D.
@@ -51,13 +51,12 @@ overtraining and injury through getting caught up in increasing running
 intensity each day. GPS watches were shared among runners in a group and often
 used to slow the group down rather than speed it up.
 
-Many of the
-runners did not trust the watch’s measurements over their inner assessments of a
-run’s intensity. A watch was often left at home for some runs, such as an easy
-meandering run in the forest, where it was not important to measure distance or
-time. The runners were wary of the use of technology, which had the side-effect
-of emphasizing race time over all other measures, potentially leading to
-burnout, injury, and doping.
+Many of the runners did not trust the watch’s measurements over their inner
+assessments of a run’s intensity. A watch was often left at home for some runs,
+such as an easy meandering run in the forest, where it was not important to
+measure distance or time. The runners were wary of the use of technology, which
+had the side-effect of emphasizing race time over all other measures,
+potentially leading to burnout, injury, and doping.
 
 Crawley tells an amusing story of the top Ethiopian runner, Lelisa Desisa, being
 loaned a GPS watch by Nike. The Nike scientists were amazed and disconcerted by
@@ -66,9 +65,11 @@ runner that the watch was being passed around to multiple runners in the
 training group, something a Nike researcher would never consider.
 
 The book contains chapters about the Ethiopians' approaches to training and
-their styles of running. Later chapters describe races. Winning a race that pays
-$100,000 can set up an Ethiopian for life financially, but only a
-very few achieve this.
+their styles of running. Later chapters describe races. Winning a major race
+that pays $100,000 can set up an Ethiopian for life financially, but only a very
+few achieve this. After returning to his home in Scotland to write his
+dissertation, Crawley kept in touch with many of his Ethiopian runner friends.
+Crawley continued to train, and he completed a marathon in 2:20:53.
 
 The narrator, Raj Ghatak, does a good job, but he mispronounces the brand
 names _Adidas_ and _Nike_.
@@ -79,4 +80,9 @@ Insightful reviews of the book were written by:
 -   [Brian Rock](https://runningwithrock.com/reflections-out-of-thin-air/)
 -   [Jonathan Gault](https://www.letsrun.com/news/2021/01/out-of-thin-air-book-review-a-deep-look-into-ethiopian-running-culture/)
 
-Rating: Four stars (very good)
+Two more books of this type are:
+
+-   [To the Limit](https://www.bloomsbury.com/us/to-the-limit-9781399403429/) by Michael Crawley
+-   [Running with the Kenyans](https://www.penguinrandomhouse.com/books/212082/running-with-the-kenyans-by-adharanand-finn/) by Adharanand Finn
+
+Rating: Three stars (good)
