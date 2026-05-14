@@ -1,6 +1,6 @@
 ---
 title: "A Wizard of Earthsea"
-description: "I listened to the audiobook of Ursula K. Le Guin’s beloved novel “A Wizard of Earthsea.” These are my comments."
+description: I listened to the audiobook of Ursula K. Le Guin’s beloved novel “A Wizard of Earthsea.” These are my comments.
 date: 2025-04-29 19:10:00 -0400
 author: conrad
 categories: [Books]

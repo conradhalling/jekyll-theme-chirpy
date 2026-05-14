@@ -1,6 +1,6 @@
 ---
 title: Accomplishments in 2024
-description: "I reviewed my journal, and these were my accomplishments in 2024."
+description: I reviewed my journal, and these were my accomplishments in 2024.
 date: 2025-01-04 16:57:00 -0500
 author: conrad
 categories: [Other]

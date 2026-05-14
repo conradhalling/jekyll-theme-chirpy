@@ -1,5 +1,6 @@
 ---
 title: Introduction to Astrochemistry
+description: I looked for additional resources that will supplement a course in astrochemistry.
 author: conrad
 date: 2024-05-21 15:27:00 -0500
 categories: [Science]

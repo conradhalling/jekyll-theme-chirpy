@@ -1,6 +1,6 @@
 ---
 title: "Flying with a Cello"
-description: "It was easy but expensive to bring a cello from Portland to Boston by air."
+description: It was easy but expensive to bring a cello from Portland to Boston by air.
 date: 2024-06-09 07:23:00 -0400
 author: conrad
 categories: [Cello]

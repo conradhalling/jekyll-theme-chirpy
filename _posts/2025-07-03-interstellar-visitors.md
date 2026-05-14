@@ -1,5 +1,6 @@
 ---
 title: Interstellar Visitors
+description: A new interstellar visitor has entered our solar system.
 author: conrad
 date: 2025-07-03 07:45:00 -0400
 categories: [Science]

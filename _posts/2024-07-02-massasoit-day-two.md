@@ -1,6 +1,6 @@
 ---
 title: "Bicycle Tour: Massasoit State Park, Day Two"
-description:
+description: On my rest day, I did a lot of walking at Massasoit State Park.
 date: 2024-07-02 19:14:00 -0400
 author: conrad
 categories: [Bicycling]

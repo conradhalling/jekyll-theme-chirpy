@@ -1,6 +1,6 @@
 ---
 title: "Bicycle Tour: Massasoit State Park, Day Three"
-description:
+description: I rode 45 very pleasant miles from Massasoit State Park to my home.
 date: 2024-07-03 21:00:00 -0400
 author: conrad
 categories: [Bicycling]

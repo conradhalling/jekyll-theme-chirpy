@@ -1,6 +1,6 @@
 ---
 title: Running Summary for 2021
-description:
+description: "I did not run much in 2021, but I finished three races."
 date: 2022-01-04 06:45:00 -0500
 author: conrad
 categories: [Running]

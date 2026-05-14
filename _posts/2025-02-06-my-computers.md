@@ -1,5 +1,6 @@
 ---
 title: My Computers
+description: I review the computers I have owned in my lifetime.
 author: conrad
 date: 2025-02-06 12:13:00 -0500
 categories: [Other]

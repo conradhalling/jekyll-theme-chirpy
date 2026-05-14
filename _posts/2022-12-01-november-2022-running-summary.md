@@ -1,6 +1,6 @@
 ---
 title: Running Summary November 2022
-description:
+description: I started running again and ran a four-mile race.
 date: 2022-12-01 08:51:00 -0500
 author: conrad
 categories: [Running]
@@ -9,8 +9,7 @@ categories: [Running]
 After 33 days of no running, I started over again on November 9, running four
 days that week. In mid-month, I began walking more than seven miles per day to
 and from a freelance job in Boston near Fenway Park. I raced the Gobble Gobble
-Gobble 4-mile Run in Somerville on Thanksgiving Day morning, and I did a short
-run the following Saturday.
+Gobble 4-mile Run in Somerville on Thanksgiving Day morning.
 
 These were my miles since March 1, 2022:
 
