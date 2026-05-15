@@ -1,6 +1,6 @@
 ---
 title: Hill Repeats
-description: I am going to try running hill repeats to build strength and speed. I did my first session this week.
+description: I am trying running hill repeats to build strength and speed. I did my first session this week.
 date: 2026-05-15 07:05:00 -0400
 author: conrad
 categories: [Running]

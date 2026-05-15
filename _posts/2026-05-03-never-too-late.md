@@ -77,28 +77,20 @@ music, including movements of Bach's cello suites. And during this time, Holt
 taught cello to the son of a friend and in the process learned a lot about
 teaching a difficult student.
 
-Holt was an educator by profession, and he wrote the best seller
-<cite>[How Children Fail](https://www.johnholtgws.com/shop/p/how-children-fail)</cite>
+Holt was an educator by profession, and he wrote the best seller <cite>[How
+Children Fail](https://www.johnholtgws.com/shop/p/how-children-fail)</cite>
 (1964). It was after this book was published that Holt became too busy to play
-cello.
+cello while he pursued his profession. Holt describes this part of his life in
+Chapter 9.
 
-I finished my first reading of Never Too Late by John Holt. Chapters Two through
-Seven were not very interesting, but in Chapter Eight Holt writes about taking
-up the cello for the first time at age 40. This is where the book gets
-interesting, although he failed at this effort, too. It is in Chapters Ten and
-Eleven that Holt becomes a real musician on the cello, and these chapters are
-very good.
+It is in Chapters 10 and 11 that Holt describes becoming a real musician on the
+cello, and these chapters are very good and inspiring. Holt found a way to make
+time to resume playing, taking up the cello again at age 50 (1973). HOlt
+describes good lessons in these last two chapters about learning and teaching.
 
-But eventually Holt made time to resume playing, taking up the cello again at
-age 50 (1973).
-
-*** There are good lessons in the last two chapters about learning and
-teaching.
-***
-
-In the epilog, Holt writes about
-“making a space” for playing cello by giving up other activities. He also
-describes how he was improving as a cellist and a musician, and he communicates
-well the pleasure he got from playing well with his fellow musicians.
+In the epilog, Holt writes about “making a space” for playing cello by giving up
+other activities. He also describes how he was improving as a cellist and a
+musician, and he communicates well the pleasure he got from playing well with
+his fellow musicians.
 
 Rating: Four stars (very good)
