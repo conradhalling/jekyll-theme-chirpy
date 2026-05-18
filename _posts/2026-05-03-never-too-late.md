@@ -83,14 +83,22 @@ Children Fail](https://www.johnholtgws.com/shop/p/how-children-fail)</cite>
 cello while he pursued his profession. Holt describes this part of his life in
 Chapter 9.
 
-It is in Chapters 10 and 11 that Holt describes becoming a real musician on the
-cello, and these chapters are very good and inspiring. Holt found a way to make
-time to resume playing, taking up the cello again at age 50 (1973). HOlt
-describes good lessons in these last two chapters about learning and teaching.
+It is in the last two chapters that Holt describes becoming what he considered to
+be a real musician on the cello, and these chapters are very good and inspiring.
+Holt found a way to make time to resume playing, taking up the cello again at
+age 50 (1973). In Chapter 10, Holt describes good lessons about
+learning and teaching, including failing at times to play at the skill level of
+his fellow musicians, being hard on himself, establishing a successful learning
+process, working with good and poor teachers, and
+learning without lessons.
 
-In the epilog, Holt writes about “making a space” for playing cello by giving up
-other activities. He also describes how he was improving as a cellist and a
-musician, and he communicates well the pleasure he got from playing well with
-his fellow musicians.
+In Chapter 11, Hold describes the pleasure he got from playing at summer camps
+at the
+[Apple Hill Center for Chamber Music](https://applehill.org/about-the-summer-chamber-music-workshop/).
+
+In his epilog, Holt writes about "clearing a space" for playing cello by
+sacrificing other important activities. He also describes how he was improving
+as a cellist and a musician, and he communicates well the pleasure he got from
+playing well with his fellow musicians.
 
 Rating: Four stars (very good)
