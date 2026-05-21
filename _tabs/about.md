@@ -57,7 +57,7 @@ solve hard research problems.
 
 Given my domain expertise in molecular biology—having worked at the laboratory
 bench for ten years during my graduate school and post-doctoral research—I
-applied this experience and knowledge towards writing computational tools for
+applied my experience and knowledge towards writing computational tools for
 molecular biologists.
 
 I used many programming languages over the years, including (in approximate
