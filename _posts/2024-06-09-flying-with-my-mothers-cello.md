@@ -45,6 +45,14 @@ the floor, and he checked that it wouldn’t move around during the flight.
 ![The cello strapped into its first class set](cello_on_plane.png){:
 width="480" height="640" }_The cello strapped into its first class seat_
 
+I slept about two and half hours during the flight. I woke up at 6:00 a.m.
+Eastern Daylight Time, surprisingly alert, possibly because the sun was shining
+through the plane's windows. The flight arrived on time at 7:50 a.m. I wanted to
+take the airport shuttle bus to the MBTA Airport Station, but they were all very
+full, so I ended up rolling the cello a mile on the airport's sidewalks. I took
+the Blue Line and Green Line to Gilman Square and carefully rolled the cello
+home from there.
+
 I don’t know if I could have booked a regular seat since I wanted the
 convenience of flying first class. (I don't normally fly first class, but I
 wanted to avoid potential obstacles.) I don’t think there is enough space for a
