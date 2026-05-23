@@ -53,8 +53,9 @@ My assignments for my next lesson in two weeks include:
 -   memorizing the notes of the bass clef using workbook exercises
 -   practicing the following exercises from [Blue Book of Tunes - Cello](https://oneworldstrings.com/product/blue-book-of-tunes-a-first-book-for-cello-greene/):
 
-    -   Gee Dee Gee (p. 3)
-    -   Rockin' the Boat (p. 4)
-    -   Ski Jumps (p. 5)
-    -   Bow Hand (p. 6)
-    -   Moon Landings (p. 7)
+    -   "The List" (p. 2)
+    -   "Gee Dee Gee" (p. 3)
+    -   "Rockin' the Boat" (p. 4)
+    -   "Ski Jumps" (p. 5)
+    -   "Bow Hand" (p. 6)
+    -   "Moon Landings" (p. 7)
