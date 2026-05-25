@@ -32,13 +32,13 @@ What is a cello sherpa? The website explains:
 > conditioned and skilled climbers cannot summit. It takes the experience,
 > knowledge, and wisdom of a sherpa to achieve your goals.
 
-The podcast began with an interview of
+The podcast episodes began with an interview of
 [Steven Isserlis](https://stevenisserlis.com/),
 who has had an unusual career in that he did not win any cello competitions but
 built his career as a soloist from scratch through sheer competence and
 professionalism.
 
-In subsequent podcasts, Dallow interviews cello professors and orchestral
+In subsequent episodes, Dallow has interviewed cello professors and orchestral
 musicians, eliciting their experiences and advice for how to pursue a
 professional career. This includes how to prepare for an audition for a music
 school or orchestra, tips on preparing a video audition, how to choose a
@@ -47,8 +47,9 @@ what repertoire to study, what it's like to play in different orchestras,
 etc.
 
 These are not things I need to worry about since I'm far too old to pursue this
-path in music. But the Boston area is full of aspiring musicians, and I am
-beginning to meet them.
+path in music. But the Boston area is full of aspiring musicians, some of whom
+I am beginning to meet, and this gives me insight into what they are
+experiencing.
 
 I had to make similar choices when I became a scientist: what university
 departments to apply to, which investigator's lab to work in during graduate
