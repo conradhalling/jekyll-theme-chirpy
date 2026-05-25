@@ -7,10 +7,13 @@ order: 1
 ## About This Blog
 
 I write on this blog about things I find interesting. It's fine if they're not
-interesting to you. This blog is mostly a means for clearing my head of ideas,
-organizing my thoughts, and practicing my writing skills. I am slowly converting
-items from my journal into back-dated blog posts. I do not use AI for writing,
-but I do have a single post so far that includes an AI-generated image.
+interesting to you. This blog is a means for clearing my head of ideas,
+organizing my thoughts, recording things I want to remember, and practicing my
+writing skills. I am slowly converting items from my journal into back-dated
+blog posts, and I revise frequently.
+
+I do not use AI for writing, but I do have a single post so far that includes an
+AI-generated image.
 
 This blog is created using the Jekyll static site generator. The blog site
 uses no cookies or other tracking mechanisms, and I have not provided a
