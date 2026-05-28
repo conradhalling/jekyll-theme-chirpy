@@ -38,7 +38,7 @@ After a short intermission, Ms. Ospina played the last piece with Geoffrey
 Edwards, whom she introduced as her fiancé. The piece was Sonata No. 6 from
 <cite>[VI Duetti a due Violoncelli](https://imslp.org/wiki/6_Cello_Duets%2C_Op.2_(Klein%2C_Jacob))</cite>
 by Jacomo Klein il Giovano
-([Jacob Klein the Younger](https://de.wikipedia.org/wiki/Jacob_Klein_(Komponist)))
+([the Dutch composer Jacob Klein the Younger](https://de.wikipedia.org/wiki/Jacob_Klein_(Komponist)))
 (1688-1748). Mr. Edwards is also an accomplished cellist, and this duet was much
 lighter and more cheerful than the first two pieces. Klein's duets are rarely
 played, and I could not find a recording of them.
