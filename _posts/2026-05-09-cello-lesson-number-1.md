@@ -1,14 +1,15 @@
 ---
 title: "Cello Lesson Number 1"
-description: I was introduced to the basics of holding the bow and playing open strings.
+description: I learned the basics of holding the bow and playing open strings.
 date: 2026-05-09 09:38:00 -0400
 author: conrad
 categories: [Cello]
 ---
 
-Yesterday I had my first cello lesson at
-[New School of Music](https://www.newschoolofmusic.org) with
-[Ana Ospina](https://www.newschoolofmusic.org/faculty/ospina).
+Yesterday I had my first cello lesson with
+[Ana Ospina](https://www.newschoolofmusic.org/faculty/ospina)
+at
+[New School of Music](https://www.newschoolofmusic.org).
 
 I attached the backpack accessory to my Bam cello case and put my iPad in the
 backpack. The cello case would not stand with the backpack attached to it

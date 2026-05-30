@@ -1,14 +1,15 @@
 ---
 title: "Cello Lesson Number 2"
-description: I was introduced to bowing notes of various lengths. My instructor put tapes on my fingerboard and introduced me to first position.
+description: I was learned how to bow notes of various lengths. My instructor put tapes on my fingerboard and introduced me to first position.
 date: 2026-05-23 07:35:00 -0400
 author: conrad
 categories: [Cello]
 ---
 
-Yesterday I had my second cello lesson at
-[New School of Music](https://www.newschoolofmusic.org) with
-[Ana Ospina](https://www.newschoolofmusic.org/faculty/ospina).
+Yesterday I had my second cello lesson with
+[Ana Ospina](https://www.newschoolofmusic.org/faculty/ospina)
+at
+[New School of Music](https://www.newschoolofmusic.org).
 
 ## Lesson Notes
 
@@ -31,7 +32,7 @@ We reviewed what I've been practicing for two weeks from
 [Blue Book of Tunes - Cello](https://oneworldstrings.com/product/blue-book-of-tunes-a-first-book-for-cello-greene/):
 
 -   Gee Dee Gee (p. 3)
--   Rockin' the Boat (p. 4)
+-   Rockin’ the Boat (p. 4)
 -   Ski Jumps (p. 5)
 -   Bow Hand (p. 6)
 -   Moon Landings (p. 7)
@@ -57,7 +58,7 @@ My assignments for the next week include:
 -   continue memorizing the notes of the bass clef
 -   work on my bow hold, including pronating and relaxing
 -   practice bowing whole notes, half notes, quarter notes, eighth notes, triplets, and sixteenth notes
--   work on "Rock 'n Roll" from [Blue Book of Tunes - Cello](https://oneworldstrings.com/product/blue-book-of-tunes-a-first-book-for-cello-greene/)
+-   work on "Rock ’n Roll" from [Blue Book of Tunes - Cello](https://oneworldstrings.com/product/blue-book-of-tunes-a-first-book-for-cello-greene/)
 -   work on playing notes in the first position
 
 ## Upcoming Recitals
@@ -71,7 +72,7 @@ The
 for Ana's students is scheduled at New School of Music on
 Wednesday, June 3, at 7:00 p.m. I plan to go to see what it's like.
 
-## Workbooks
+## Books
 
 I am using copied pages from three books so far. Today I ordered the books and
 some extra books that I anticipate I'll want.
