@@ -57,4 +57,4 @@ the novel.
 Unfortunately, the audiobook’s sound quality is poor, with muffled narration and
 low volume.
 
-Rating: Four stars, very good.
+Rating: Four of five stars (very good).

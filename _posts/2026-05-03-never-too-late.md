@@ -101,4 +101,4 @@ sacrificing other important activities. He also describes how he was improving
 as a cellist and a musician, and he communicates well the pleasure he got from
 playing well with his fellow musicians.
 
-Rating: Four stars (very good)
+Rating: Three of five stars (good)

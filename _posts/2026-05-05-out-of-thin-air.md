@@ -85,4 +85,4 @@ Two more books of this type are:
 -   [To the Limit](https://www.bloomsbury.com/us/to-the-limit-9781399403429/) by Michael Crawley
 -   [Running with the Kenyans](https://www.penguinrandomhouse.com/books/212082/running-with-the-kenyans-by-adharanand-finn/) by Adharanand Finn
 
-Rating: Three stars (good)
+Rating: Three of five stars (good)
