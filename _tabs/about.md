@@ -15,9 +15,9 @@ blog posts, and I revise frequently.
 I do not use AI for writing, but I do have a single post so far that includes an
 AI-generated image.
 
-This blog is created using the Jekyll static site generator. The blog site
-uses no cookies or other tracking mechanisms, and I have not provided a
-mechanism for comments.
+I build this blog from Markdown files using the Jekyll static site generator.
+Since the blog is static, the blog uses no cookies or other tracking mechanisms,
+and I have not provided a mechanism for comments.
 
 Feel free to contact me by email by clicking on the envelope icon at the bottom
 left of this page.
