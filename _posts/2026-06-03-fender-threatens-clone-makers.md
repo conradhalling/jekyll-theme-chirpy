@@ -39,6 +39,7 @@ than to design their own models. I believe that the motivation to copy is
 because that's where the money
 is: Customers don't want innovation, and innovative guitars don't sell well.
 
-I don't own a Fender guitar, but I have considered buying a Fender American
-Professional II Stratocaster someday. Fender's actions won't change whether
+I don't own a Fender guitar, but I have considered buying a
+[Fender American Professional II Stratocaster](https://www.fender.com/products/american-professional-ii-stratocaster)
+someday. Fender's actions won't change whether
 I decide to buy or not, because I don't really care.
