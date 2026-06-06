@@ -86,10 +86,17 @@ September 6, 2024<br>
 $24 from Apple Books.<br>
 $35 for the paperback from Porter Square Books.
 
+## Playing (Less) Hurt
+<cite>[Playing (Less) Hurt: An Injury Prevention Guide for Musicians](https://janethorvath.com/books/playing-less-hurt/)</cite><br>
+by Janet Horvath<br>
+April 2010<br>
+234 pp.
+$33 from Apple Books.
+
 ## PracticeMind
 <cite>[PracticeMind: The Complete Practice Model](https://ovationpressbooks.com/products/practicemind)</cite><br>
 By Hans Jørgen Jensen and Oleksander Mycyk<br>
 May 2022<br>
 218 pp.<br>
 $65<br>
-Available from Apple Books for $40.<br>
+$40 from Apple Books.<br>
