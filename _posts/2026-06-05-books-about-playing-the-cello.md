@@ -50,6 +50,19 @@ $10 from Apple Books.<br>
 $20 for the paperback from Porter Square Books.<br>
 The author started learning cello at age 71.
 
+## CelloMind
+<cite>[CelloMind: Intonation and Technique](https://ovationpressbooks.com/products/cellomind)</cite><br>
+by Hans Jørgen Jensen and Minna Chung<br>
+November 2017<br>
+284 pp.<br>
+$75<br>
+Available from Apple Books as two volumes for $40 and $35, but a user commented
+that the formatting was poor.<br>
+"CelloMind is a two-part, pedagogical method book that has been written to help
+musicians understand HOW intonation works and, more importantly, WHY it works
+the way it does. Purchase of the book includes exclusive access to an online
+resource portal with supplemental videos and audio."
+
 ## Contemporary Cello Études
 <cite>[Contemporary Cello Études](https://www.cellostrap.com/shop/p/contemporary-cello-etudes)</cite><br>
 by Mike Block<br>
@@ -72,3 +85,11 @@ September 6, 2024<br>
 240 pp.<br>
 $24 from Apple Books.<br>
 $35 for the paperback from Porter Square Books.
+
+## PracticeMind
+<cite>[PracticeMind: The Complete Practice Model](https://ovationpressbooks.com/products/practicemind)</cite><br>
+By Hans Jørgen Jensen and Oleksander Mycyk<br>
+May 2022<br>
+218 pp.<br>
+$65<br>
+Available from Apple Books for $40.<br>
