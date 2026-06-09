@@ -12,9 +12,6 @@ played in a cello recital at
 [New School of Music](https://www.newschoolofmusic.org/)
 in Cambridge, Massachusetts.
 
-As Ana's newest student, I wasn't ready to play in this recital, but I
-attended to meet her other students and learn what a student recital is like.
-
 This was the program (30 minutes):
 
 | Piece | Performers |
@@ -31,4 +28,6 @@ This was the program (30 minutes):
 [Simple Gifts](https://musescore.com/user/109822777/scores/28511365) is a
 traditional Shaker hymn arranged for cello.
 
+As Ana's newest student, I wasn't ready to play in this recital, but I
+attended to meet her other students and learn what a student recital is like.
 I look forward to playing in the next recital.
