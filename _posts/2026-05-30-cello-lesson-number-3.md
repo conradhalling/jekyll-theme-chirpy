@@ -37,7 +37,7 @@ I'll use for each note for the exercises naming the notes.
 Ana is moving me rapidly through
 [Blue Book of Tunes - Cello](https://oneworldstrings.com/product/blue-book-of-tunes-a-first-book-for-cello-greene/).
 We played together, where I began playing notes in the first position. Sometimes
-my intonation was good, often horrible. We work on the following very short
+my intonation was good, often horrible. We worked on the following very short
 tunes:
 
 -   Rock ’n Roll (pp. 8-9)
