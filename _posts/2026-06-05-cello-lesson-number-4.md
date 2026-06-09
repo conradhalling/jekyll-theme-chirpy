@@ -55,7 +55,11 @@ Begin learning the following tunes in
 
 Practice "Jazz for the Open Strings."
 
-## Additional Note
+## Additional Notes
 
 I need to squelch my self-critical voice during my lessons. Ana says I'm
 progressing very quickly.
+
+My new friend Peter, whose lesson is immediately adjacent to mine, would like
+to get together to play music (once I can actually play notes other
+than open string notes). I'm looking forward to this.
