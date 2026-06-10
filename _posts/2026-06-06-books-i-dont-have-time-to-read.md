@@ -10,6 +10,8 @@ When you're buying books, you're optimistically thinking you're buying the time
 to read them.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—Arthur Schopenhauer
 
+---
+
 I subscribe to several publications that review or recommend books including
 <cite>The New York Review of Books</cite>, <cite>The New Yorker</cite>,
 <cite>The Atlantic</cite>, <cite>The Guardian</cite>, and <cite>Science</cite>.
@@ -65,6 +67,7 @@ books anyway.
 | <cite>Land Between the Rivers: A 5,000 Year History of Iraq</cite> | Bartle Bull |
 | <cite>Lectures on Astrophysics</cite> | Steven Weinberg |
 | <cite>A Life in Physics</cite> | Steven Weinberg |
+| <cite>Light Perpetual</cite> | Francis Spufford |
 | <cite>Mapping the Heavens: The Radical Scientific Ideas that Reveal the Cosmos</cite> | Priyamvada Natarajan |
 | <cite>Martyr!</cite> | Kaveh Akbar |
 | <cite>Mathematica: A Secret World of Intuition and Curiosity</cite> | David Bessis |
