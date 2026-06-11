@@ -56,7 +56,7 @@ January 12, 2022<br>
 This is book is highly recommended by users in the PHP subreddits on
 [reddit.com](https://reddit.com/)
 as being a modern presentation of PHP rather than a revision of an old book with
-outdated code. I decided to buy this book.
+outdated code. I plan to order this book.
 
 ## PHP 8 Basics
 
