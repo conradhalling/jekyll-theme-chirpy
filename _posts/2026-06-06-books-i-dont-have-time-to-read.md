@@ -86,4 +86,6 @@ books anyway.
 | <cite>Starbound: Interstellar Travel and the Limits of the Possible</cite> | Ed Regis |
 | <cite>Storybook Ending</cite> | Moira McDonald |
 | <cite>A Student's Guide to Lagrangians and Hamiltonians</cite> | Patrick Hamill |
+| <cite>The Sympathizer</cite> | Viet Thanh Nguyen |
 | <cite>Ten Moments That Shaped Tokyo</cite> | Eiko Maruko Siniawer |
+| <cite>Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy</cite> | Cathy O’Neil |
