@@ -33,8 +33,8 @@ She had me work through exercises 1-5 on the D string.
 4. The Placing of the Third Finger
 5. The Placing of the Fourth Finger
 
-Ana taught me how to play a harmonic by placing my finger halfway up a string,
-just touching the string without pressing it.
+Ana taught me how to play a harmonic by bowing while placing my finger halfway
+up a string, just touching the string without pressing it.
 
 I need to remember many things simultaneously while I play:
 
