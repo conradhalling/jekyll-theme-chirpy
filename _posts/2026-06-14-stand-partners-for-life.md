@@ -1,6 +1,6 @@
 ---
 title: "Stand Partners for Life"
-description: I recommend the podcast “Stand Partners for Life” by Nathan Cole and Akiko Tarumoto, violinists at the Los Angeles Philharmonic.
+description: I recommend the podcast “Stand Partners for Life” by Nathan Cole and Akiko Tarumoto, violinists at the time with the Los Angeles Philharmonic.
 date: 2026-06-14 18:16:00 -0400
 author: conrad
 categories: [Cello]
@@ -37,10 +37,22 @@ as described in articles at
 [violinist.com](https://www.violinist.com/blog/laurie/20245/30001/)
 and the
 [Boston Globe](https://www.bostonglobe.com/2024/05/20/arts/boston-symphony-orchestra-new-concertmaster-nathan-cole/).
+But according to [All Is Yar](https://allisyar.com/2026/06/11/vineta-sareika-will-be-next-la-phil-concertmaster/),
+Nathan was a candidate for Concertmaster at the Los Angeles Philharmonic,
+playing in concerts on June 3–7, 2026. (Vineta Sareika was chosen for this
+position.)
 
-I am unable to find any current information about what Akiko is
-doing since Nathan took the position at the BSO. I hope she returns to playing
-for the public.
+Again according to
+[All Is Yar](https://allisyar.com/2026/06/11/vineta-sareika-will-be-next-la-phil-concertmaster/)
+in the same article published June 11, 2026, Akiko Tarumoto "played guest
+concertmaster [with the LA Phil] on multiple weeks in a non-trial/non-audition capacity under guest
+conductors over recent months." I am unable to find any current information
+about what Akiko is doing professionally in Boston since Nathan took the
+position at the BSO.
+
+Given the
+[recent turmoil at the Boston Symphony Orchestra](https://classical-scene.com/2026/05/19/the-turmoil/),
+I wonder what Nathan's and Akiko's plans are.
 
 I am enjoying this view of the lives of professional orchestral musicians,
 and I highly recommend this podcast.
