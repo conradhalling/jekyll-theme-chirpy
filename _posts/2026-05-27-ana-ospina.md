@@ -1,5 +1,5 @@
 ---
-title: Ana Ospina’s Recital at New School of Music
+title: Ana Ospina’s Cello Recital at New School of Music
 description: Ana Ospina presented a cello recital at New School of Music.
 date: 2026-05-27 06:33:00 -0400
 author: conrad

@@ -9,7 +9,7 @@ categories: [Computing]
 During my career as a bioinformatics scientist, I devoted some nights and
 weekends to learning statistics, a smattering of machine learning, and what I
 could about data analysis methods and approaches. I had already retired by the
-time Allen B. Downey published
+time [Allen B. Downey](https://www.allendowney.com/) published
 <cite>[Probably Overthinking It: How to Use Data to Answer Questions, Avoid Statistical Traps, and Make Better Decisions](https://greenteapress.com/wp/probably-overthinking-it/)</cite>,
 but I bought and read it to reinforce what I had learned during my working
 years.
