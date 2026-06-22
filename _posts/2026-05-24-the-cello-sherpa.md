@@ -1,13 +1,13 @@
 ---
 title: "The Cello Sherpa Podcast"
-description: The Cello Sherpa Podcast explores all aspects of the climb to the summit from intermediate musician to the professional stage.
+description: The Cello Sherpa Podcast “explores all aspects of the climb to the summit from intermediate musician to the professional stage.”
 date: 2026-05-24 12:17:00 -0400
 author: conrad
 categories: [Cello]
 ---
 
-Now that I'm finally taking cello lessons, I looked for podcasts about playing
-the cello or string instruments in general.
+Now that I'm finally taking cello lessons, I have looked for podcasts about
+playing the cello or string instruments in general.
 
 [The Cello Sherpa Podcast](https://www.thecellosherpa.com/) is my favorite
 podcast so far.

@@ -1,6 +1,6 @@
 ---
 title: "Bach: The Cello Suites"
-description: "These are my notes about the book “Bach: The Cello Suites” by Edward Klorman"
+description: "These are my notes about the book “Bach: The Cello Suites” by Edward Klorman."
 date: 2026-06-19 08:34:00 -0400
 author: conrad
 categories: [Cello]

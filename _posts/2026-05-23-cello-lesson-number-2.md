@@ -1,6 +1,6 @@
 ---
 title: "Cello Lesson Number 2"
-description: I was learned how to bow notes of various lengths. My instructor put tapes on my fingerboard and introduced me to first position.
+description: I learned how to bow notes of various lengths. My instructor put tapes on my fingerboard and introduced me to first position.
 date: 2026-05-23 07:35:00 -0400
 author: conrad
 categories: [Cello]
