@@ -8,14 +8,6 @@ categories: [Cello]
 
 This is a list of books about playing the cello that I want to read.
 
-## Bach: The Cello Suites
-<cite>[Bach: The Cello Suites](https://www.cambridge.org/core/books/bach-the-cello-suites/254D77B1F3A50AB027EA535E47D11976)</cite><br>
-by Edward Klorman<br>
-September 11, 2025<br>
-259 pp.<br>
-$20 for the paperback from Porter Square Books.<br>
-I have ordered this book.
-
 ## The Cambridge Companion to the Cello
 <cite>[The Cambridge Companion to the Cello](https://www.cambridge.org/core/books/cambridge-companion-to-the-cello/8C1492C022422732B6859906BFDF2A5C)</cite><br>
 edited by Robin Stowell<br>
