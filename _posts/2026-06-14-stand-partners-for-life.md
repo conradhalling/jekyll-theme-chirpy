@@ -8,8 +8,8 @@ categories: [Cello]
 
 The [Stand Partners for Life](https://natesviolin.com/podcasts/) podcast
 was produced by [Nathan Cole](https://natesviolin.com/) and Akiko Tarumoto,
-violinists at the time with the [Los Angeles Philharmonic](laphil.com). Forty-six
-episodes are available from December 21, 2017 to December 3, 2022.
+violinists at the time with the [Los Angeles Philharmonic](laphil.com).
+Forty-six episodes are available from December 21, 2017 to December 3, 2022.
 
 In their podcast episodes, Nathan and Akiko talked about performing auditions,
 the good and bad traits of young conductors, how an orchestral musician's skills
