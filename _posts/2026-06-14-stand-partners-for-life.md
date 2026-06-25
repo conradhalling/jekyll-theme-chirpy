@@ -6,6 +6,8 @@ author: conrad
 categories: [Cello]
 ---
 
+## The Stand Partners for Life Podcast
+
 The [Stand Partners for Life](https://natesviolin.com/podcasts/) podcast
 was produced by [Nathan Cole](https://natesviolin.com/) and Akiko Tarumoto,
 violinists at the time with the [Los Angeles Philharmonic](laphil.com).
@@ -18,8 +20,13 @@ orchestra, dealing with ergonomics and injuries, and more. Episode 9 (April 25,
 2018) with Nate Harrington about how a professional musician learns to integrate
 with Hollywood is especially entertaining.
 
-I learned about this
-podcast from listening to Joel Dallow's
+I have listened to all forty-two episodes of this podcast. I enjoyed this view
+into the lives of professional orchestral musicians, and I highly recommend the
+podcast.
+
+## Other Podcasts
+
+I learned about the podcast from listening to Joel Dallow's
 [The Cello Sherpa Podcast](https://www.thecellosherpa.com/).
 
 Noa Kageyama of
@@ -27,9 +34,16 @@ Noa Kageyama of
 interviewed Nathan and Akiko for the September 2, 2018 episode,
 [Nathan Cole and Akiko Tarumoto: On Practice, Lifelong Learning, and Balancing Life with Work and Audition Preparation](https://bulletproofmusician.com/nathan-cole-akiko-tarumoto-on-practicing-and-balancing-life-with-work-and-audition-preparation/).
 
+Dr. Renée-Paule Gauthier
+of the [Mind Over Finger](https://www.mindoverfinger.com/podcast/)
+podcast interviewed Nathan for the October 19, 2018 episode,
+[Nathan Cole: Mindful and Efficient Practice Tips from the LA Phil's First Associate Concertmaster](https://www.mindoverfinger.com/podcast/episode/6c9160d5/007-nathan-cole-mindful-and-efficient-practice-tips-from-the-la-phils-first-associate-concertmaster).
+
 Christopher Still of [The Honesty Pill](https://www.honestypill.com/) podcast
 interviewed Nathan Cole for the October 26, 2020 episode,
 [Ep. 5: Nathan Cole on perfectionism, technology, and his favorite barbecue resource](https://www.honestypill.com/podcast/ep-05-nathan-cole).
+
+## Recent News
 
 In 2024, Nathan Cole was named
 [Concertmaster of the Boston Symphony Orchestra](https://www.bso.org/profiles/nathan-cole),
@@ -53,6 +67,3 @@ position at the BSO.
 Given the
 [recent turmoil at the Boston Symphony Orchestra](https://classical-scene.com/2026/05/19/the-turmoil/),
 I wonder what Nathan's and Akiko's plans are.
-
-I am enjoying this view of the lives of professional orchestral musicians,
-and I highly recommend this podcast.
