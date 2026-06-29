@@ -28,7 +28,7 @@ Conway.”
 
 The reader then reads Alan's typescript, “Magpie Murders,” along with Susan.
 This is a murder mystery set in 1955 in Saxby-on-Avon, where there occurs a
-series of deaths associated with Pye Manor, home of the baronet Sir Magnus Pye
+series of deaths associated with Pye Hall, home of the baronet Sir Magnus Pye
 (hence, “magpie”). Sir Magnus himself becomes one of the victims. Atticus Pünd,
 Alan Conway’s private detective, gets involved in the investigation.
 
@@ -36,16 +36,16 @@ This entirely enjoyable murder mystery has the flavor of the Golden Age of
 Detection murder mysteries by Agatha Christie or Dorothy L. Sayers, and there
 are many references to names and places in Agatha Christie's works. This murder
 mystery includes a locked room murder and later the grisly but emotionally
-satifying murder of the manor’s lord. The many suspects include a vicar; the
-village doctor and her husband, a failed artist; the manor’s groundsman; other
+satifying murder of the hall’s lord. The many suspects include a vicar; the
+village doctor and her husband, a failed artist; the halls’s groundsman; other
 inhabitants of the village; and various family members of the victims. Each of
 the suspects has her or his own secrets, and the clues are sprinkled carefully
 and cleverly through the story.
 
-The inner mystery is organized on the nursery rhyme [“One for
-Sorrow”](https://en.wikipedia.org/wiki/One_for_Sorrow_(nursery_rhyme)) about
-magpies. (The nursery rhyme is included in Part One, Chapter Eight.) The number
-of magpies a person sees predicts good or bad luck.
+In the style of Agatha Christie, the inner mystery is organized on a nursery
+rhyme,
+[“One for Sorrow”](https://en.wikipedia.org/wiki/One_for_Sorrow_(nursery_rhyme)),
+about magpies.
 
 > One for sorrow,<br>
 > Two for joy,<br>
@@ -55,13 +55,14 @@ of magpies a person sees predicts good or bad luck.
 > Six for gold,<br>
 > Seven for a secret never to be told.
 
-The first six parts of the inner mystery are titled “Sorrow,” “Joy,” “Girl,”
-“Boy,”, “Silver,” and “Gold.”
+The nursery rhyme is included in Part One, Chapter Eight.) The number of magpies
+a person sees predicts good or bad luck. The first six parts of the inner
+mystery are titled “Sorrow,” “Joy,” “Girl,” “Boy,”, “Silver,” and “Gold.”
 
-Susan finishes reading the typescript, which makes up half of the novel, but the
-seventh and last part of the story is missing from the typescript, leaving the
-mystery unresolved. (The missing seventh part corresponds to the “secret never
-to be told.”) This circumstance initiates the outer mystery.
+Susan finishes reading the typescript, which makes up half of the novel. The
+seventh and last part of the story, corresponding to "a secret never to be
+told," is missing from the typescript, leaving the mystery unresolved. This
+circumstance initiates the outer mystery.
 
 Susan learns the next day that Alan Conway has died, apparently of suicide.
 Susan begins digging into Alan's life in an attempt to find the missing
