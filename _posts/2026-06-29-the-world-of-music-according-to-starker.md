@@ -120,20 +120,26 @@ Chapters 7, “The Wrath of Grapes,” 11, "L'Art Pour L'Art: Waldo Caper,
 
 ## Other Resources
 
+I have collected in a
+[separate post]( {% link _posts/2026-07-03-reminiscences-about-janos-starker.md %} )
+reminiscences about János Starker by students and other professional cellists.
+
 Two revealing interviews of János Starker by Tim Janof appear on the
 [Internet Cello Society website](https://www.cello.org/):
-[one from 1996](https://www.cello.org/Newsletter/Articles/starker.html)
-and [the other from 2004](https://www.cello.org/Newsletter/Articles/starker2/starker2.htm).
+[Conversation with János Starker (1996)](https://www.cello.org/Newsletter/Articles/starker.html)
+and
+[Conversation with János Starker (2004)](https://www.cello.org/Newsletter/Articles/starker2/starker2.htm).
 
-The [obituary in the New York Times](https://www.nytimes.com/2013/04/30/arts/music/janos-starker-master-cellist-dies-at-88.html)
-makes use of stories from Mr. Starker's autobiography and the
-interviews by Tim Janof.
+The
+[obituary in the New York Times](https://www.nytimes.com/2013/04/30/arts/music/janos-starker-master-cellist-dies-at-88.html)
+makes use of stories from Mr. Starker's autobiography and the interviews by Tim
+Janof.
 
 ## My Notes
 
-Unfortunately, Mr. Starker doesn’t talk about the music he played or provide any
-analysis. Most of the memoir seems to be, “I did this, then I did that; I played
-this, then I played that.”
+Unfortunately, Mr. Starker doesn’t write much about the music he played or
+provide any analysis. Most of the memoir seems to be, “I did this, then I did
+that; I played this, then I played that.”
 
 I was left wishing for more biography and less other writing. I didn't
 learn very much about playing the cello or the cello repertoire from this book.
