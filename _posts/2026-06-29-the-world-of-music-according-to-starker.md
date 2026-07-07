@@ -1,6 +1,6 @@
 ---
 title: "The World of Music According to Starker"
-description: These are my notes about the book “The World of Music According to Starker” by János Starker.
+description: These are my notes about the book “The World of Music According to Starker” by the cellist János Starker.
 date: 2026-06-29 07:21:00 -0400
 author: conrad
 categories: [Cello]

@@ -1,6 +1,6 @@
 ---
 title: "The Mind Over Finger Podcast"
-description: I recommend Dr. Renée-Paule Gauthier’s “The Mind Over Finger Podcast.”
+description: For musicians, I recommend Dr. Renée-Paule Gauthier’s “The Mind Over Finger Podcast.”
 date: 2026-07-05 07:46:00 -0400
 author: conrad
 categories: [Cello]

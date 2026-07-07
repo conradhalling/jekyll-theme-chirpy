@@ -1,6 +1,6 @@
 ---
 title: "Reminiscences about János Starker"
-description: While reading the book “The World of Music According to Starker” by János Starker, I collected these reminiscences from students and other professional cellists.
+description: While reading the book “The World of Music According to Starker” by the cellist János Starker, I collected these reminiscences from students and other professional cellists.
 date: 2026-07-03 07:07:00 -0400
 author: conrad
 categories: [Cello]
