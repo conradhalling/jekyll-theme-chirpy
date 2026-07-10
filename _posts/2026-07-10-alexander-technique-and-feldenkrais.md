@@ -6,28 +6,36 @@ author: conrad
 categories: [Cello]
 ---
 
-Musicians are exposed to conditions that can cause injury. I know a
-person who required surgery to cure [carpal tunnel
-syndrome](https://en.wikipedia.org/wiki/Carpal_tunnel_syndrome) from playing the
-clarinet and saxophone. And musicians often experience damage to their hearing
-from prolonged exposure to high frequencies.
+Musicians are exposed to conditions that can cause injury. Musicians often incur
+skeletal and muscular injuries, and they are susceptible to damaging their
+hearing through prolonged exposure to intense, high frequency sound. For
+example, I know a woodwind player who required surgery to cure
+[carpal tunnel syndrome](https://en.wikipedia.org/wiki/Carpal_tunnel_syndrome)
+from playing the clarinet and saxophone for fifty years. I know a drummer
+who suffers from
+[tinnitis](https://www.mayoclinic.org/diseases-conditions/tinnitus/symptoms-causes/syc-20350156)
+after long-term exposure to crashing cymbals.
+[The cellist Janet Horvath](https://janethorvath.com/biography/)
+wrote an entire book about these problems:
+[Playing (Less) Hurt: An Injury Prevention Guide for Musicians](https://janethorvath.com/books/playing-less-hurt/).
 
 The cello is an instrument that can cause
-[repetitive strain injuries](https://en.wikipedia.org/wiki/Repetitive_strain_injury)
-in the cellist. I am a beginner cellist, and I am already experiencing short-term pain
-in my left wrist as I learn first position. At least I am aware of this problem,
-and I'm looking for ways to alleviate it.
+[repetitive strain injuries](https://en.wikipedia.org/wiki/Repetitive_strain_injury).
+I am a beginner cellist, and I am already experiencing short-term pain in my
+left hand as I learn first position. At least I am aware of this problem, and
+I'm looking for ways to alleviate it. (I am hoping the problem will go away as
+I strengthen my left hand.)
 
 How can musicians prevent repetitive strain injuries? One way is to be aware of
 situations than cause repetitive strain and change how we move to prevent
-injury. In my career in science, I worked for a company that worked very hard
-and diligently on preventing injury in its employees, and I received a lot of
+injury. In my career in science, I worked for a company that worked diligently
+on preventing injury in its employees, and I received a lot of
 training about preventing overuse injuries from working in the lab and on the
 computer.
 
 In [Anthony Arnone](https://music.uiowa.edu/people/anthony-arnone/)'s
 <cite>[The Art of Listening: Conversations with Cellists](https://www.peterlang.com/document/1111250)</cite>,
-some of the cellists Arnone interviewed recommend studying yoga, Tai Chi,
+some of the cellists Arnone interviewed recommend studying yoga, tai chi,
 Alexander Technique, or Feldenkrais.
 
 What are Alexander Technique and Feldenkrais?
@@ -37,7 +45,7 @@ What are Alexander Technique and Feldenkrais?
 [Alexander Technique](https://en.wikipedia.org/wiki/Alexander_technique) is a
 method for teaching people how to move without strain or tension. It was
 invented as a therapy for people with what we would now call overuse injuries
-caused by poor ergonomics, with results that are difficult to quantify. But
+caused by poor ergonomics, with results that are difficult to confirm and quantify. But
 it can also be used to make people more aware of how they move and when they
 are under strain or tension from poor ergonomics.
 
@@ -51,7 +59,7 @@ These are some resources for musicians:
 
 The [Feldenkrais Method](https://en.wikipedia.org/wiki/Feldenkrais_method)
 appears to be a similar movement therapy with results that are also difficult to
-quantify. The Feldenkrais Method promotes efficient and graceful movement
+confirm and quantify. The Feldenkrais Method promotes efficient and graceful movement
 and increases self-awareness during motion. Learning this method might enable
 a person to avoid repetitive strain injuries.
 
