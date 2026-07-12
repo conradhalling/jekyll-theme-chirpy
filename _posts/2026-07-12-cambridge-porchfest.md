@@ -1,0 +1,39 @@
+---
+title: "Cambridge Porchfest"
+description:
+date: 2026-07-12 19:16:00 -0400
+author: conrad
+categories: [Music]
+media_subpath: /assets/img/2026-07-12/
+---
+
+[Porchfest in Cambridge, Massachusetts](https://www.cambridgema.gov/arts/programs/porchfest),
+is happening this weekend, July 11 and 12, 2026. Porchfest is huge in
+Somerville, the city where I live just north of Cambridge, but Cambridge is
+still building its festival. I saw two groups; I copied the descriptions from
+the Porchfest website.
+
+## Ana Ospina
+
+Readers of this blog will know that Ana Ospina is my cello teacher. Ana played
+duets with Geoffrey Edwards (her fiancé) and with her student Terri Liu. All
+three cellists are very good on their instruments. The two duets played a mix of
+classical musical and folk music from Colombia. The Colombian music contained
+percussive effects (from tapping on the body of the cello) and many tricky
+syncopations.
+
+**Group:** Ana Ospina<br>
+**Genre:** Classical / Folk / Acoustic<br>
+**Description:** Classical and acoustic performer presenting expressive instrumental and vocal music<br>
+
+![Ana Ospina and Geoffrey Edwards](ana-ospina.png){:width="640" height="480" }_Ana Ospina and Geoffrey Edwards_
+
+## CTK Sound
+
+On my way home, I listened to a very good guitar band, CTK Sound.
+
+**Group:** CTK Sound<br>
+**Genre:** Americana<br>
+**Description:** Americana acoustic group blending roots, folk, and classic influences<br>
+
+![CTK Sound](ctk-sound.png){:width="640" height="412" }_CTK Sound_
