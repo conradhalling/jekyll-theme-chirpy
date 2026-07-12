@@ -1,7 +1,7 @@
 ---
 title: "Cambridge Porchfest"
 description:
-date: 2026-07-12 19:16:00 -0400
+date: 2026-07-12 09:16:00 -0400
 author: conrad
 categories: [Music]
 media_subpath: /assets/img/2026-07-12/
