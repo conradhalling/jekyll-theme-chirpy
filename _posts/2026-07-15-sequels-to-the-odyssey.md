@@ -62,10 +62,12 @@ books, of which I will mention three here.
 The first is
 <cite>[The Aeneid](https://en.wikipedia.org/wiki/Aeneid)</cite>
 by [Publius Vergilius Maro](https://en.wikipedia.org/wiki/Virgil),
-written during the reign of Augustus, the first emperor of Rome. This epic poem,
-written in Latin, follows the travels of the mythological character Aeneas from
-the ruined city of Troy to Italy, where he became the ancestor of the Romans,
-particularly the ancestors of Julius Caesar and Augustus Caesar.
+written during the reign of [Augustus](https://en.wikipedia.org/wiki/Augustus),
+the first emperor of Rome. This epic poem,
+written in Latin, follows the travels of the mythological character
+[Aeneas](https://en.wikipedia.org/wiki/Aeneas)
+from the ruined city of [Troy](https://en.wikipedia.org/wiki/Troy) to Italy,
+where Aeneas became one of the ancestors of Augustus.
 
 Of course, there is
 <cite>[Ulysses](https://en.wikipedia.org/wiki/Ulysses_(novel))</cite> by
