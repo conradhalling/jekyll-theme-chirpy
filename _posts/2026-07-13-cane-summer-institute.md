@@ -29,6 +29,8 @@ which this year took place virtually on July 6–10, 2026. The lecture series
 was opened to the public, with the lectures held in the late afternoon each
 weekday. I attended three of the lectures via Zoom.
 
+## Joy in Greek Tragedy: Individual or Communal?
+
 On Monday, I listened to "Joy in Greek Tragedy: Individual or Communal?" by
 [Hanne Eisenfeld, Boston College](https://www.bc.edu/bc-web/schools/morrissey/departments/classics/people/faculty-directory/eisenfeld-hanne.html).
 Dr. Eisenfeld examined various Greek words used in tragedies that are often
@@ -40,8 +42,10 @@ have not read:
 -   [Bakkhai](https://en.wikipedia.org/wiki/The_Bacchae), by Euripides
 -   [Alcestis](https://en.wikipedia.org/wiki/Alcestis_(play)), by Euripides
 
+## Women and Communities of War
+
 Tuesday's lecture, "Women and Communities of War," was presented by
-[Caitlin C. Gillespie, Brandeis](https://brandeis.academia.edu/CaitlinGillespie).
+[Caitlin C. Gillespie, Brandeis](https://scholarworks.brandeis.edu/esploro/profile/caitlin_gillespie/overview).
 Dr. Gillespie spoke about the presence of and participation by women during
 wars in the Roman Empire. Dr. Gillespie's book on this subject,
 <cite>[Women and Resistance in the “Annals” of Tacitus](https://cornellpress.cornell.edu/book/9781501786150/women-and-resistance-in-the-annals-of-tacitus/#bookTabs=1)</cite>,
@@ -63,6 +67,8 @@ on July 21, 2026. I have already ordered a copy from my local bookstore,
 What I know about Livia comes from fiction: Robert Graves's <cite>I,
 Claudius</cite> and <cite>Claudius the God</cite> and John Williams's
 <cite>Augustus</cite>. I am interested in learning what historians think of her.
+
+## Identity and Community in the Gladiatorial Barracks
 
 On Friday I listened to "Identity and Community in the Gladiatorial Barracks"
 by
