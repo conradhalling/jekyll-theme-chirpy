@@ -16,6 +16,19 @@ September 11, 2011<br>
 $33 from Apple Books.<br>
 $35 for the paperback from Porter Square Books.<br>
 
+## The Cellist's Guide to Scales and Arpeggios
+<cite>[The Cellist's Guide to Scales and Arpeggios: A Comprehensive, Systematic, Sequential Approach](https://www.melbay.com/Products/31153MEB/the-cellists-guide-to-scales-and-arpeggios.aspx)</cite><br>
+by Theodore Buchholz and Robert Jesselson<br>
+May 16, 2024<br>
+140 pp.<br>
+$25 for the ebook and online video<br>
+
+For more information about this book, listen to
+[The Cello Sherpa Podcast](https://www.thecellosherpa.com/) episode from
+September 27, 2024,
+["Tales of Scales, Scales and More Scales."](https://www.buzzsprout.com/1727007/episode_players/15818496-tales-of-scales-scales-and-more-scales-an-interview-with-cello-professors-robert-jesselson-and-theodore-buchholz?client_source=large_player&referrer=https%3A%2F%2Fwww.buzzsprout.com%2F1727007.js%3Fiframe%3Dtrue%26page%3D1%26style%3Dwave)
+
+
 ## Cello, Bow and You
 <cite>[Cello, Bow and You: Putting it All Together](https://global.oup.com/academic/product/cello-bow-and-you-putting-it-all-together-9780190497408?cc=us&lang=en&)</cite><br>
 by Evangeline Benedetti<br>
