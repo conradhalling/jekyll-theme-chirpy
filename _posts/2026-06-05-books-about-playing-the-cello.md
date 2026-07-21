@@ -83,6 +83,13 @@ October 2015<br>
 40 pp.<br>
 $15 from Apple Book and from Mel Bay.
 
+## How I Play, How I Teach
+<cite>[How I Play, How I Teach](https://www.halleonard.com/product/14033878/how-i-play-how-i-teach)</cite><br>
+by Paul Tortelier<br>
+1992<br>
+128 pp.<br>
+$40
+
 ## Notes for Cellists
 <cite>[Notes for Cellists: A Guide to the Repertoire](https://academic.oup.com/book/58192?login=false)</cite><br>
 by Miranda Wilson<br>
