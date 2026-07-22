@@ -112,3 +112,11 @@ May 2022<br>
 218 pp.<br>
 $65<br>
 $40 from Apple Books.<br>
+
+## Solos for Young Cellists
+<cite>[Solos for Young Cellists: Selections from the Cello Repertoire, Cello Part and Piano Acc., Volume 1](https://www.alfred.com/products/solos-for-young-cellists-cello-part-and-piano-acc-volume-1-00-20810x?_pos=2&_psq=solos+for+young+cellists&_psid=c32149ff3&_ss=e)</cite><br>
+[Solos for Young Cellists, Volume 1: Digital Audio Download](https://www.alfred.com/products/solos-for-young-cellists-volume-1-00-aa-0000068)<br>
+Compiled, ed., arr., and composed by Carey Cheney<br>
+88 pp.<br>
+$15 + $16<br>
+There are eight volumes of these solos.
