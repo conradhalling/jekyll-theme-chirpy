@@ -1,39 +1,23 @@
 ---
-title: "Reminiscences about János Starker"
-description: While reading the book “The World of Music According to Starker” by the cellist János Starker, I collected these reminiscences from students and other professional cellists.
+title: "Stories about János Starker"
+description: While reading the book “The World of Music According to Starker” by the cellist János Starker, I collected stories by students and professional cellists.
 date: 2026-07-03 07:07:00 -0400
 author: conrad
 categories: [Cello]
 ---
 
-I recently read
+I recently finished reading
 <cite>[The World of Music According to Starker](https://iupress.org/9780253065391/the-world-of-music-according-to-starker/)</cite>
 by the cellist János Starker, and a few days ago I wrote a post containing
 [my notes about the book]( {% link _posts/2026-06-29-the-world-of-music-according-to-starker.md %} ).
 [János Starker](https://en.wikipedia.org/wiki/J%C3%A1nos_Starker)
 is considered to be one of the world's greated cellists, and there are many
-articles about him on the internet.
-While I was reading the book and composing my post, I collected reminiscences
-about Mr. Starker from students and from professional cellists.
+articles about him on the internet. Strangely, no one has written a biography
+yet.
 
-## Internet Cello Society
-
-Tim Janof of the
-[Internet Cello Society](https://www.cello.org/)
-interviewed János Starker twice:
-[Conversation with János Starker (1996)](https://www.cello.org/Newsletter/Articles/starker.html)
-and
-[Conversation with János Starker (2004)](https://www.cello.org/Newsletter/Articles/starker2/starker2.htm).
-
-John Cloer in 2008 provided the long article,
-[Janos Starker: One Student's Reflections](https://www.cello.org/Newsletter/Articles/starkerreflections/starkerreflections.htm),
-which gives a flavor of Mr. Starker's teaching style.
-
-## CelloBello
-
-The [cellobello](https://www.cellobello.org/) website has a
-[page dedicated to János Starker](https://cellobello.org/cello-legacy/cellists/janos-starker/)
-that provides essays and links to interviews and performances.
+While I was reading the book and composing my post, I collected stories about
+Mr. Starker by students and professional cellists. (_Note on July 23, 2026_: I
+am continuing to add to this post as I find more stories.)
 
 ## The Art of Listening
 
@@ -136,11 +120,117 @@ professors, including Starker, than the Music Performance majors. Helga Wingold
 > that will inspire young players and help educate future audiences for all of
 > us.
 
+## Tim Janof
+
+Tim Janof of the
+[Internet Cello Society](https://www.cello.org/)
+interviewed János Starker twice:
+[Conversation with János Starker (1996)](https://www.cello.org/Newsletter/Articles/starker.html)
+and
+[Conversation with János Starker (2004)](https://www.cello.org/Newsletter/Articles/starker2/starker2.htm).
+In the first conversation, Tim Janof asked Mr. Starker about Jacqueline du Pré:
+
+> TJ: What do you think of Jacqueline du Pré? She was known for her passionate
+> performances?
+>
+> JS: She was an incredibly gifted cellist and a beautiful artist, but I believe
+> she accelerated her own destruction because she expended so much energy in her
+> performances. I publicly stated long before she got sick that a human being's
+> body cannot take what she did to it. I worry that young people will try to
+> emulate this external aspect of her playing, instead of striving for her deep
+> musicianship. I grieve for her because she was a valuable human being and a
+> great musician.
+
+I find Mr. Starker's answer shockingly insensitive and ignorant.
+
+## Samuel and Sada Applebaum
+
+The
+[Internet Cello Society website](https://www.cello.org)
+contains another article,
+[Janos Starker: An Appreciation and Interview](https://www.cello.org/cnc/starker/applebio.htm),
+by Samuel and Sada Applebaum, with some stories about Mr. Starker very early in
+his career. The authors quote a testy Mr. Starker:
+
+> "What is confusing for the audience...is when somebody comes on stage and
+> seemingly gives his everything by throwing himself around. An awful lot of
+> people adore it and get carried away...It has nothing to do with music but
+> those people get what they came for, entertainment. It's a pity they don't
+> know how to distinguish between entertainment and art."
+
+## John Cloer
+
+John Cloer in 2008 wrote a long article, also for the Internet Cello Society,
+[Janos Starker: One Student's Reflections](https://www.cello.org/Newsletter/Articles/starkerreflections/starkerreflections.htm),
+which gives a flavor of Mr. Starker's personality and style:
+
+> After [a masterclass], I and at least a dozen others followed Starker back to
+> his studio where he proceeded to schedule lessons for the next week. After
+> everyone had left, Starker turned to me and, in words that due to his
+> inimitably precise and calculated brevity are still imprinted on my brain, he
+> said, "Look. You obviously feel the music and you have good hands but you are
+> basically fighting the instrument. It is the type of playing I detest because
+> it is so unnecessary. You are accepted to study at Indiana but you would be
+> better off if you went some place where they would make you feel good about
+> yourself. Here you will have to start over with the basics — from scratch.
+> I should tell you though, if you do not start over, you will never know what
+> you don't know. You will also never be successful. Do you have any questions?"
+> Even though my head was awash with questions from the class, my embarrassment
+> at my ignorance and the shock of his words effectively rendered me speechless
+> and I simply shook my head negatively. He then said, "No? Then good-bye and
+> good luck."
+
+Over the next two years, John Cloer had a harrowing but ultimately rewarding
+experience with Mr. Starker. This article is well worth reading.
+
+## Florian Riem
+
+In 2024 Florian Riem wrote a short biography,
+[Janos Starker at 100: Remembering a great Cellist](https://www.wfimc.org/news-media/janos-starker-100-remembering-great-cellist),
+for the
+[World Federation of International Music Competitions](https://www.wfimc.org).
+Riem tells many stories, including this one:
+
+> I remained in Starker’s class for two years, and I won’t ever forget this
+> time. Every lesson was special. Every lesson, you had to prepare a new piece —
+> you could never play the same thing twice.  Starker’s studio, the famous MA
+> 155, was a small yet beautiful room, with lots of old photographs of famous
+> cellists on the wall, and a little podium for the student. When you played,
+> there was not only János Starker across from you, but also other students,
+> colleagues, or other teachers. Lessons were never private — there was always
+> someone listening — and this was Starker’s philosophy: everyone should learn
+> from everyone.
+
+> Playing in front of your classmates was never easy, and one of Starker’s
+> famous comments was always:
+
+> “Your colleagues are not laughing at you. They are just relieved that they are not you.”
+
+## Emilio Colón
+
+Emilio Colón, now Professor of Cello at the Jacobs School of Music at Indiana
+University, tells a story on Joel Dallow's Cello Sherpa Podcast,
+[episode of June 27, 2025](https://www.buzzsprout.com/1727007/episode_players/17393450-conquering-imposter-syndrome-an-interview-with-emilio-colon-professor-of-cello-at-the-jacobs-school-of-music-at-indiana-university),
+about his love-hate relationship with Janós Starker. Mr. Starker threw Emilio
+out of his studio on his first lesson before he played a note because he thought
+Emilio, coming from Puerto Rico, would not be able to dedicate himself
+sufficiently to studying the cello. The two sorted out their stormy
+relationship, but a few years later Mr. Starker invited Emilio to join the cello
+faculty at Indiana University. Emilio tells a second, very fune, story about Mr.
+Starker that is best heard because I won't be able to summarize it well here.
+
+## CelloBello
+
+The [cellobello](https://www.cellobello.org/) website has a
+[page dedicated to János Starker](https://cellobello.org/cello-legacy/cellists/janos-starker/)
+that provides essays and links to interviews and performances.
+
 ## Mr. Starker's Joke About Himself
 
 Mr. Starker liked to tell a joke about himself, and he included the joke in
 his autobiography; I quoted it in
 [my notes about his autobiography]( {% link _posts/2026-06-29-the-world-of-music-according-to-starker.md %} ).
+
 Stephen Geber tells a better version of this joke on page 109 of Anthony
 Arnone's <cite>The Art of Listening</cite>.
 
@@ -162,3 +252,6 @@ Arnone's <cite>The Art of Listening</cite>.
 
 A third version of this joke is included in
 [Remembering Janos Starker, The Cellist 'Born To Be A Teacher'](https://www.aspenpublicradio.org/2013-04-29/remembering-janos-starker-the-cellist-born-to-be-a-teacher).
+
+And Florian Riem tells the same joke in
+[Janos Starker at 100: Remembering a great Cellist](https://www.wfimc.org/news-media/janos-starker-100-remembering-great-cellist).
