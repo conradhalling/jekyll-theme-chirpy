@@ -204,20 +204,22 @@ Riem tells many stories, including this one:
 > Playing in front of your classmates was never easy, and one of Starker’s
 > famous comments was always:
 
-> “Your colleagues are not laughing at you. They are just relieved that they are not you.”
+> “Your colleagues are not laughing at you. They are just relieved that they are
+> not you.”
 
 ## Emilio Colón
 
 Emilio Colón, now Professor of Cello at the Jacobs School of Music at Indiana
-University, tells a story on Joel Dallow's Cello Sherpa Podcast,
+University, tells a story on Joel Dallow's
+[The Cello Sherpa Podcast](https://www.thecellosherpa.com/),
 [episode of June 27, 2025](https://www.buzzsprout.com/1727007/episode_players/17393450-conquering-imposter-syndrome-an-interview-with-emilio-colon-professor-of-cello-at-the-jacobs-school-of-music-at-indiana-university),
 about his love-hate relationship with Janós Starker. Mr. Starker threw Emilio
 out of his studio on his first lesson before he played a note because he thought
 Emilio, coming from Puerto Rico, would not be able to dedicate himself
-sufficiently to studying the cello. The two sorted out their stormy
-relationship, but a few years later Mr. Starker invited Emilio to join the cello
-faculty at Indiana University. Emilio tells a second, very fune, story about Mr.
-Starker that is best heard because I won't be able to summarize it well here.
+sufficiently to studying the cello. The two had a stormy relationship, but a few
+years later Mr. Starker invited Emilio to join the cello faculty at Indiana
+University. Emilio tells a second, very funny, story about Mr. Starker that is
+best heard.
 
 ## CelloBello
 
@@ -250,8 +252,9 @@ Arnone's <cite>The Art of Listening</cite>.
 > the lights shine, the trumpets are blaring. He says to the cellist, "Come
 > on in, you've already been through Hell."
 
-A third version of this joke is included in
-[Remembering Janos Starker, The Cellist 'Born To Be A Teacher'](https://www.aspenpublicradio.org/2013-04-29/remembering-janos-starker-the-cellist-born-to-be-a-teacher).
+A third version of this joke is included in Sara Wittmeyer's
+[Remembering Janos Starker, The Cellist 'Born To Be A Teacher'](https://www.aspenpublicradio.org/2013-04-29/remembering-janos-starker-the-cellist-born-to-be-a-teacher), written for
+Aspen Public Radio.
 
 And Florian Riem tells the same joke in
 [Janos Starker at 100: Remembering a great Cellist](https://www.wfimc.org/news-media/janos-starker-100-remembering-great-cellist).
