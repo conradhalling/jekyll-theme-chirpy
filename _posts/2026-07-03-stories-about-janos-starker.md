@@ -77,8 +77,8 @@ Gary Hoffman (page 167):
 > and could articulate it. It's just absolute complete knowledge, and that was
 > unique, really. I have never seen anybody else like that.
 
-Helga Winold, who was also Starker's assistant at the same time as Gary Hoffman
-(page 294):
+[Helga Winold](https://www.usf.edu/arts/music/about-us/helga-winold.aspx),
+who was also Starker's assistant at the same time as Gary Hoffman (page 294):
 
 > I was both Starker's student and did a lot of his teaching as his assistant
 > while I was getting my doctorate, because he was gone so much. This was at
@@ -95,7 +95,7 @@ Helga Winold, who was also Starker's assistant at the same time as Gary Hoffman
 > what he did. It seemed he was asking, 'I showed you, so why aren't you that
 > good?'
 
-[Helga Winold](https://www.usf.edu/arts/music/about-us/helga-winold.aspx) (page 295):
+Helga Winold (page 295):
 
 > Starker didn't have much patience. You were supposed to bring in new pieces
 > all the time. He was not happy hearing something he had heard before. It
@@ -223,11 +223,11 @@ best heard.
 
 ## CelloBello
 
-The [cellobello](https://www.cellobello.org/) website has a
+The [CelloBello](https://www.cellobello.org/) website has a
 [page dedicated to János Starker](https://cellobello.org/cello-legacy/cellists/janos-starker/)
 that provides essays and links to interviews and performances.
 
-## Mr. Starker's Joke About Himself
+## János Starker's Joke About Himself
 
 Mr. Starker liked to tell a joke about himself, and he included the joke in
 his autobiography; I quoted it in
