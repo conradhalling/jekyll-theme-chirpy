@@ -121,8 +121,8 @@ Chapters 7, “The Wrath of Grapes,” 11, "L'Art Pour L'Art: Waldo Caper,
 ## Other Resources
 
 I have collected in a
-[separate post]( {% link _posts/2026-07-03-reminiscences-about-janos-starker.md %} )
-reminiscences about János Starker by students and other professional cellists.
+[separate post]( {% link _posts/2026-07-03-stories-about-janos-starker.md %} )
+stories about János Starker by students and other professional cellists.
 
 Two revealing interviews of János Starker by Tim Janof appear on the
 [Internet Cello Society website](https://www.cello.org/):
