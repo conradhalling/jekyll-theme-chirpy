@@ -43,7 +43,8 @@ cello, contains many stories about János Starker.
 > I played to Starker for three weeks in the classes, and that was a searing
 > but valuable experience.
 
-[Gary Hoffman](http://www.gary-hoffman.com), who studied with Mr. Starker and was his assistant for several
+[Gary Hoffman](http://www.gary-hoffman.com)
+studied with Mr. Starker and was his assistant for several
 years (page 153):
 
 > When I started studying with Mr. Starker, I started to lose a lot of what was
@@ -65,8 +66,8 @@ Gary Hoffman (page 154):
 
 > ...[Mr. Starker] ended up accepting students that he knew that he couldn't
 > have time for right away. He sent them to Gary Hoffman, and eventually
-> maybe they would go to him. That's normal—but in that way, I was still
-> a little bit like his assistant … but I wasn't his assistant…. He would
+> maybe they would go to him. That's normal — but in that way, I was still
+> a little bit like his assistant …but I wasn't his assistant…. He would
 > take more students that he could handle, and some of those people were not
 > always happy.
 
@@ -77,8 +78,9 @@ Gary Hoffman (page 167):
 > and could articulate it. It's just absolute complete knowledge, and that was
 > unique, really. I have never seen anybody else like that.
 
-[Helga Winold](https://www.usf.edu/arts/music/about-us/helga-winold.aspx),
-who was also Starker's assistant at the same time as Gary Hoffman (page 294):
+[Helga Winold](https://www.usf.edu/arts/music/about-us/helga-winold.aspx)
+spoke about being Mr. Starker's assistant at the same time as Gary Hoffman (page
+294):
 
 > I was both Starker's student and did a lot of his teaching as his assistant
 > while I was getting my doctorate, because he was gone so much. This was at
@@ -95,14 +97,15 @@ who was also Starker's assistant at the same time as Gary Hoffman (page 294):
 > what he did. It seemed he was asking, 'I showed you, so why aren't you that
 > good?'
 
-Helga Winold (page 295):
+Helga Winold continued (page 295):
 
 > Starker didn't have much patience. You were supposed to bring in new pieces
 > all the time. He was not happy hearing something he had heard before. It
 > was not very easy to do, and I think we would have learned more if he could
 > have followed up on some of the things we played only once.
 
-Starker's intonation was famous. Helga Winold (page 295):
+Mr. Starker's intonation was famously excellent. Helga Winold made the following
+comments (page 295):
 
 > I always swore there were magnets on his fingerboard and in his fingertips,
 > because he just never played out of tune. I don't know anyone else that can
@@ -111,7 +114,7 @@ Starker's intonation was famous. Helga Winold (page 295):
 At Indiana University, where János Starker, Gary Hoffman, and Helgo Wingold
 taught, the Music Education majors were often treated less respectfully by the
 professors, including Starker, than the Music Performance majors. Helga Wingold
-(page 300):
+had this say (page 300):
 
 > Not all of the … teachers took Ed. students. … There will still violinists
 > that said they wouldn't even look at one. … I don't think Starker ever took an
@@ -148,7 +151,7 @@ I find Mr. Starker's answer shockingly insensitive and ignorant.
 The
 [Internet Cello Society website](https://www.cello.org)
 contains another article,
-[Janos Starker: An Appreciation and Interview](https://www.cello.org/cnc/starker/applebio.htm),
+[János Starker: An Appreciation and Interview](https://www.cello.org/cnc/starker/applebio.htm),
 by Samuel and Sada Applebaum, with some stories about Mr. Starker very early in
 his career. The authors quote a testy Mr. Starker:
 
@@ -161,7 +164,7 @@ his career. The authors quote a testy Mr. Starker:
 ## John Cloer
 
 John Cloer in 2008 wrote a long article, also for the Internet Cello Society,
-[Janos Starker: One Student's Reflections](https://www.cello.org/Newsletter/Articles/starkerreflections/starkerreflections.htm),
+[János Starker: One Student's Reflections](https://www.cello.org/Newsletter/Articles/starkerreflections/starkerreflections.htm),
 which gives a flavor of Mr. Starker's personality and style:
 
 > After [a masterclass], I and at least a dozen others followed Starker back to
@@ -186,7 +189,7 @@ experience with Mr. Starker. This article is well worth reading.
 ## Florian Riem
 
 In 2024 Florian Riem wrote a short biography,
-[Janos Starker at 100: Remembering a great Cellist](https://www.wfimc.org/news-media/janos-starker-100-remembering-great-cellist),
+[János Starker at 100: Remembering a great Cellist](https://www.wfimc.org/news-media/janos-starker-100-remembering-great-cellist),
 for the
 [World Federation of International Music Competitions](https://www.wfimc.org).
 Riem tells many stories, including this one:
@@ -253,8 +256,8 @@ Arnone's <cite>The Art of Listening</cite>.
 > on in, you've already been through Hell."
 
 A third version of this joke is included in Sara Wittmeyer's
-[Remembering Janos Starker, The Cellist 'Born To Be A Teacher'](https://www.aspenpublicradio.org/2013-04-29/remembering-janos-starker-the-cellist-born-to-be-a-teacher), written for
+[Remembering János Starker, The Cellist 'Born To Be A Teacher'](https://www.aspenpublicradio.org/2013-04-29/remembering-janos-starker-the-cellist-born-to-be-a-teacher), written for
 Aspen Public Radio.
 
 And Florian Riem tells the same joke in
-[Janos Starker at 100: Remembering a great Cellist](https://www.wfimc.org/news-media/janos-starker-100-remembering-great-cellist).
+[János Starker at 100: Remembering a great Cellist](https://www.wfimc.org/news-media/janos-starker-100-remembering-great-cellist).
