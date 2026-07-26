@@ -15,7 +15,7 @@ podcast so far.
 a member of the cello section of the
 [Atlanta Symphony Orchestra](https://www.aso.org/artists/detail/joel-dallow),
 started this podcast on March 8, 2021, one year into the Covid-19 pandemic.
-Dallow has kept this podcast going for 139 episodes so far, releasing a new
+Joel has kept this podcast going for 139 episodes so far, releasing a new
 episode every fourteen days.
 
 This podcast is aimed at the aspiring young musician who wants to attend a music
@@ -38,7 +38,7 @@ who has had an unusual career in that he did not win any cello competitions but
 built his career as a soloist from scratch through sheer competence and
 professionalism.
 
-In subsequent episodes, Dallow has interviewed cello professors and orchestral
+In subsequent episodes, Joel has interviewed cello professors and orchestral
 musicians, eliciting their experiences and advice for how to pursue a
 professional career. This includes how to prepare for an audition for a music
 school or orchestra, tips on preparing a video audition, how to choose a
@@ -55,3 +55,5 @@ I had to make similar choices when I became a scientist: what university
 departments to apply to, which investigator's lab to work in during graduate
 school, how to present a seminar, how to apply for research grants, where to do
 a post-doctoral fellowship, how to get a job in academia or industry, etc.
+
+_Added July 25, 2026:_ I finished listening to all 144 episodes today.

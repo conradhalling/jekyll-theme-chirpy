@@ -54,6 +54,7 @@ These are some resources for musicians:
 -   [The Well-Tempered Musician: Alexander Technique for Musicians](https://welltemperedmusician.com/about-the-alexander-technique/)
 -   [CelloBello: Selma Gokcen: Thinking in a New Way](https://cellobello.org/cello-blog/playing-healthy/cellobello-six-part-series-will-be-posted-every-monday-for-the-next-6-weeks-thinking-in-a-new-way-overcoming-habits/)
 -   [Sae Rom Kwon: Ph.D. Dissertation: Basic Principles of the Alexander Technique Applied to Cello Pedagogy in Three Case Studies](https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=ucin1337288926&disposition=inline)
+-   [Mind Over Finger Podcast with Dr. Renée-Paul Gauthier: Lori Schiff: The Alexander Technique - At Home with Yourself](https://www.mindoverfinger.com/podcast/episode/3ffee04b/080-lori-schiff-the-alexander-technique-at-home-with-yourself)
 
 ## Feldenkrais
 
@@ -69,3 +70,4 @@ These are some resources for musicians:
 -   [Independent Society of Musicans: About the Feldenkreis Method](https://www.ism.org/advice/about-the-feldenkrais-method/)
 -   [Feldenkrais for Musicians](https://www.feldenkrais-for-musicians.com/)
 -   [Feldenkrais Method for Musicians](https://feldenkraismusic.com/)
+-   [The Mind Over Finger Podcast with Dr. Renée-Paule Gauthier: Uri Vardi: The Feldenkrais Method: Awareness Through Movement](https://www.mindoverfinger.com/podcast/episode/e6866402/096-uri-vardi-the-feldenkrais-method-awareness-through-movement)

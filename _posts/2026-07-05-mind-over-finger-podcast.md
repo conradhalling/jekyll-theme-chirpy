@@ -29,7 +29,7 @@ Dr. Gauthier asks each guest questions such as:
 -   What's the best advice you've received that you'd like to pass on?
 -   What's a quick actionable tip that listeners can implement today in their musical lives?
 
-Dr. Gauthier has interviewed over a hundred musicians including the following seven cellists:
+Dr. Gauthier has interviewed over a hundred musicians including the following ten cellists:
 
 | Cellist  | Episode | Date |
 |---------|------|---------|
@@ -37,6 +37,9 @@ Dr. Gauthier has interviewed over a hundred musicians including the following se
 | [Joshua Roman](https://www.mindoverfinger.com/podcast/episode/2565871c/028-joshua-roman-working-purposefully-building-a-meaningful-career) | 028     | April 12, 2019   |
 | [Hans Jørgen Jensen](https://www.mindoverfinger.com/podcast/episode/283405c8/056-hans-jorgen-jensen-musical-mind) | 056     | January 17, 2020 |
 | [Robert DeMaine](https://www.mindoverfinger.com/podcast/episode/1a3cd5ca/057-robert-demaine-on-practicing) | 057     | January 24, 2020 |
+| [Alisa Weilerstein](https://www.mindoverfinger.com/podcast/episode/46b3a4ac/076-alisa-weilerstein-artistry-interpretative-depth) | 076     | September 25, 2020 |
+| [Uri Vardi](https://www.mindoverfinger.com/podcast/episode/e6866402/096-uri-vardi-the-feldenkrais-method-awareness-through-movement) | 096    | April 9, 2021 |
+| [Thomas Mesa](https://www.mindoverfinger.com/podcast/episode/32a6f510/156-thomas-mesa-process-patience-creativity) | 156   | December 23, 2022 |
 | [Gloria Lum](https://www.mindoverfinger.com/podcast/episode/31b678db/194-gloria-lum-audition-confidential) | 194     | March 22, 2024   |
 | [Zlatomir Fung](https://www.mindoverfinger.com/podcast/episode/2b8bfebe/207-zlatomir-fung-flow-fundamentals-and-fearless-performance) | 207     | November 1, 2024 |
 | [Marie-Michel Beauparlant](https://www.mindoverfinger.com/podcast/episode/2a1054d7/260-the-journey-to-winning-how-marie-michel-beauparlant-reclaimed-her-confidence-and-her-career) | 260     | May 1, 2026      |
