@@ -44,20 +44,20 @@ and cleverly through the story.
 
 In the style of Agatha Christie, the inner mystery is organized on a nursery
 rhyme,
-[“One for Sorrow”](https://en.wikipedia.org/wiki/One_for_Sorrow_(nursery_rhyme)),
+"[One for Sorrow](https://en.wikipedia.org/wiki/One_for_Sorrow_(nursery_rhyme)),"
 about magpies.
 
-> One for sorrow,<br>
-> Two for joy,<br>
-> Three for a girl,<br>
-> Four for a boy,<br>
-> Five for silver,<br>
-> Six for gold,<br>
+> One for sorrow,\
+> Two for joy,\
+> Three for a girl,\
+> Four for a boy,\
+> Five for silver,\
+> Six for gold,\
 > Seven for a secret never to be told.
 
-The nursery rhyme is included in Part One, Chapter Eight.) The number of magpies
+This nursery rhyme is included in Part One, Chapter Eight. The number of magpies
 a person sees predicts good or bad luck. The first six parts of the inner
-mystery are titled “Sorrow,” “Joy,” “Girl,” “Boy,”, “Silver,” and “Gold.”
+mystery are titled “Sorrow,” “Joy,” “Girl,” “Boy,” “Silver,” and “Gold.”
 
 Susan finishes reading the typescript, which makes up half of the novel. The
 seventh and last part of the story, corresponding to "a secret never to be
@@ -76,7 +76,7 @@ criminal investigation.
 [Magpie Murders](https://www.pbs.org/wgbh/masterpiece/shows/magpie-murders/)
 television series on PBS.
 
-Anothony Horowitz, a proflific and popular talent, has written many other books.
+Anothony Horowitz, a prolific and popular talent, has written many other books.
 including two Sherlock Holmes novels,
 [The House of Silk](https://anthonyhorowitz.com/books/title/the-house-of-silk-a-sherlock-holmes-novel)
 and

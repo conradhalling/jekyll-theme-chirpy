@@ -45,6 +45,22 @@ and typography styles of this Jekyll theme. — Conrad Halling
 
 Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices sodales. Aliquam ante lorem, ornare a feugiat ac, finibus nec mauris. Vivamus ut tristique nisi. Sed vel leo vulputate, efficitur risus non, posuere mi. Nullam tincidunt bibendum rutrum. Proin commodo ornare sapien. Vivamus interdum diam sed sapien blandit, sit amet aliquam risus mattis. Nullam arcu turpis, mollis quis laoreet at, placerat id nibh. Suspendisse venenatis eros eros.
 
+## Poetry
+
+Use a backslash, <kbd>\</kbd>, at the end of a line to break the line early. Do
+not use a backslash if the next line is blank.
+
+"[One for Sorrow](https://en.wikipedia.org/wiki/One_for_Sorrow_(nursery_rhyme)),"
+a nursery rhyme about magpies:
+
+> One for sorrow,\
+> Two for joy,\
+> Three for a girl,\
+> Four for a boy,\
+> Five for silver,\
+> Six for gold,\
+> Seven for a secret never to be told.
+
 ## Lists
 
 ### Ordered list

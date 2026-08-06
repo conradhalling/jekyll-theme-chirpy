@@ -24,9 +24,9 @@ a mix of classical musical and folk music from Colombia. The Colombian music
 contained percussive effects (from tapping on the body of the cello) and many
 tricky syncopations.
 
-**Group:** Ana Ospina<br>
-**Genre:** Classical / Folk / Acoustic<br>
-**Description:** Classical and acoustic performer presenting expressive instrumental and vocal music<br>
+**Group:** Ana Ospina\
+**Genre:** Classical / Folk / Acoustic\
+**Description:** Classical and acoustic performer presenting expressive instrumental and vocal music
 
 ![Ana Ospina and Geoffrey Edwards](ana-ospina.png){:width="640" height="480" }_Ana Ospina and Geoffrey Edwards_
 
@@ -34,8 +34,8 @@ tricky syncopations.
 
 I also listened to a very good guitar band, CTK Sound.
 
-**Group:** CTK Sound<br>
-**Genre:** Americana<br>
-**Description:** Americana acoustic group blending roots, folk, and classic influences<br>
+**Group:** CTK Sound\
+**Genre:** Americana\
+**Description:** Americana acoustic group blending roots, folk, and classic influences
 
 ![CTK Sound](ctk-sound.png){:width="640" height="412" }_CTK Sound_
