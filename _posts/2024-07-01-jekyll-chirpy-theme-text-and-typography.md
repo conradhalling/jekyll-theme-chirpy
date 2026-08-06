@@ -123,9 +123,11 @@ Moon
 
 ## Links
 
-<http://127.0.0.1:4000>
+<https://github.com/cotes2020/jekyll-theme-chirpy>
 
 [Jekyll Theme Chirpy source code](https://github.com/cotes2020/jekyll-theme-chirpy)
+
+<user@example.com>
 
 ## Footnote
 
