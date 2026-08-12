@@ -116,7 +116,7 @@ taught, the Music Education majors were often treated less respectfully by the
 professors, including Starker, than the Music Performance majors. Helga Wingold
 had this say (page 300):
 
-> Not all of the … teachers took Ed. students. … There will still violinists
+> Not all of the … teachers took Ed. students. … There were still violinists
 > that said they wouldn't even look at one. … I don't think Starker ever took an
 > Ed. student. He would listen to them from time to time, but he wouldn't take
 > them in his class. I was always happy to do so because those are the students
