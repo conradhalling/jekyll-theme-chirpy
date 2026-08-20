@@ -44,9 +44,10 @@ Alasdair Fraser's
 and the
 [Mike Block String Camp](https://www.mikeblockstringcamp.com).
 This led to a collaboration with fiddle player Joyce Pan called
-[Joyce & David](https://joyceanddavid.bandcamp.com) and an album
-titled <cite>new roads</cite>. Emily and David discuss improvisation as
-demonstrated by
+[Joyce & David](https://joyceanddavid.bandcamp.com/) and an album
+titled
+<cite>[New Roads](https://joyceanddavid.bandcamp.com/album/new-roads)</cite>.
+Emily and David discuss improvisation as demonstrated by
 [Emily Haas](https://nataliehaas.com/),
 [Mike Block](https://mikeblockmusic.com),
 [Tessa Lark](https://tessalark.com/),
