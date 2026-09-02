@@ -1,6 +1,6 @@
 ---
 title: New iPhone 17 Pro
-description:
+description: "I replaced my iPhone 16 Pro with a new iPhone 17 Pro."
 date: 2026-09-02 17:56:00 -0400
 author: conrad
 categories: [Other]
