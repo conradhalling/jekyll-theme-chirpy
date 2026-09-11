@@ -130,7 +130,7 @@ Path.
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=411812367&sampleGraph=true&privacyCode=YgqG2kkI0JcFFPIL8vks2JMWJryoA2o6" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
-As with riding the the southern section, which I had ridden the day before, the
+As with the southern section, which I had ridden the day before, riding the
 northern section was also very challenging with a few extremely steep hills and
 some rough surface. The lowest gear on my Trek Valencia is 18 gear inches, which
 was barely sufficient for me to climb the steepest hill.
