@@ -56,3 +56,11 @@ In about fourteen months, after the folding iPhone has been on the market
 for a year, I might order one. I can wait a year to learn if the folding model
 is durable and retains its value since it is predicted to be very expensive
 (upwards of $2,000).
+
+_Added September 9, 2026_:
+
+After yesterday's announcements, the base model iPhone 18 Pro lists for $1,199,
+a $100 increase, and the iPhone 17 Pro and the iPhone 17 Pro Max are no longer
+available from Apple (although places like Best Buy, amazon,com, and the phone
+carriers still have these models for sale). The iPhone Duo, as Apple has named
+its folding phone, costs an eye-watering $1,999.
