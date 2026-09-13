@@ -24,12 +24,12 @@ For the previous day of this six-day camping trip, see
 
 Noisy and inconsiderate neighbors in a nearby campsite woke me up at about
 midnight, but my noise-canceling headphones eliminated that problem. I had
-brought these and earplugs to deal with traffic noise from nearby I-93, but I
-discovered that the traffic noise was not bothering me as much as the noisy
-neighbors. Since I was awake, I crawled out of my tent to check the sky. I had a
-good view to the north and west, and I could see the bright stars of Cassiopeia,
-Cygnus, and Lyra (with Vega); but low moonlight in the southeast washed out the
-dimmer stars.
+brought the headphones _and_ earplugs to mitigate traffic noise from nearby
+I-93, but I discovered that the traffic noise was not bothering me as much as
+the noisy neighbors. Since I was awake, I crawled out of my tent to check the
+sky. I had a good view to the north and west, and I could see the bright stars
+of Cassiopeia, Cygnus, and Lyra (with Vega); but low moonlight in the southeast
+washed out the dimmer stars.
 
 After a good sleep, I got up at 6:00 a.m. and remembered to take a photo of my
 campsite. My Zipcar was parked to the left, out of the photo. The site was
@@ -72,7 +72,7 @@ Head.
 
 During our walk, Mary showed me four kinds of maple, including
 [sugar maple](https://en.wikipedia.org/wiki/Acer_saccharum) and
-[red maple](https://en.wikipedia.org/wiki/Acer_rubrum);
+[red maple](https://en.wikipedia.org/wiki/Acer_rubrum); and
 [hobblebush](https://nhaudubon.org/plant-profile-hobblebush/), which grows
 close to the ground and trips unwary hikers. Mary's sharp eyes spotted a tiny
 frog next to the trail and many kinds of fungi. We had a close look at
@@ -86,13 +86,16 @@ view north.
 
 ## Cog Railroad to Mt. Washington Summit
 
-I drove north on U.S. Route 302 to Base Station Road, which took me to
-Marshfield Station of the [Cog Railroad](https://www.thecog.com/), which
-climbs to the top of Mt. Washington.
+After the nature walk finished at 10:30 a.m., I drove north on U.S. Route 302 to
+Base Station Road, which took me to Marshfield Station of the
+[Cog Railroad](https://www.thecog.com/),
+which climbs to the top of Mt. Washington.
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=411924170&sampleGraph=true&privacyCode=ejsrIUEQbNQbOEpbz5rYbtLzOmUYvnRr" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 ![The Cog Railroad's Marshfield Station with Mt. Washington in the Background](marshfield_station.png){:width="800" height="600" }_The Cog Railroad's Marshfield Station with Mt. Washington in the Background_
+
+![I Drank a Bottle of Liquid Steam with My Lunch](liquid_steam.png){:width="600" height="800" }_I Drank a Bottle of Liquid Steam with My Lunch_
 
 ![The Path of the Cog Railroad Up Mt. Washington](path_of_cog_railroad.png){:width="600" height="800" }_The Path of the Cog Railroad Up Mt. Washington_
 
@@ -116,12 +119,50 @@ down the rails.
 
 ![Carriage Interior](carriage_interior.png){:width="800" height="600" }_Carriage Interior_
 
-Mt. Washington Observatory: https://mountwashington.org/
+We had about forty minutes at the top of
+[Mt. Washington](https://en.wikipedia.org/wiki/Mount_Washington)
+before the trip down. I walked around the area at the summit. With an altitude
+of 6,288 feet, the mountain creates its own weather, and there were clouds
+boiling up to the east.
 
-Several photos. Schist with mica in the rocks at the top, not granite.
-The backs of the train seats are reversible so you always face in the direction the train is traveling. Back at the base station at about 2:00 p.m.
+![Clouds East of Mt. Washington)](boiling_clouds.png){:width="800" height="600" }_Clouds East of Mt. Washington_
 
-I drove back to the campground. https://ridewithgps.com/routes/57071895
+I found the Applachian Trail; the Crawford Path section descends from the top of
+Mt. Washington to the west to Crawford Notch, where the AMC Highland Center is
+located.
+
+![Crawford Path (Appalachian Trail)](crawford_path.png){:width="800" height="600" }_Crawford Path_
+
+A weather station, the
+[Mt. Washington Observatory](https://mountwashington.org/),
+is situated on top of the mountain.
+
+![Mt. Washington Summit](mt_washington_summit.png){:width="800" height="600" }_Mt. Washington Summit_
+
+The peaks of the
+[Presidential Range](https://en.wikipedia.org/wiki/Presidential_Range)
+of the
+[White Mountains](https://en.wikipedia.org/wiki/White_Mountains_(New_England))
+march away to the north. Mt. Washington has the highest summit. The Appalachian
+Trail heads north to the peaks of the Presidential Range.
+
+![The Presidential Range](presidential_range.png){:width="800" height="600" }_The Presidential Range_
+
+The rocks at the top of the mountain are not granite but
+[schist](https://en.wikipedia.org/wiki/Schist),
+a metamorphic rock that contains shiny flakes of
+[mica](https://en.wikipedia.org/wiki/Mica).
+
+![Schist with Mica](schist.png){:width="800" height="600" }_Schist with Mica_
+
+A long whistle warned us when it was time to board the train for the ride
+down. In the carriages, the backs of the train seats are reversible so
+passengers always face in the direction the train is traveling. We arrived
+back at Marshfield Station at about 2:00 p.m.
+
+I drove 26 miles back to the campground.
+
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=412801492&sampleGraph=true&privacyCode=6t5PKTK6T49sbXOePWiUc0kA6EXpCJtd" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 ## Franconia Notch Recreation Path
 
@@ -143,16 +184,16 @@ describes the trail succinctly and humorously:
 > opposite of a rail trail. I think if you go up a little further north there
 > might even be a vertical loop like in the old Hot Wheels tracks.
 
-I turned around when I reached an old auto bridge over a stream, with barriers
-blocking automobile drivers but not bicyclists or hikers. I lacked a good map
-and a cell phone signal, and I was disoriented and not sure where I was when I
-turned around. The bridge seemed like a possible remnant of old U.S. Route 3
-that had been replaced by the newer I-93 route.
+I turned around when I reached an old highway bridge over a stream, with
+barriers blocking motorized vehicles drivers but not bicyclists or hikers. I
+lacked a good map, and I was disoriented and not sure
+where I was when I turned around. The bridge seemed like a possible remnant of
+old U.S. Route 3 that had been replaced by the newer I-93 route.
 
 When I had access to a good map a couple of days later, I learned that the
 bridge crosses Lafayette Brook and that the Franconia Notch Recreation Trail
 continues for a few more miles northward. I also discovered later that there was
-a good cell phone signal at the bridge. And the parking lot near the bridge is
+a good cell phone signal at the bridge. The parking lot near the bridge is
 accessed from an exit from northbound I-93 and is located at the trailhead of
 Franconia Snomo, a snowmobile trail.
 
