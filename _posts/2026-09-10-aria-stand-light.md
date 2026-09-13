@@ -58,3 +58,7 @@ doesn't move around when I carry my cello.
 
 Another option is to carry the bag by hand, but I prefer to keep both hands free
 when I walk to my lessons. I will experiment to see what works best.
+
+_Added September 11, 2026_:
+
+I carried the bag by hand when I went to my lesson today.
