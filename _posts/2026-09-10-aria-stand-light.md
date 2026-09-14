@@ -1,6 +1,6 @@
 ---
-title: Aria Forte Stand Light
-description: "I bought an expensive but high quality stand light."
+title: Aria Forte Music Stand Light
+description: "I bought an expensive but high quality music stand light."
 date: 2026-09-10 07:18:00 -0400
 author: conrad
 categories: [Cello]
@@ -13,8 +13,8 @@ Music on paper is often hard for me to read because the lighting is not bright
 in the room I practice in at home or in the room where I take lessons at
 [New School of Music](https://www.newschoolofmusic.org).
 
-I was in quest of a good stand light, but I hadn't picked anything out yet.
-Then I listened to the
+I was in quest of a good music stand light, but I hadn't picked anything out
+yet. Then I listened to the
 [Crushing Classical](https://www.jennetingle.com/crushing-classical)
 podcast episode of September 3, 2026, in which host Jennet Ingle interviewed
 Peter Hildebrandt, a bassist and cellist who is also a serial entrepreneur and
@@ -25,7 +25,7 @@ This sounded like the ideal solution. I bought the
 [Aria Forte](https://arialights.com/product/aria-forte/)
 model, a rechargeable light that costs $220. Shipping was free.
 
-![Aria Forte Stand Light](stand_light.png){:width="800" height="600" }_Aria Forte Stand Light_
+![Aria Forte Music Stand Light](stand_light.png){:width="800" height="600" }_Aria Forte Music Stand Light_
 
 So far, I have found this stand light excellent. I have copied the full
 descripton here:
