@@ -1,6 +1,6 @@
 ---
 title: "Camping: White Mountains 2026, Day Five"
-description:
+description: Today I hiked and bicycled (again) in Franconia Notch State Park.
 date: 2026-08-27 19:47:00 -0400
 author: conrad
 categories: [Camping]
