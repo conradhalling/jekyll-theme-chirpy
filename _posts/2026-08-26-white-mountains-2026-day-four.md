@@ -26,8 +26,8 @@ of my astronomy apps on my phone would work because I did not have a cell
 signal.
 
 I slept well until 6:00 a.m., with no noisy neighbors. The campground was only
-about a third full, pretty surprising for late August with nice weather. I was
-tired of driving after the past three days, and I did not drive today.
+about a third full, pretty surprising for late August with nice weather. Tired
+of driving after the past three days, I did not drive today.
 
 ## Hike in Franconia Notch
 
