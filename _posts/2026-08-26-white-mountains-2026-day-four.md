@@ -103,47 +103,96 @@ graceful bridge.
 
 I continued north on the recreation path to the junction with the Libery Spring
 Trail (AT), which branched off to the right to climb to the top of Franconia
-Ridge. At this point, I was passed by one through-hiker heading along the AT.
+Ridge. At this point, I was passed by a single through-hiker heading north bound
+on the AT.
 
 ![Liberty Spring Trailhead](liberty_spring_trailhead.png){:width="800" height="600" }_Liberty Spring Trailhead_
 
-I continued walking north on the Franconia Notch Recreation Path to the Basin.
+I continued walking north on the Franconia Notch Recreation Path to The Basin
+of the [Pemigewasset River](https://en.wikipedia.org/wiki/Pemigewasset_River).
+I explored The Basin and the nearby Baby Flume of the Pemigewasset River,
+walking all the little trails and taking a few photos, and I ate a snack.
 
 ![Franconia Notch Recreation Path](franconia_notch_recreation_path.png){:width="800" height="600" }_Franconia Notch Recreation Path_
 
-I explored The Basin thoroughly, and I ate a snack. At about 1500 ft of elevation.
+![Baby Flume of the Pemigewasset River Near The Basin](baby_flume.png){:width="800" height="600}_Baby Flume of the Pemigewasset River Near The Basin_
 
-Photo Baby Flume, Pemigewasset River. Means swift. Flows into the Merrimac River.
+![The Basin](the_basin.png){:width="800" height="600}_The Basin_
 
-Photo: The Basin. Signs to the basin are confusing.
+![Pemigewasset River Near The Basin](pemi_river_near_the_basin.png){:width="800" height="600}_Pemigewasset River Near The Basin_
 
-Photo: upstream Pemi R.
+![Pemigewasset River Upstream of The Basin](pemi_river_upstream_of_the_basin.png){:width="800" height="600}_Pemigewasset River Upstream of The Basin_
 
-Photos: trail signs. Basin-Cascade trail heads up to AT along Cascade Brook and thence to Lonesome Lake. I took the Pemi Trail north along the Pemigewasset River. 300 feet elevation gain.
+The Pemigewasset River has its source at Profile Lake in Franconia Notch and
+flows south into the Merrimac River in Massachusetts and thence to the Atlantic
+Ocean. The
+[Saco River](https://en.wikipedia.org/wiki/Saco_River),
+which flows from its source at Saco Lake in Crawford Notch only a few miles to
+the east, and which I saw when visiting the AMC Highland Center on Monday and
+riding the Conway Scenic Railway on Tuesday, flows in a southeast direction into
+Maine and finally into the Atlantic Ocean north of the mouth of the Merrimac
+River.
 
-8.31 miles I reached the campground.
+Near The Basin, I found the junction of the Pemi Trail with the Basin-Cascade
+Trail. The Basin-Cascade Trail heads northwest up to join the Cascade Brook
+Trail (AT) that I had descended earlier in the day. The Pemi Trail runs along
+the Pemigewasset River, in the same direction as the Franconia Notch
+Recreation Trail.
 
-8.53 miles at campsite. 5 h 48 min.
+![Junction of the Basin-Cascades and Pemi Trails](junction_of_the_basin_cascades_and_pemi_trails.png){:width="800" height="600}_Junction of the Basin-Cascades and Pemi Trails_
+
+![Pemi Trail Sign](pemi_trail_sign.png){:width="800" height="600}_Pemi Trail Sign_
+
+I hiked two miles north on the Pemi Trail, which was a little overgrown, gaining
+about 300 feet in elevation, and I arrived at Lafayette Place Campground at 1:45
+p.m. When I reached my campsite, I had hiked 8.53 miles in 5 hours 45 minutes.
 
 ## Bicycle Ride in Franconia Notch
 
+At 4:15 p.m., I left on my bicycle to ride north on the
+[Franconia Notch Recreation Path](https://www.traillink.com/trail/franconia-notch-recreation-path/).
+
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=412909867&sampleGraph=true&privacyCode=PEAKBeq2etWgUFDY8RDwlrLhTxPwQDTT" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
-https://www.traillink.com/trail/franconia-notch-recreation-path/
+I took my time to explore the
+[Old Man of the Mountain Profile Plaza and Historic Site](https://www.oldmannh.org/profiler_plaza.php),
+the exterior of the nearby Old Man Museum (which had closed for the day before I
+arrived), the retired
+[Aerial Tramway](https://www.cannonmt.com/attractions/aerial-tramway)
+to the top of Cannon Mountain, and the nearby
+[New England Ski Museum](https://www.cannonmt.com/new-england-ski-museum)
+(also closed for the day).
 
-Bike ride on Franconia Notch Recreation Path.
+I continued north around
+[Profile Lake](https://en.wikipedia.org/wiki/Profile_Lake_(New_Hampshire))
+to a park with a swimming area and some RV campsites.
 
-https://ridewithgps.com/routes/57068404
+![Cliffs Near Profile Lake](cliffs_near_profile_lake.png){:width="800" height="600}_Cliffs Near Profile Lake_
 
-photo: cliffs neat Profile Lake
+I returned to the
+recreation path and rode north to the end at
+[Skookumchuck Trailhead](https://www.fs.usda.gov/r09/whitemountain/recreation/skookumchuck-trailhead),
+for a distance so far of 7.43 miles.
 
-photo: nicely maintained entrance to Old Man Museum. Imagine bike trails like this, stretching across the continent.
+At this point, my Apple Watch had only 3% charge left and I turned it off.
+Don't try to track too many activities in one day with an Apple Watch.
 
-photo: grassy field near Old Man Museum. Imagine fields like this along bike trails, for camping and other purposes.
+I discovered I had a strong cell signal, so I took advantage to do a little
+texting and download a star charts app. From Skookumchuck Trailhead, I rode
+south, returning to the campground, for 5.30 more miles, giving me a total of
+12.93 miles for the ride.
 
-I rode to the north end of the trail at Skookumchuck, and I recorded it on my watch. But my watch had 3% charge remaining, so I turned it off. It recorded 7.43 miles. Ride with GPS estimates the return ride at 5.3 miles, for a total of 12.93 miles. I took more photos.
+I admired the landscaping in Franconia Notch State Park. The following three
+views sparked my imagination in which I visualized wide, nicely groomed roads
+devoted exclusively to non-motorized transportation such as bicycles with
+adjacent grassy fields for picnicking and camping. I imagine a network of
+such trails spanning North America.
 
-I had a strong cell signal, so I downloaded Star Charts.
+![Nicely Maintained Entrance Road to the Old Man Museum](road_to_old_man_museum.png){:width="800" height="600}_Nicely Maintained Entrance Road to the Old Man Museum_
+
+![Trees and Lawn Near the Old Man Museum](trees_and_lawn_near_old_man_museum.png){:width="800" height="600}_Trees and Lawn Near the Old Man Museum_
+
+![Grass and Shrubs Along the Recreation Path](grass_and_shrubs_along_recreation_path.png){:width="800" height="600}_Grass and Shrubs Along the Recreation Path_
 
 For the fifth day of this six-day camping trip, see
 [White Mountains 2026, Day Five]( {% link _posts/2026-08-27-white-mountains-2026-day-five.md %} ).
