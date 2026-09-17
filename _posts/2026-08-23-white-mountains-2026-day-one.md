@@ -104,9 +104,10 @@ grade. Some sections are unreasonably steep.
 
 ## Evening Camping Activities
 
-After I ate dinner, there was heavy rain at 7:30 p.m. My tent is excellent, and
-I stayed dry. There is no Verizon cell service in campground. I used my Garmin
-inReach Messenger to text by satellite. I went to bed at 8:00 p.m.
+After I ate dinner, heavy rain fell for about a half hour beginning at 7:30 p.m.
+My tent is excellent, and I stayed dry. There is no Verizon cell service in
+campground. I used my Garmin inReach Messenger to text by satellite. I went to
+bed at 8:00 p.m.
 
 For the second day of this six-day camping trip, see
 [White Mountains 2026, Day Two]( {% link _posts/2026-08-24-white-mountains-2026-day-two.md %} ).
