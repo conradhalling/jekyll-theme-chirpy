@@ -1,7 +1,7 @@
 ---
 title: "Cello Lesson Number 12"
-description:
-date: 2026-09-12 10:54:00 -0400
+description: I played arpeggios and scales in D, G, and C major. We reviewed three pieces I had been practicing, and Ana introduced me to two new pieces.
+date: 2026-09-12 06:54:00 -0400
 author: conrad
 categories: [Cello]
 ---
@@ -56,17 +56,16 @@ I sight-read "Bingo".
 
 ## Assignments
 
-Work on the following pieces for my next lesson:
+I will work on the following pieces for my next lesson:
 
 -   From <cite>Suzuki Cello School Volume 1</cite>:
 
-    -   "Allegro", p. 13
-    -   "Perpetual Motion" in D major and G
-        major, pp. 14–15
+    -   "Allegro," p. 13
+    -   "Perpetual Motion" in D major and G major, pp. 14–15
     -   Tonalization, arpeggios, G major scale (p. 15)
-    -   "Long, Long Ago" on p. 16.
-    -   "Allegretto" on p. 16; start with pizzicato
+    -   "Long, Long Ago," p. 16
+    -   "Allegretto," p. 16; start with pizzicato
 
 -   From <cite>Blue Book of Tunes</cite>:
 
-    -   "Bingo" melody on p. 31
+    -   "Bingo" melody, p. 31
