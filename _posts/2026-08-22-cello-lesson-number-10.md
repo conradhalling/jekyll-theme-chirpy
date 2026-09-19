@@ -13,15 +13,15 @@ at
 
 ## Lesson Notes
 
-Ana had me work on tonalization — getting the strings to vibrate sympathetically and
-the cello to resonate.
+Ana had me work on tonalization — getting the strings to vibrate sympathetically
+and the cello to resonate.
 
 Ana guided me on bow placement. She put a marker halfway on the stick of my bow
 so I will do staccato strokes using the middle of the bow with even back and
 forth. I need to learn not to let my bow wander over the fingerboard when I'm
 reading music.
 
-From the Suzuki Cello School Volume 1 book, we played "Song of the Wind," "Go
+From <cite>Suzuki Cello School Volume 1<cite>, we played "Song of the Wind," "Go
 Tell Aunt Rhody," and "O Come, Little Children," with Ana playing the cello
 accompaniment. We played the tonalization exercise on p. 12, and Ana had me
 pay special attention to the vibrations of the cello.
@@ -43,5 +43,8 @@ father was a drummer).
 
 ## Assignments
 
-For my next lesson on Friday, September 4, Ana wants me to practice "May Song,"
-maybe "Allegro," and "Perpetual Motion" in the keys of D major and G major.
+For my next lesson on Friday, September 4, Ana wants me to practice the
+following pieces from <cite>Suzuki Cello School Volume 1</cite>:
+-   "May Song"
+-   "Allegro"
+-   "Perpetual Motion" in the keys of D major and G major
