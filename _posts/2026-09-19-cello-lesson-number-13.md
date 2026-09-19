@@ -11,7 +11,7 @@ Yesterday, September 18, 2026, I had my thirteenth cello lesson with
 at
 [New School of Music](https://www.newschoolofmusic.org).
 
-## Notes from Practice Sessions
+## Practice Session Notes
 
 For the past week I practiced "Long, Long Ago" and "Allegretto" from
 <cite>Suzuki Cello School Volume 1</cite>. These pieces are teaching me the
@@ -69,7 +69,7 @@ work on new things for the next two weeks.
 Use my iPad or iPhone to record myself playing the D major scale. Then play
 the recording while I play the scale again as a round.
 
-Work on the following pieces for my next lesson on Friday, October 2:
+Work on the following pieces for my next lesson:
 
 From <cite>Suzuki Cello School Volume 1</cite>:
 
