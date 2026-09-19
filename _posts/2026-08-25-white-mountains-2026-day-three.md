@@ -97,7 +97,7 @@ The skies were cloudy for the slow ride back to Conway. I watched the scenery,
 listened to conversations, and ate my lunch (a sandwich, whoopie pie, potato
 chips, and a bottle of water). We arrived back at North Conway at 12:53 p.m.
 
-## Exploring Pinkham Notch
+## Exploring the Valley East of Mt. Washington
 
 From North Conway, I drove north on State Route 16 east of Mt. Washington
 towards Gorham, following the
