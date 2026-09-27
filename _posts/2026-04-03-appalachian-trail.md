@@ -36,6 +36,11 @@ shuttles, hostels, towns, restaurants, etc.
 Mighty Mouse is unfailingly cheerful and grateful to be on the trail. As of the
 day of this post, Mighty Mouse has posted reports for sixteen days.
 
+_Added September 27, 2026_:
+
+Mighty Mouse has finished hiking the Appalachian Trail, actually summiting Mt.
+Katahdin on September 8, 2026.
+
 ## Checklist
 
 Checklist, the second hiker I'm following, has a YouTube channel at
@@ -46,3 +51,11 @@ stage four metastatic breast cancer.
 
 Checklist is low key and friendly with a great sense of humor. On the day of
 this post, Checklist posted about his twenty-sixth day.
+
+_Added September 27, 2026_:
+
+Checklist's mother died while he was on the trail, and he took a few weeks off,
+then skipped north to Vermont. Checklist recently summited Mt. Katahdin. In
+his videos, he is finishing Connecticut and hiking Massachusetts, after which
+he needs to return south to finish about 200 miles in Pennsylvania, New Jersey,
+and New York.
