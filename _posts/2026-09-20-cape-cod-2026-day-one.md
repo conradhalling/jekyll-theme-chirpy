@@ -22,6 +22,8 @@ back deck of a Honda Civic hatchback much easier.
 
 ## The Drive
 
+Routes 6A and 6 near the Sagamore Bridge were clogged when I arrived.
+
 ## Shawme-Crowell Campground
 
 ## Evening Camping Activities

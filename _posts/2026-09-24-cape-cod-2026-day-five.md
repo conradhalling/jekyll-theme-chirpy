@@ -24,7 +24,7 @@ Tuesday.
 Although the temperature was about 55 °F, I was a little chilly in my sleeping
 bag, which is rated for 32 °F. (I know better than to believe this.) I have a
 good inflatable sleeping pad that keeps me insulated from the ground, and I use
-a silk blend sleeping bag liner for extra warmth. I put on light hiking socks to
+a silk blend sleeping bag liner for extra warmth. I wore light hiking socks to
 keep my feet warm and a Fred Lebow Half Marathon stocking cap to keep my head
 warm. These kept me warm all night. In colder temperatures, I would add long
 polypro or wool underwear.

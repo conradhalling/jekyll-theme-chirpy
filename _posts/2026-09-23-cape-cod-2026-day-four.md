@@ -14,50 +14,110 @@ in Sandwich, Massachusetts, on Cape Cod.
 For the previous day of this five-day camping trip, see
 [Cape Cod 2026, Day Three]( {% link _posts/2026-09-22-cape-cod-2026-day-three.md %} ).
 
-## Shawme-Crowell Campground
+## Morning Activities
 
-## Bicycling
+I slept fitfully while listening to an audiobook. It was windy all night. I got
+up with the sun at 6:00 a.m. and ate my usual breakfast of muesli and granola
+with cocoa mix, an apple, and cookies. I collected my trash and took it to the
+dumpster by the picnic area. I walked from there to the shower building on E Rd.
+and took a shower — no quarters necessary! I finished changing clothes at my
+campsite and hung up my towel and pants to dry. I charged my bike lights. The
+temperature was 58 °F and mostly sunny with a strong breeze.
 
-I slept fitfully while listening to an audiobook. It was windy all night.
+Today was a day for driving to destinations too far to walk or bicycle to.
 
-Up at 6:00. Usual breakfast of muesli and granola with cocoa mix, an apple, and
-cookies. I collected trash and took it to the dumpster by the picnic area. I
-walked from there to the shower building on E Rd and took a shower. No quarters
-necessary. I finished changing clothes at my campsite and hung up my towel and
-pants to dry. I charged my bike lights.
+## Gray's Beach and Bass Hole Boardwalk
 
-It is 58 °F and mostly sunny with a strong breeze.
+I left the campsite at 9:15 a.m. I drove Route 6A east through Sandwich,
+Barnstable, and Yarmouth Port into Dennis. I had a pleasant drive through small
+New England towns. Route 6A is marked for Bike Route 1, but it is a poor choice
+for bicycling because it is narrow with little or no shoulder, it carries a lot
+of traffic, and the speed limits are typically 40 or 45 mph.
 
-I left the campsite at 9:15 a.m. I drove Route 6A through Barnstable and
-Yarmouth into Dennis, too far! I used my phone to guide me to Gray’s Beach and
-Bass Hole Boardwalk. Route 6A is marked for Bike Route 1, but it is horrible for
-biking. Narrow, no shoulder, 40 or 45 mph speed signs. Very windy at Gray’s
-beach. Nice trail and boardwalk into the salt marsh.
+Having driven too far east, I used my phone to guide me to Gray’s Beach and
+Bass Hole Boardwalk on Cape Cod Bay, where it was very windy.
 
-Photo: near Gray’s Beach
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=416087676&sampleGraph=true&privacyCode=480lIj1drRizckUpoXuG5ErXs22pWFyg" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
-I used my phone for directions to Edward Gorey House, arriving at 10:45.
+![Salt Marsh Near Gray's Beach](salt_marsh.png){:width="800" height="481"}_Salt Marsh Near Gray's Beach_
 
-Great tour. Joan needs to visit.
+## Edward Gorey House
 
-I walked to the Sandwich Glass Museum 1:45? to 3:40 at the museum. Very interesting.
+I used my phone for directions west on Route 6A to the
+[Edward Gorey House](https://edwardgoreyhouse.org/)
+on Strawberry Lane, just off Route 6A in Yarmouth Port, arriving at 10:45. I had
+made a reservation online for the 11:00 a.m. tour, but I needed to pay when I
+arrived.
 
-I charged my phone in the car.
+[Edward Gorey](https://en.wikipedia.org/wiki/Edward_Gorey)
+was the brilliant author, illustrator, and costume designer. I became aware of
+his work from the introduction to the PBS
+[Mystery!](https://en.wikipedia.org/wiki/Mystery!)
+television series in the 1980s, for which Gorey created the opening
+illustrations. Among hundreds of other books, Gorey illustrated the books of
+<cite>[A Series of Unfortunate Events](https://en.wikipedia.org/wiki/A_Series_of_Unfortunate_Events)</cite>
+by Lemony Snicket.
 
-Sandwich near Town Hall has real New England looks.
+Gorey purchased a sea captain's house in Yarmouth Port on Cape
+Cod and continued to work there until he died in 2000. The house is now
+managed by the Edward Gorey Charitable Trust.
 
-photo Shawme Lake
+![Edward Gorey House](edward_gorey_house.png){:width="800" height="600}_Edward Gorey House_
 
-photo Coyote Den Trail to campground playground
+![Topiary at Edward Gorey House](topiary.png){:width="600" height="800}_Topiary at Edward Gorey House_
 
-photo: turkeys near my campsite at 4:30 p.m.
+![One of Edward Gorey's Many Fur Coats](fur_coat.png){:width="600" height="800}_One of Edward Gorey's Many Fur Coats_
 
-I rode campground loops until 5:30.
-61 °F and mostly sunny, windy.
+Tour guests can participate in a scavenger hunt, looking for all of the
+<cite>[GashleyCrumb Tinies](https://en.wikipedia.org/wiki/The_Gashlycrumb_Tinies)</cite>.
+I paid more attention to the wide floorboards.
 
-Tired and cold, I got into my tent to read and slept 6:30–11:30. Windy, 58 °F,
-bright moon low in south, mostly cloudy, acorns falling onto car. Buzzing on
-caffeine.
+![G Is for George Smothered Under a Rug](george.png){:width="800" height="600}_G Is for George Smothered Under a Rug_
+
+## Titcomb's Bookstore
+
+Continuing to drive west, I arrived at
+[Titcomb's Bookshop](https://www.titcombsbookshop.com/)
+in East Sandwich, on Route 6A just west of the junction with Old County Road. I
+explored the entire shop and bought <cite>Agrippa</cite> by Robert Harris and
+<cite>Whistler</cite> by Ann Patchett.
+
+## Sandwich Glass Museum
+
+After driving back to the campground, I walked to the
+[Sandwich Glass Museum](https://sandwichglassmuseum.org/).
+
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=416079886&sampleGraph=true&privacyCode=0fTQUhrMWlCa6768R9WIbffb1NPexvt2" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
+I spent a couple of informative hours at the museum. A glassblower gave hourly
+demonstrations of how to create a pumpkin with a curly stem out of glass.
+
+![Table Setting Displaying Many Kinds of Glassware from Sandwich](table_setting.png){:width="800" height="600"}_Table Setting Displaying Many Kinds of Glassware from Sandwich_
+
+Sandwich near the Glass Museum and Town Hall has real New England looks.
+
+## Afternoon Activities
+
+I walked the reverse route from the glass museum back to my campsite, walking
+along Shawme Lake and on Coyote Den Trail to the campground. I encountered a
+flock of wild turkeys near my campsite.
+
+![Shawme Lake](shawme_lake.png){:width="800" height="600"}_Shawme Lake_
+
+![Coyote Den Trail](coyote_den_trail.png){:width="800" height="600"}_Coyote Den Trail_
+
+![Wild Turkeys](turkeys.png){:width="800" height="507"}_Wild Turkeys_
+
+To stretch my bicycle muscles, I rode campground loops for 3.67 miles until
+5:30, taking a photo of an old apple tree. The weather was pleasant at 61 °F
+and mostly sunny though windy.
+
+![Apple Tree](apple_tree.png){:width="800" height="600"}_Apple Tree_
+
+After I ate dinner at my campsite, I was tired and cold. I got into my sleeping
+bag to read and slept 6:30–11:30. When I woke up, it was windy and 58 °F with a
+bright moon low in south and few stars to be seen because of clouds. The wind
+was causing acorns to bounce off the hood and roof of the car, making a loud racket.
 
 For the last day of this five-day camping trip, see
 [Cape Cod 2026, Day Five]( {% link _posts/2026-09-24-cape-cod-2026-day-five.md %} ).
