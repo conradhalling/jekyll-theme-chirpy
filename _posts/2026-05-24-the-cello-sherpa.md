@@ -57,3 +57,10 @@ school, how to present a seminar, how to apply for research grants, where to do
 a post-doctoral fellowship, how to get a job in academia or industry, etc.
 
 _Added July 25, 2026:_ I finished listening to all 144 episodes today.
+
+_Added September 28, 2026:_ Joel Dallow has been interviewed by other
+podcasters, including:
+
+-   Christine Smith, host of the [Musicians vs the World](https://frostedlens.com/musicians-vs-the-world) podcast, February 6, 2022
+-   Ragnhild Wesenberg, host of [The Musician's Journey Podcast](https://www.ragnhildwesenberg.com/podcast), Season 2, Episode 9, March 16, 2023
+-   Emily Wright, host of the [Lonely Cello Podcast](https://emilywright.net/podcast/), Episode 20, April 25, 2024
