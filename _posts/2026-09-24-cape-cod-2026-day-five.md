@@ -18,24 +18,25 @@ For the previous day of this five-day camping trip, see
 
 After falling asleep very early at 6:30 p.m. Wednesday night, I woke up for
 two hours at 11:30 p.m. I went back to sleep from 1:30–6:00 a.m. for a total of
-9.5 hours of sleep. I was still very tired from my 34-mile bicycle ride on
+9.5 hours of sleep. I was still very tired from my 35-mile bicycle ride on
 Tuesday.
 
-Although the temperature was about 55 °F, I was a little chilly in my sleeping
-bag, which is rated for 32 °F. (I know better than to believe this.) I have a
-good inflatable sleeping pad that keeps me insulated from the ground, and I use
-a silk blend sleeping bag liner for extra warmth. I wore light hiking socks to
-keep my feet warm and a Fred Lebow Half Marathon stocking cap to keep my head
-warm. These kept me warm all night. In colder temperatures, I would add long
-polypro or wool underwear.
+Although the temperature was not especially cold, with a low of 55 °F, at first
+I was a little chilly in my sleeping bag, which is rated for 32 °F. (I know
+better than to believe this.) I have a good inflatable sleeping pad that keeps
+me insulated from the ground, and I use a silk blend sleeping bag liner for
+extra warmth. I put on light hiking socks to keep my feet warm and a Fred Lebow
+Half Marathon stocking cap to keep my head warm. These kept me warm all night.
+In colder temperatures, I would add long polypro or wool underwear.
 
 It was windy overnight, and because of an approaching nor'easter, I
-decided to leave a day early. I had most of my things packed by 8:15 a.m. I
-discovered that ants had gotten into my chocolate chip cookies (only three were
+decided to leave a day early. I had most of my things packed by 8:15 a.m. Ants
+had gotten into my chocolate chip cookies (only three were
 left), so I threw the cookies into the bushes for the ants to finish.
 
 Since I was not in a hurry to leave, I did some walking and bicycling. At 8:35
-a.m., I began walking on the hiking trails northwest of the campground.
+a.m., I left my campsite to walk on the hiking trails northwest of the
+campground.
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=416000850&sampleGraph=true&privacyCode=mLVSKigL3FgAnZu1AlMmCW9cwOkgANIz" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
@@ -56,7 +57,7 @@ watch said I rode 4.61 miles.
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=415995773&sampleGraph=true&privacyCode=O8omd3zh1AjscJAT8F6obtN0Iee0vG9L" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
-Exercise finished, I resumed packing. I discovered that, as long as I removed
+Exercise finished, I finished packing. I discovered that, as long as I removed
 the pedals and turned the handlebars, I could put my Trek bike in a Honda Civic
 hatchback without having to remove the front wheel. This encourages me to make
 more day trips in a car, carrying my bike to begin a ride far from my home.
@@ -92,7 +93,7 @@ took, Tremont St. and Federal Furnace Rd. into Plymouth, and State Route 3A
 heading north from Plymouth, is bikeable; but I would be unlikely to ride that
 route.
 
-I encountered very heavy stop and go traffic on State Route 3 approach Boston
+I encountered very heavy stop-and-go traffic on State Route 3 approaching Boston
 and on I-93 through Boston. After putting gas in the car, I arrived home at
 about 4:00 p.m.
 
