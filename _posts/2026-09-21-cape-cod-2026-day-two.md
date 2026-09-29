@@ -1,6 +1,6 @@
 ---
 title: "Camping: Cape Cod 2026, Day Two"
-description:
+description: "I spent four hours at Heritage Museums & Gardens. Later in the afternoon I explored Sandwich and the Cape Cod Canal Trail on my bicycle."
 date: 2026-09-21 20:13:00 -0400
 author: conrad
 categories: [Camping]
