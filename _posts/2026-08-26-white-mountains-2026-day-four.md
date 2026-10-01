@@ -194,5 +194,12 @@ such trails spanning North America.
 
 ![Grass and Shrubs Along the Recreation Path](grass_and_shrubs_along_recreation_path.png){:width="800" height="600}_Grass and Shrubs Along the Recreation Path_
 
+## Evening Camping Activities
+
+I made a dinner of canned soup with crackers. After washing up, I was in my
+sleeping bag at about 7:30 p.m.
+
+I did not drive today.
+
 For the fifth day of this six-day camping trip, see
 [White Mountains 2026, Day Five]( {% link _posts/2026-08-27-white-mountains-2026-day-five.md %} ).

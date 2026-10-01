@@ -18,8 +18,8 @@ in New Hampshire.
 ## Preparations
 
 This was my first trip to the White Mountains after living in
-New England for twenty-five years. My plan was to ride my bike, ride two trains,
-and do a little hiking.
+New England for twenty-five years. My plan for the trip was to ride my bike,
+ride two trains, and do a little hiking.
 
 I had reserved a campsite using
 [New Hampshire's reservation system at Reserve America](https://newhampshirestateparks.reserveamerica.com).
@@ -29,9 +29,9 @@ Thursday nights.
 
 I rented a Zipcar for the six days at a cost of about $700 (gas and insurance
 included). I folded down the rear seats and put my Trek Valencia hybrid
-bicycle in the back after removing the front rack and pedals. I should have
-turned the handlebars to make it easier to get the bike into the back of the
-car.
+bicycle in the back after removing the pedals and the front wheel. It would have
+been easier to get the bike into the back of the car if I had turned the
+handlebars.
 
 I packed my camping equipment that I use for bicycle touring, including my bear
 canister. Instead of freeze-dried meals, which are much lighter when hiking or
