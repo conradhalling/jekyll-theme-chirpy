@@ -133,39 +133,71 @@ chips, and a bottle of water). We arrived back at North Conway at 12:53 p.m.
 From North Conway, I drove north on State Route 16 east of Mt. Washington
 towards Gorham, following the
 [Ellis River](https://en.wikipedia.org/wiki/Ellis_River_(New_Hampshire)).
+
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=416945537&sampleGraph=true&privacyCode=C1LqGEEyNSrwSw98uszokntq4bPMjMlI" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
 At 1:45 p.m., I stopped for half an hour at the Glen Ellis Scenic Area and
 walked to Glen Ellis Falls.
 
-I continued driving north to the AMC Pinkham Notch Visitor Center, located
-on the Appalachian Trail. I walked south to
-the Lost Pond Trail and walked south to Lost Pond. Total distance maybe 1.3
-miles. I went into the center and bought some more AMC maps of the
-White Mountains.
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=416938704&sampleGraph=true&privacyCode=tWK4VpULubiMJ5r8X1W3wXxcdD5Abqwu" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
-I walked 0.5 mile of AT, then turned around. Beaver dam. Photo.
+![Ellis River](ellis_river.png){:width="600" height="800"}_Ellis River_
+
+![Glen Ellis Falls](glen_ellis_falls.png){:width="600" height="800"}_Glen Ellis Falls_
+
+I drove less than a mile north to the AMC Pinkham Notch Visitor Center, located
+on the Appalachian Trail. I walked south from the center to the Lost Pond
+Trailhead. The Lost Pond Trail passes just south of a beaver dam on the Ellis
+River; the dam creates a pond opposite the AMC center. I walked south on the
+trail to the northern end of Lost Pond.
+
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=416940746&sampleGraph=true&privacyCode=03vSpEQP1NlkUgUn06aI4sEny2dwLZk3" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
+![Lost Pond Trailhead](lost_pond_trailhead.png){:width="800" height="600"}_Lost Pond Trailhead_
+
+![Beaver Dam on the Ellis River](beaver_dam.png){:width="800" height="600"}_Beaver Dam on the Ellis River_
+
+![Lost Pond Trail](lost_pond_trail.png){:width="600" height="800"}_Lost Pond Trail_
+
+![Lost Pond](lost_pond.png){:width="800" height="600"}_Lost Pond_
+
+Returning to the center, I went in and
+bought two more AMC maps of the White Mountains.
 
 I drove to Gorham on Route 16, then west on U.S. Route 2. I found the trailhead
-of the Presidential Rail Trail a little west of Gorham.
+of the Presidential Rail Trail a little west of Gorham. I plan to come back
+in 2027 and ride the entire rail trail.
+
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=416946948&sampleGraph=true&privacyCode=CbV2m3Rv4pA9Fm2Rt2BZTQgaXygI8lrZ" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 I had a long drive back because I took U.S. Route 2 to State Route 115 to U.S.
 Route 3. But at the intersection with U.S. Route 302, I was confused by the
 signs, and I turned right onto U.S. Route 302 instead of continuing south on
 U.S. Route 3. This was the long way around to I-93, maybe ten extra miles.
 
-## Evening Camping Activities
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=416948041&sampleGraph=true&privacyCode=CRXATWoATG0WAdH511Osorz2B18jDdKG" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
-At 6:00 p.m., I rode my bicycle on all of the campground loop roads, then
-through the tunnel under I-93 to trailhead and parking area. I returned to the
-recreation path next to the campground and rode easy distances both ways, for a
-total of 4.04 miles, returning at 6:30 p.m.
+## Easy Bicycle Ride
+
+At 5:55 p.m., I rode my bicycle on all of the campground loop roads, south
+for a short distance on the recreation path, east
+through the tunnel under I-93 to the trailhead and parking area, north for a
+short distance on the recreation path, and back to my campsite, for a
+total of 4.04 miles by my watch, returning at 6:30 p.m.
+
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=416950836&sampleGraph=true&privacyCode=Gz2LDMkn1d0PykiCIn6ptIsTx3SrfvFx" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
+![Looking East Toward Franconia Ridge from Lafayette Place Campground](franconia_ridge.png){:width="800" height="600"}_Looking East Toward Franconia Ridge from Lafayette Place Campground_
+
+## Evening Camping Activities
 
 I ate canned soup and tuna for dinner, after which I washed the cans for
 recycling. I brushed my teeth and cleaned my cooking pot. I was trying to keep
 any food smells away from my camp in case of bear activity. I walked around the
-campground loop roads. I organized my equipment. While driving, I had used the
-car to charge my phone; I charged my other electronics using my energy banks. I
-studied the maps I had bought today to figure out exactly where I had been. I
-went to bed at 8:30 p.m.
+campground loop roads. I organized my equipment. While driving during the day, I
+had used the car to charge my phone; I charged my other electronics using my
+energy banks. I studied the AMC maps I had bought today to figure out exactly
+where I had been. I went to bed at 8:30 p.m.
 
 For the fourth day of this six-day camping trip, see
 [White Mountains 2026, Day Four]( {% link _posts/2026-08-26-white-mountains-2026-day-four.md %} ).
