@@ -114,8 +114,12 @@ flock of wild turkeys near my campsite.
 ![Wild Turkeys](turkeys.png){:width="800" height="507"}_Wild Turkeys_
 
 To stretch my bicycle muscles, I rode hilly campground loops for 3.67 miles
-until 5:30, taking a photo of an old apple tree. The weather was pleasant at 61
-°F and mostly sunny though windy.
+until 5:30.
+
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=416968840&sampleGraph=true&privacyCode=tGOEMfmOHeL0TPeXZDRWy2SgohqeQaP1" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
+I took a photo of an old apple tree at the picnic area. The weather was
+delightful at 61 °F and mostly sunny though windy.
 
 ![Apple Tree](apple_tree.png){:width="800" height="600"}_Apple Tree_
 
