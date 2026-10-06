@@ -1,6 +1,6 @@
 ---
 title: "Cello Lesson Number 14"
-description:
+description: "I am beginning to learn how to play slurs."
 date: 2026-10-03 08:38:00 -0400
 author: conrad
 categories: [Cello]
