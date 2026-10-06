@@ -47,9 +47,16 @@ year, and she had recently returned from a series of concerts in Japan.
 ## Steve Reich
 
 The first piece on the program was
-[Steve Reich](https://en.wikipedia.org/wiki/Steve_Reich):
-<cite>Music for Pieces of
-Wood</cite> (1973), played on, yes, _pieces of wood_ by:
+<cite>[Music for Pieces of Wood](https://stevereich.com/composition/music-for-pieces-of-wood/)</cite>
+(1973) by
+[Steve Reich](https://en.wikipedia.org/wiki/Steve_Reich),
+played on
+[claves](https://en.wikipedia.org/wiki/Claves)
+tuned to A, B, C#, D#, and D# an octave above.
+[Kolberg](https://kolberg.com/en/Claves-set-of-5-Steve-Reich/1289)
+sells a set of tuned claves specifically for this piece.
+
+The musicians were:
 
 [Robert Schulz](https://northcountrychamberplayers.org/project/schultz-robert-percussion/)\
 [Yilin Chen](https://necmusic.edu/events/recital-yilin-chen-26-mm-contemporary-musical-arts/)\
@@ -57,12 +64,10 @@ Wood</cite> (1973), played on, yes, _pieces of wood_ by:
 Bug Jaffe\
 Elfie Shi
 
-The pieces of wood are
-hollow wooden cylinders tapped with solid wood cylinders (I suppose there are
-technical names for these, but I don't know what they are). The piece starts out
-simply but quickly grows in complexity with polyrhythms that I couldn't count in
-my head. There are several recordings of this piece available as well as YouTube
-videos. Steve Reich celebrated his 90th birthday on October 3, 2026.
+The piece starts out simply but quickly grows in complexity with polyrhythms
+that I couldn't count in my head. There are several recordings and YouTube
+videos of this piece available. Steve Reich celebrated his ninetieth birthday on
+October 3, 2026.
 
 ## Francis Poulenc
 
