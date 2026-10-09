@@ -1,6 +1,6 @@
 ---
-title: "Decorated Cello at Wood & Strings in Arlington, Mass."
-description: ""
+title: "Boney Fingers"
+description: "I photographed a skeleton playing an old decorated cello at the Wood & Strings music and repair shop in Arlington, Massachusetts."
 date: 2026-10-09 08:58:00 -0400
 author: conrad
 categories: [Cello]
@@ -16,16 +16,16 @@ the [Minuteman Bikeway](https://en.wikipedia.org/wiki/Minuteman_Bikeway).
 I walked by
 [Wood & Strings](http://www.woodandstrings.com/),
 a music instrument and repair shop located at 493 Massachusetts Ave, Arlington,
-Massachusetts (although the website won't tell you that). In a show window was a
-skeleton playing an old decorated cello.
+Massachusetts (although the website won't tell you that). A show window
+displayed a skeleton playing an old decorated cello.
 
 ![Skeleton Playing an Old Decorated Cello](skeleton_playing_a_cello.png){:width="600" height="800"}_Skeleton Playing an Old Decorated Cello_
 
-I'm sorry about the reflections off the window glass. The old cello is highly
-decorated; it is set up for playing with good strings, although the hair of the
-bow is fraying. The cello is painted and decorated with drawings and
-photographs. The cello has an odd guitar-like soundhole on the front between the
-F-holes.
+The old cello is highly decorated; it is set up for playing with good strings,
+although the hair of the bow is fraying. The cello is painted and decorated with
+drawings and photographs. The cello has an odd guitar-like soundhole on the
+front between the F-holes. (I'm sorry about the reflections off the window
+glass.)
 
 ![Closer View of the Cello](cello_closeup.png){:width="600" height="800"}_Closer View of the Cello_
 
