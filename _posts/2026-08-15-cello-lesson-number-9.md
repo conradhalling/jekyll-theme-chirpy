@@ -39,7 +39,7 @@ of chamber music, and I watched quite a few YouTube videos of cellists. This
 has been helpful.
 
 Yesterday, August 14, 2026, I had my ninth cello lesson with
-[Ana Ospina](https://www.newschoolofmusic.org/faculty/ospina)
+[Ana Ospina-Edwards](https://www.newschoolofmusic.org/faculty/ospina)
 at
 [New School of Music](https://www.newschoolofmusic.org).
 

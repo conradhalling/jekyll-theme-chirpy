@@ -7,7 +7,7 @@ categories: [Cello]
 ---
 
 Yesterday, September 4, 2026, I had my eleventh cello lesson with
-[Ana Ospina](https://www.newschoolofmusic.org/faculty/ospina)
+[Ana Ospina-Edwards](https://www.newschoolofmusic.org/faculty/ospina)
 at
 [New School of Music](https://www.newschoolofmusic.org).
 

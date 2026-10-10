@@ -7,21 +7,21 @@ categories: [Cello]
 ---
 
 Yesterday, October 2, 2026, I had my fourteenth cello lesson with
-[Ana Ospina](https://www.newschoolofmusic.org/faculty/ospina)
+[Ana Ospina-Edwards](https://www.newschoolofmusic.org/faculty/ospina)
 at
 [New School of Music](https://www.newschoolofmusic.org).
 
 ## Practice Session Notes
 
 I keep a detailed practice journal, and I'm getting better at making a plan
-before each practice session. I practice on average about sixty minutes per
-day, but I need ninety minutes per day or more to cover all the material
+before each practice session. I practice on average about sixty minutes per day,
+but I feel like I need ninety minutes per day or more to cover all the material
 completely.
 
-My last lesson was two weeks ago because I went to Cape Cod for five
-days. I practiced scales with drones. I worked on trying to get more
-control of my bow. One day I recorded myself playing the D major scale, and
-I played along with it as a round.
+My last lesson was two weeks ago because I went to Cape Cod for five days. I
+practiced 6 hours 0 minutes before this lesson. I practiced scales with drones.
+I worked on trying to get more control of my bow. One day I recorded myself
+playing the D major scale, and I played along with it as a round.
 
 From <cite>Suzuki Cello School Volume 1</cite>, I practiced "Allegro,"
 "Perpetual Motion" in D major and G major, with variations, "Long, Long Ago,"
