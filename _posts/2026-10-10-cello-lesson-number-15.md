@@ -1,6 +1,6 @@
 ---
 title: "Cello Lesson Number 15"
-description: "I was introducted to second position, and my first student recital is approaching."
+description: "I was introduced to second position, and my first student recital is approaching."
 date: 2026-10-10 08:07:00 -0400
 author: conrad
 categories: [Cello]
