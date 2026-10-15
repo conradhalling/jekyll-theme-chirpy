@@ -55,6 +55,9 @@ in Cambridge, Massachusetts. In 2022 they released the album
 The duo has a
 [YouTube channel](https://www.youtube.com/@caseymurraymollytucker9293).
 
-The Hayden Stern Band played a nice mix of tunes from the album, other
-original compositions by Hayden, and some traditional tunes in a show that
-lasted an hour and forty-five minutes.
+The Hayden Stern Band played a nice mix of tunes from the album, other original
+compositions by Hayden, and some traditional tunes in a show that lasted an hour
+and forty-five minutes including a short intermission. The members of the band
+were clearly enjoying themselves, with a lot of banter and laughter. Hayden
+gave an introduction to each tune, with some interesting background stories
+about when and how some of the tunes were written.
