@@ -1,6 +1,6 @@
 ---
 title: Hilary Hahn, Seth Parker Woods, and the Boston Symphony Orchestra
-description:
+description: "I heard Hilary Hahn and Seth Parker Woods play Carlos Simon's Double Concerto with the Boston Symphony Orchestra."
 date: 2026-10-16 08:54:00 -0400
 author: conrad
 categories: [Cello]
