@@ -56,6 +56,11 @@ The orchestra itself is filled with young, skilled musicians who play
 beautifully. I look forward to attending the remaining two concerts of the
 2026/2027 season.
 
-There was a reception for the musicians after the performance, and I and at
-least one other of Ana Ospina-Edwards's cello students were able to chat with
+The person I was sitting next to introduced himself during the intermission; he
+is Larry Green, a member of the board of directors of the Boston Chamber
+Symphony. We had a nice conversation about chamber music in Boston and my
+efforts to learn cello; Larry is a lawyer who plays piano.
+
+There was a reception for the musicians after the performance, and Eli,
+another one of Ana Ospina-Edwards's cello students, and I were able to chat with
 her.
