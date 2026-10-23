@@ -4,6 +4,7 @@ description: "I heard Hilary Hahn and Seth Parker Woods play Carlos Simon's Doub
 date: 2026-10-16 08:54:00 -0400
 author: conrad
 categories: [Cello]
+media_subpath: /assets/img/2026-10-16/
 ---
 
 Last night, October 17, 2026, I attended a concert of the
@@ -21,6 +22,9 @@ The program was:
 I was seated on the main floor towards the front and left, in seat I22. This
 was close to the stage, giving me an excellent
 view of Hilary Hahn and Seth Parker Woods during the double concerto.
+
+![Symphony Hall Before the Concert](symphony_hall.png){:width="800" height="600"}_Symphony Hall Before the Concert_
+
 
 Carlos Simon's <cite>Double Concerto</cite> was "co-commissioned by the
 Boston Symphony Orchestra, Andris Nelsons, Music Director, through the generous
