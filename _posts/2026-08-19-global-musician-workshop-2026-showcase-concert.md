@@ -10,14 +10,14 @@ media_subpath: /assets/img/2026-08-19/
 It's August, so it's time for the
 [Silk Road Global Musician Workshop](https://www.silkroad.org/gmw) here in
 Boston. The workshop is organized by cellist
-[Mike Block](https://mikeblockmusic.com) and takes place at New England
-Conservatory.
+[Mike Block](https://mikeblockmusic.com) and takes place at
+[New England Conservatory](https://necmusic.org/).
 
 The workshop presents four concerts, the first by workshop faculty and the
 remaining three by the student participants. I have tickets for all four shows.
 Last night's
 [Global Musician Showcase](https://www.silkroad.org/gmw-performance-festival),
-the faculty performance, was held at
+the faculty performance, was held on Tuesday, August 18, 2026, at
 New England Conservatory’s beautiful Jordan Hall at
 30 Gainsborough Street, Boston, Massachusetts.
 
@@ -52,3 +52,7 @@ their seats.
 
 I have no concert photos because we were asked not to take photos or record
 the concert.
+
+_Added August 23, 2026_: I attended two of the three participant concerts,
+which I describe in my post
+[Silk Road Global Musican Workshop Participant Concerts]( {% link _posts/2026-08-23-global-musician-workshop-2026-participant-concerts.md %} ).
