@@ -4,6 +4,7 @@ description: I went to two of the three participant concerts of the Global Music
 date: 2026-08-23 15:16:00 -0400
 author: conrad
 categories: [Music]
+media_subpath: /assets/img/2026-08-23/
 ---
 
 The [Silk Road Global Musician Workshop](https://www.silkroad.org/gmw) presents
@@ -40,3 +41,10 @@ demonstrating great skill and creativity. The two concerts I attended were
 tremendous fun and were enthusiastically received by the audiences. The
 participant concerts ended with the participants coached by Balla Koyaté, who
 really got the dancing going.
+
+For the finale of the three participant concerts, all of the musicians walked
+onto the stage to join in the final piece. Mike Block, the director of the Silk
+Road Global Musician Workshop, is standing to the left in a blue shirt while
+playing his cello.
+
+![Grand Finale](grand_finale.png){:width="800" height="391" }_Grand Finale_
