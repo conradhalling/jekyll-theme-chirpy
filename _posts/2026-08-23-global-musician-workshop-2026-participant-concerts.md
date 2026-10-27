@@ -48,3 +48,14 @@ Road Global Musician Workshop, is standing to the left in a blue shirt while
 playing his cello.
 
 ![Grand Finale](grand_finale.png){:width="800" height="391" }_Grand Finale_
+
+_Added October 27, 2026_: Silkroad's Global Musician Workshop's YouTube channel
+has just posted the concert videos from 2026.
+
+{% include embed/youtube.html id='AN98F_qNJlQ' %}
+
+{% include embed/youtube.html id='Y3aXA547-mU' %}
+
+{% include embed/youtube.html id='GVse5ugjSqI' %}
+
+{% include embed/youtube.html id='bcVWF7SMhws' %}

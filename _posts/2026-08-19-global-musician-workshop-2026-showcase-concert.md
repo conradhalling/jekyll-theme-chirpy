@@ -56,3 +56,14 @@ the concert.
 _Added August 23, 2026_: I attended two of the three participant concerts,
 which I describe in my post
 [Silk Road Global Musican Workshop Participant Concerts]( {% link _posts/2026-08-23-global-musician-workshop-2026-participant-concerts.md %} ).
+
+_Added October 27, 2026_: Silkroad's Global Musician Workshop's YouTube channel
+has just posted the concert videos from 2026.
+
+{% include embed/youtube.html id='AN98F_qNJlQ' %}
+
+{% include embed/youtube.html id='Y3aXA547-mU' %}
+
+{% include embed/youtube.html id='GVse5ugjSqI' %}
+
+{% include embed/youtube.html id='bcVWF7SMhws' %}
