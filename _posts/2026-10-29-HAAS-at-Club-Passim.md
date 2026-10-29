@@ -1,5 +1,5 @@
 ---
-title: "HASS at Club Passim"
+title: "HAAS at Club Passim"
 description: "Last night I watched the live stream of HAAS (Natalie and Brittany Haas) performing at Club Passim in Cambridge, Massachusetts."
 date: 2026-10-29 08:16:00 -0400
 author: conrad
