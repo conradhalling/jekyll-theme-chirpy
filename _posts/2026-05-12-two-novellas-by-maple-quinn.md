@@ -52,3 +52,19 @@ at:
 -   [Blue Merle Australian Shepherd: Life Span, Size & Personality](https://timberwolfpet.com/blogs/breed-info/blue-merle-australian-shepherd)
 -   [My Thoughts on the Merle Gene in Poodles](https://millieandcominipoodles.com/the-merle-gene)
 -   [Everything You Need to Know about Merle Aussiedoodles](https://www.wisconsindesignerdoodles.com/stokeshire-doodle-puppy-blog/everything-you-need-to-know-about-merle-aussiedoodles)
+
+## Update November 2, 2026
+
+Maple Quinn's books are earning good ratings (between four and five stars on
+average). The new books are:
+
+-   <cite>Murder Among Friends</cite>
+-   <cite>Murder at the Lighthouse</cite>
+-   <cite>Murder at Water's Edge</cite>
+-   <cite>Murder at Low Tide</cite>
+-   <cite>Murder at the Harbor</cite>
+-   <cite>Murder at the Breakwater</cite>
+-   <cite>Murder at Slack Tide</cite>
+-   <cite>Murder at Spring Tide</cite>
+-   <cite>Murder at Neap Tide</cite>
+-   <cite>Murder at the Undertow</cite>
