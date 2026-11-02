@@ -44,8 +44,8 @@ well before the lesson.
 
 We played "Bow and Fiddle" and "Ode to Joy," neither of which are difficult for
 me in terms of playing the notes, but I don't play these well. When we moved on
-to "Etude," I made many mistakes, especially when bowing the slurs. Ana worked
-patiently to teach me the correct bowing for the slurs.
+to "Etude," I made many mistakes. Ana worked patiently to teach me variations
+that will help me learn and play the correct notes.
 
 Ana introduced me to extended second position and extended first position, in
 which I extend my first finger upward on the fingerboard to reach a note that is
