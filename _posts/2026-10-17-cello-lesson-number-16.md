@@ -6,7 +6,7 @@ author: conrad
 categories: [Cello]
 ---
 
-Yesterday, October 6, 2026, I had my sixteenth cello lesson with
+Yesterday, October 16, 2026, I had my sixteenth cello lesson with
 [Ana Ospina-Edwards](https://www.newschoolofmusic.org/faculty/ospina)
 at
 [New School of Music](https://www.newschoolofmusic.org).
