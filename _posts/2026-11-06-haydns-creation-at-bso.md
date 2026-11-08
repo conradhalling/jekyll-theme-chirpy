@@ -46,6 +46,9 @@ hear <cite>The Creation</cite> again, but if I have to wait twenty-eight years
 for the next performance, I will no longer be alive (I would have to live to be
 a hundred years old).
 
+Stephen Martorella reviewed the performances of <cite>The Creation</cite> in
+[The Boston Musical Intelligencer](https://classical-scene.com/2026/11/07/creation-week/).
+
 Next week, as a complement to this concert, Eric Jacobsen conducts the world
 premiere of Osvaldo Golijov’s <cite>Creation</cite>, "an evening-length BSO
 commission that includes soloists from diverse genres, two choruses, and
