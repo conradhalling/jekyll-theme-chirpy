@@ -16,9 +16,24 @@ Tanglewood Festival Chorus performed the oratorio
 by the Austrian composer
 [Joseph Haydn](https://en.wikipedia.org/wiki/Joseph_Haydn).
 
-The soloists were Louise Alder (soprano), Bogdan Volkov (tenor), and David
-Steffens (bass-baritone). The enormous Tanglewood Festival Chorus was prepared
-by BSO Director of Choruses Jean-Sébastien Vallée. Jan Swafford wrote the
+Philippe Jordan dedicated Thursday night's performance to the Swedish and
+American conductor
+[Herbert Blomstedt](https://en.wikipedia.org/wiki/Herbert_Blomstedt),
+who died on Wednesday, November 4, 2026, at the age of 99. Maestro Blomstedt
+conducted the Boston Symphony Orchestra more than forty times. I remember seeing
+him conduct the San Francisco Symphony when I was in graduate school
+at the University of California, Berkeley, in the 1980s.
+
+Part I of the oratorio tells the story of the first four days of creation, Part
+II days five and six, and Part III the joy and bliss of Adam and Eve in the
+Garden of Eden.
+
+The soloists were Louise Alder, soprano, who sang the part of the angel Gabriel
+in Parts I and II and Eve in Part III; Bogdan Volkov, tenor, who sang the part
+of the angel Uriel in Parts I and II and the narrator in Part III; and David
+Steffens, bass-baritone, who sang the part of the angel Raphael in Parts I and
+II and Adam in Part III. The enormous Tanglewood Festival Chorus was prepared by
+BSO Director of Choruses Jean-Sébastien Vallée. Jan Swafford wrote the
 informative and enlightening program notes.
 
 I had never heard <cite>The Creation</cite> before, and when I learned from
@@ -46,13 +61,22 @@ hear <cite>The Creation</cite> again, but if I have to wait twenty-eight years
 for the next performance, I will no longer be alive (I would have to live to be
 a hundred years old).
 
-Stephen Martorella reviewed the performances of <cite>The Creation</cite> in
-[The Boston Musical Intelligencer](https://classical-scene.com/2026/11/07/creation-week/).
-
 Next week, as a complement to this concert, Eric Jacobsen conducts the world
 premiere of Osvaldo Golijov’s <cite>Creation</cite>, "an evening-length BSO
 commission that includes soloists from diverse genres, two choruses, and
-original animation and projections."
+original animation and projections." I have a ticket for the performance on
+Saturday night, November 14.
+
+## Reviews
+
+Stephen Martorella reviewed the performances of <cite>The Creation</cite> in
+[Haydn’s The Creation Opens BSO Creation Week](https://classical-scene.com/2026/11/07/creation-week/)
+in [The Boston Musical Intelligencer](https://classical-scene.com/).
+
+Joseph Sedarksi's review,
+[A somber tribute sets the stage for a dramatic “Creation” with Jordan, BSO](https://bostonclassicalreview.com/2026/11/a-somber-tribute-sets-the-stage-for-haydns-creation-with-jordan-and-the-bso/),
+appeared in the
+[Boston Classical Review](https://bostonclassicalreview.com/).
 
 ## Seating in Symphony Hall
 
