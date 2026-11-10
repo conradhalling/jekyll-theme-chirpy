@@ -14,8 +14,9 @@ and playing the cello, the YouTube algorithm delivered this video:
 [Nathan Waks](https://www.octarr.com/artists/nathan-waks) is a well-known
 Australian cellist, composer, and producer who owned an
 [18th–century master cello](https://www.octarr.com/projects/carcassi-cello)
-currently believed to have been made in Florence in 1740–1760 by Lorenzo and
-Tomaso Carcassi. After playing the cello for forty years, Waks did not want to
+currently believed to have been made in Florence in 1740–1760 by
+[Lorenzo and Tomaso Carcassi](https://tarisio.com/archive/maker/1426).
+After playing the cello for forty years, Waks did not want to
 sell the cello to a collector who would lock the cello away in a vault; he
 wanted the cello to be played.
 
@@ -45,6 +46,15 @@ can be dated using
 For example, if the label in the cello states that the cello was made in 1690
 but the wood is dated by dendrochronology to 1720, then the label is proven
 false.
+
+OCTARR also produced three short videos about how Florian Leonhard evaluates a
+stringed instrument:
+
+{% include embed/youtube.html id='A4Z5mykXU_8' %}
+
+{% include embed/youtube.html id='8Yx1PWGZ4PU' %}
+
+{% include embed/youtube.html id='kWWW6eZSpkw' %}
 
 ## What to Do with My Cello?
 
