@@ -1,6 +1,6 @@
 ---
-title: Haydn's Creation played by the Boston Symphony Orchestra
-description: "I heard Joseph Haydn’s The Creation played by the Boston Symphony Orchestra conducted by Philippe Jordan."
+title: Haydn's “The Creation” played by the Boston Symphony Orchestra
+description: "I heard Joseph Haydn’s “The Creation” played by the Boston Symphony Orchestra conducted by Philippe Jordan."
 date: 2026-11-06 07:06:00 -0500
 author: conrad
 categories: [Music]
