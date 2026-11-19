@@ -3,7 +3,7 @@ title: "Viola da Gamba"
 description: "After hearing violas da gamba in concert, I have an interest in someday learning to play."
 date: 2026-11-17 12:15:00 -0500
 author: conrad
-categories: [Music]
+categories: [Cello]
 ---
 
 ## The Viola da Gamba
