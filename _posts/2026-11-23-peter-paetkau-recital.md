@@ -32,7 +32,7 @@ page of Peter's website:
 [Angélica Negrón](https://www.angelicanegron.com/) (Puerto Rico) - <cite>A Través del Manto Luminoso</cite>\
 [Johannes Brahms](https://en.wikipedia.org/wiki/Johannes_Brahms) (Germany) - <cite>[Sonata for Violin and Piano in G Major](https://en.wikipedia.org/wiki/Violin_Sonata_No._1_(Brahms))</cite>
 
-Peter, a member of
+Peter, a founding member of the chamber music collective
 [Analogue by Choice](https://www.analogbychoice.com/),
 also teaches how to listen to music, and he asked members of
 the audience to draw on paper with color pencils during the first three pieces
